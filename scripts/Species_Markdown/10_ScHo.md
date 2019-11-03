@@ -1,0 +1,7 @@
+A stunning looker, and what a delightful series of high, tinklingwhistles he sings from high in the trees. I pick a song and hear himreturn to it periodically. How many different songs does he have, Iwonder, and in what pattern does he sing them? Those calls between thesongs during the first half minute make this performance sound muchlike an energized dawn chorus singer. At 2:17 a Lewin's honeyeaterchimes in.
+
+The songs are different from any in North America, but there are justso many ways in which a repertoire of songs can be presented, and thepattern here sounds similar to that for many North American birds.
+
+♫722\_ScarletHoneyeater\_071001\_0521. October 1, 2007. Utopia, nearMount Walsh National Park, Queensland. (2:31)
+
+Play-722
