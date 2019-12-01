@@ -2,7 +2,6 @@
   // This php allows customization
   $bird = (isset($_GET['page']))? $_GET['page'] : 1;
   include "scripts/lookup_php.php";  
-  echo count($web_chapters);
 ?>
 
 
