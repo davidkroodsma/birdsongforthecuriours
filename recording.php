@@ -137,7 +137,7 @@
 			<p>Table goes here</p>
 			-->
 
-			<h5>See also <a href="#">Explore 9: Singing from the nest by cardinals and grosbeaks.</a></h5>
+			<!-- <h5>See also <a href="#">Explore 9: Singing from the nest by cardinals and grosbeaks.</a></h5> -->
 			
 			
 			<ul class="page-nav">
