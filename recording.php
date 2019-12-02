@@ -1,7 +1,9 @@
 <?php 
   // This php allows customization
   $bird = (isset($_GET['page']))? $_GET['page'] : 1;
-  include "scripts/lookup_php.php";  
+  include "scripts/lookup_php.php"; 
+  include "scripts/explore_lookup.php";  
+ 
 ?>
 
 
@@ -135,6 +137,17 @@
 			
 			<p>Table goes here</p>
 			-->
+            
+
+           <?php if($explores[$bird]!="nan"){
+
+           	$explore_numbers = explode ( ", " , $explores[$bird]);
+           	foreach ($explore_numbers as $value){
+           		echo "<h5>See also <a href=explore.php?page=";
+           		echo $value;
+           		echo ">Explore ".$titles_e[intval($value)]."</a></h5>" ;
+           	}
+           } ?>
 
 			<!-- <h5>See also <a href="#">Explore 9: Singing from the nest by cardinals and grosbeaks.</a></h5> -->
 			
