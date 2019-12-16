@@ -1,5 +1,5 @@
-Here is yet another family foreign to the Americas. With whipbirdscracking in the background, this male rufous fantail sings hishigh-pitched song almost continuously during the dawn chorus.
+Here is yet another family foreign to the Americas. With whipbirds cracking in the background, this male rufous fantail sings his high-pitched song almost continuously during the dawn chorus.
 
-♫731\_RufousFantail\_071104\_T885. November 4, 2007. Goomburra Sectionof the Main Range National Park, Queensland. (9:19)
+♫731. November 4, 2007. Goomburra Section of the Main Range National Park, Queensland. (9:18)
 
 Play-731
