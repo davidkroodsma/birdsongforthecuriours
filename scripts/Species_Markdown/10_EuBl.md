@@ -21,6 +21,6 @@ American robin with both carols and *hisselly* notes, such as ♫14, ♫15,
 or ♫16. Listen to other robins (genus *Turdus*) as you travel,
 considering how these robins have moved through evolutionary time and
 space throughout this *Turdus* lineage. April 1, 2014. Majorca, Spain.
-(9:28)
+(9:27)
 
 Play-687
