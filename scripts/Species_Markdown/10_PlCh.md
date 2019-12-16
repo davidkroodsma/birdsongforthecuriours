@@ -6,7 +6,7 @@ ear-shattering *cha-cha-lac* heard especially from awaking birds during
 early morning hours. A paired male and female duet, and the extended
 chorus from several pairs at dawn is exhilarating.
 
-♫710\_PlCh 2011Y02M15 NGR20342. In this awaking chorus, the nearby male
+♫710. In this awaking chorus, the nearby male
 starts it off with his loud, low *cha-cha-lac*, the female immediately
 responding with her higher-pitched version. He's off to the left, she to
 the right in this stereo recording. Other pairs in the background sound
