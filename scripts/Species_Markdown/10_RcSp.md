@@ -7,7 +7,7 @@ rufous-crowned sparrow? He calls, he sings, he transitions from
 immediate to eventual variety . . . It was a mighty fine dawn hour,
 beginning with a chuck-will's-widow.
 
-♫703\_RcSp\_13Y04M20-T870 -- excerpt. Here's the best segment from the
+♫703. Here's the best segment from the
 55-minute dawn recording (♫704, below), almost five minutes of superb,
 close singing by this sparrow. I love his repeated notes between the
 songs, four or five descending *dear* notes; at one point he calls 17
@@ -21,11 +21,11 @@ B A B B A B A. I skip to the last eight songs and find two others, in
 the pattern M N N M N M N N (letters chosen somewhat chosen at random).
 What did he sing in the 38 songs during the intervening three and a half
 minutes? April 20, 2013. Chaparral Wildlife Management Area, Artesia
-Wells, Texas. (4:48)
+Wells, Texas. (4:47)
 
 Play-703
 
-♫704\_RcSp\_13Y04M20-T870. The excerpt above is from 20:18 to 25:06 in
+♫704. The excerpt above is from 20:18 to 25:06 in
 this 55-minute recording, beginning when the chuck-will's-widow was
 still singing, before the sparrow had begun his day. This is a typical
 early morning recording, with me trying to follow a bird as he moves
