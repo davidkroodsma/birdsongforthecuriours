@@ -7,8 +7,7 @@ rufous-crowned sparrow? He calls, he sings, he transitions from
 immediate to eventual variety . . . It was a mighty fine dawn hour,
 beginning with a chuck-will's-widow.
 
-♫703. Here's the best segment from the
-55-minute dawn recording (♫704, below), almost five minutes of superb,
+♫703. Here's the best segment from the entire 55-minute dawn recording (♫704, below), almost five minutes of superb,
 close singing by this sparrow. I love his repeated notes between the
 songs, four or five descending *dear* notes; at one point he calls 17
 times in six seconds (beginning at 2:11). Like the dawn singing of so
@@ -18,7 +17,7 @@ conveyed by filling time between songs with calls.
 I wonder how many different songs he sings in these few minutes? I check
 out the first eight songs and find two different ones, in the pattern A
 B A B B A B A. I skip to the last eight songs and find two others, in
-the pattern M N N M N M N N (letters chosen somewhat chosen at random).
+the pattern M N N M N M N N (letters chosen somewhat at random).
 What did he sing in the 38 songs during the intervening three and a half
 minutes? April 20, 2013. Chaparral Wildlife Management Area, Artesia
 Wells, Texas. (4:47)
