@@ -1,4 +1,4 @@
-<ul class="collapser"><li> <a href="#"><i class="fas fa-plus-circle"></i> 2: Birds and Their Sounds</a>
+<ul class="collapser" ><li> <a href="#" ><i class="fas fa-plus-circle"></i> 2: Birds and Their Sounds</a>
 						<ul class="show-hide collapser">
                         <li> <a href="#"><i class="fas fa-plus-circle"></i> Birds sing and call</a>
 								<ul class="show-hide">
