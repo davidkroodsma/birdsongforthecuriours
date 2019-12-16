@@ -6,7 +6,7 @@ complexities of these songs. Immerse yourself and you'll come away with
 a whole new appreciation for these birds. Jump around as you wish, but
 perhaps it makes most sense to listen in the order that I provide. June
 8, 2012. Parker River National Wildlife Refuge, Newburyport,
-Massachusetts. Sunrise 5:05 [a.m.]{.smallcaps} (1:11:51)
+Massachusetts. Sunrise 5:05 [a.m.]{.smallcaps} 
 
 ♫698. This seaside sparrow routinely sings four different songs, but our
 ears are challenged to appreciate the differences. Here they are,
@@ -19,7 +19,7 @@ Play-698
 More details can now be heard, but it takes a good auditory memory to
 remember the differences from one song to the next. Want to hear these
 songs at even slower speeds? You know how to do that---import into Raven
-Lite and play. I personally like one-eighth speed. (0:36)
+Lite and play. I personally like one-eighth speed. (0:35)
 
 Play-699
 
@@ -27,7 +27,7 @@ Play-699
 these roughly 180 songs (I didn't count!) are six series of songs: first
 a series of A, then B, then C, D, A, and B. Be attentive at the
 following five times if you wish to challenge yourself to hear him
-switch to a new song: 0:41, 3:28, 5:42, 7:18, 13:08. (15:04)
+switch to a new song: 0:41, 3:28, 5:42, 7:18, 13:08. (15:03)
 
 Play-700
 
@@ -43,6 +43,6 @@ and 10 minutes, I announce, "OK, I need a break. I can't hold this
 parabola any longer . . ." Here is the largely unedited file from which
 the previous three recordings were taken. It's a little rough in places,
 and a neighboring seaside sparrow comes close to sing, but always, I
-believe, the focal bird is in the foreground of the recording.
+believe, the focal bird is in the foreground of the recording. (1:11:46)
 
 Play-701
