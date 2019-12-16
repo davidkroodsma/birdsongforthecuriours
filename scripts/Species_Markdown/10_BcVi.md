@@ -56,8 +56,6 @@ to 10:51. What a fascinating bird! I wonder what more I could learn
 about this vireo. Whenever this vireo sings the particular song we have
 followed, are the other songs with it always the same, too? In other
 words, is the composition of the packages stable over time? And more .
-. . Recording made from 6:51 [a.m.]{.smallcaps} to 7:08
-[a.m]{.smallcaps}.; sunrise at 7:09 [a.m.]{.smallcaps} April [17,
-2013.]{.smallcaps} (16:36)
+. . Recording made from 6:51 a.m. to 7:08 a.m.; sunrise at 7:09 a.m. April 17, 2013. (16:36)
 
 Play-709
