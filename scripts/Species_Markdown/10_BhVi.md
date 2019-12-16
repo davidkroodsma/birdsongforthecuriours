@@ -20,6 +20,6 @@ times he was too distant, other times too close. It will be a mixed
 medley of songs from that bird. The key thing was that I let the
 recorder run so that I got a continuous recording of what he was doing
 for about 13 minutes." Just how does he deliver his song repertoire?
-April 23, 2012. Lewiston, Michigan. (13:01).
+April 23, 2012. Lewiston, Michigan. (13:00).
 
 Play-705
