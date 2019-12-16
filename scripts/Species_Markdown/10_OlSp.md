@@ -14,6 +14,6 @@ a high fence. Almost a minute later, I choose to break the silence with
 a "'Morning." He responds in kind, friendly enough, eventually warning
 me to "Watch out for wetbacks" before driving off, scaring my sparrow
 off as well (but not me). April 7, 2013. Chaparral Wildlife Management
-Area, Artesia Wells, Texas. (18:47)
+Area, Artesia Wells, Texas. (19:45)
 
 Play-702
