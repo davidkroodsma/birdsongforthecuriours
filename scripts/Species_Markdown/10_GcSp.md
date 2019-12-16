@@ -14,6 +14,6 @@ different songs. The first occurs seven times until 1:15, but then a
 second, longer variant occurs at 1:25. You can hear a local
 white-crowned sparrow in the background (best heard beginning about
 1:10). Enjoy this bit of Alaska. June 15, 2015. Mile post 34, Denali
-Highway, Alaska. (2:44)
+Highway, Alaska. (2:43)
 
 Play-697
