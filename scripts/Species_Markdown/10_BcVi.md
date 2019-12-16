@@ -56,7 +56,7 @@ rendition of this song occurs at 4:55, but then it reappears from 9:49
 to 10:51. What a fascinating bird! I wonder what more I could learn
 about this vireo. Whenever this vireo sings the particular song we have
 followed, are the other songs with it always the same, too? In other
-words, is the compositioin of the packages stable over time? And more .
+words, is the composition of the packages stable over time? And more .
 . . Recording made from 6:51 [a.m.]{.smallcaps} to 7:08
 [a.m]{.smallcaps}.; sunrise at 7:09 [a.m.]{.smallcaps} April [17,
 2013.]{.smallcaps} (16:36)
