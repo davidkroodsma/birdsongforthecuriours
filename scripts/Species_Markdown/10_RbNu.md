@@ -12,7 +12,7 @@ of *yank* songs, the first (let's call it A) for about the first four
 minutes, then B for the last eight. When listening to a red-breasted
 nuthatch, it is clear that you might have to listen for some minutes
 before you hear him switch to a new version of his song. April 4, 2012.
-Rattlesnake Gutter, North Leverett, Massachusetts. ( 11:51)
+Rattlesnake Gutter, North Leverett, Massachusetts. ( 11:50)
 
 Play-688
 
@@ -21,15 +21,14 @@ later, he lowers the pitch at the one minute mark, but the rate stays
 pretty much the same. The first series of *yank* songs (call it C) is
 different from those recorded ten days earlier (A), whereas the second
 series is the same as B above. April 14, 2012. Rattlesnake Gutter, North
-Leverett, Massachusetts. (8:52)
+Leverett, Massachusetts. (8:51)
 
 Play-689
 
 ♫690. Listen here to just three songs, A, B, and C, back to back, and I
 think you'll appreciate better the potential for variation in the *yank*
-songs of this nuthatch. (0:20)
+songs of this nuthatch. (0:19)
 
 Play-690
 
-April 4 and 14, 2012, respectively. Rattlesnake Gutter, North Leverett,
-Massachusetts.
+
