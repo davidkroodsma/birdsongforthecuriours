@@ -18,7 +18,7 @@ distinctive song and then listen for it to recur. I chose the song at
 There it was again, at 0:19, with five or so other songs in between. I
 heard more than a dozen examples, but after four minutes it seemed to
 disappear. Interesting. That pattern suggests he's a package singer.
-April 12, 2013. (6:30)
+April 12, 2013. (6:29)
 
 Play-706
 
@@ -28,7 +28,7 @@ recording. There are 17 examples to 4:13, and then they disappear, never
 to be found again in the last two and a quarter minutes! Twelve of the
 17 renditions are identical to the second song in this series, with the
 other five examples being truncated or embellished. April 12, 2013.
-(1:00)
+(0:59)
 
 Play-707
 
@@ -45,7 +45,7 @@ with him, sometimes he was in the top of a tree, sometimes in a bush,
 foraging while singing. . . " I'm intrigued by the special section from
 32:32 to 34:06, where he's singing quietly and continuously. Recorded
 from about 8:50 to 9:45, with sunrise at 7:15 [a.m.]{.smallcaps} April
-[12, 2013.]{.smallcaps} (50:19)
+[12, 2013.]{.smallcaps} (50:16)
 
 Play-708
 
@@ -59,6 +59,6 @@ followed, are the other songs with it always the same, too? In other
 words, is the compositioin of the packages stable over time? And more .
 . . Recording made from 6:51 [a.m.]{.smallcaps} to 7:08
 [a.m]{.smallcaps}.; sunrise at 7:09 [a.m.]{.smallcaps} April [17,
-2013.]{.smallcaps} (16:38)
+2013.]{.smallcaps} (16:36)
 
 Play-709
