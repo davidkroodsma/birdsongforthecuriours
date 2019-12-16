@@ -5,7 +5,7 @@ singing behavior of these two birds seems indistinguishable: Songs are
 similar, both have smallish song repertoires and sing with "eventual
 variety," and neighboring males match each other's songs.
 
-♫694. Sound like a tufted titmouse? I think so,but it's not. Hear the matched
+♫694. Sound like a tufted titmouse? I think so, but it's not. Hear the matched
 countersinging, with a bird in the background singing the same song as
 the near bird? I hear (and see in Raven Lite) the distant bird at 0:04,
 0:18, 0:29, 0:35, and more. At 1:40 the foreground titmouse does what
