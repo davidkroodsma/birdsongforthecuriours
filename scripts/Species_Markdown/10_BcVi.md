@@ -44,8 +44,7 @@ Fifty-some minutes is enough . . . I followed this bird around, moved
 with him, sometimes he was in the top of a tree, sometimes in a bush,
 foraging while singing. . . " I'm intrigued by the special section from
 32:32 to 34:06, where he's singing quietly and continuously. Recorded
-from about 8:50 to 9:45, with sunrise at 7:15 [a.m.]{.smallcaps} April
-[12, 2013.]{.smallcaps} (50:16)
+from about 8:50 to 9:45, with sunrise at 7:15 a.m. April 12, 2013. (50:16)
 
 Play-708
 
