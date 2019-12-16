@@ -46,6 +46,6 @@ songs and calls, but I'm going to leave that to someone else to enjoy.
 Maybe I'll get a report back from some curious naturalist who pursued
 this project. I would enjoy that.
 
-6:18 to 7:13 [a.m]{.smallcaps}.; sunrise at 7: [07a.m]{.smallcaps}.
+6:18 to 7:13 a.m.; sunrise at 7:07 a.m.
 April 20, 2013. Chaparral Wildlife Management Area, Artesia Wells,
 Texas. (55:00)
