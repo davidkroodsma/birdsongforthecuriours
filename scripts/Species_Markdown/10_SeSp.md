@@ -6,7 +6,7 @@ complexities of these songs. Immerse yourself and you'll come away with
 a whole new appreciation for these birds. Jump around as you wish, but
 perhaps it makes most sense to listen in the order that I provide. June
 8, 2012. Parker River National Wildlife Refuge, Newburyport,
-Massachusetts. Sunrise 5:05 [a.m.]{.smallcaps} 
+Massachusetts. Sunrise 5:05 a.m. 
 
 ♫698. This seaside sparrow routinely sings four different songs, but our
 ears are challenged to appreciate the differences. Here they are,
@@ -32,12 +32,11 @@ switch to a new song: 0:41, 3:28, 5:42, 7:18, 13:08. (15:03)
 Play-700
 
 ♫701. Here's the real deal, a glimpse into the kind of listening
-experience I cherish. On this June 8, local sunrise was at 5:05
-[a.m]{.smallcaps}., and it took me a while to find and get onto my bird,
+experience I cherish. On this June 8, local sunrise was at 5:05 a.m., and it took me a while to find and get onto my bird,
 so I was somewhat disappointed that I didn't begin recording him until
-4:48 [a.m]{.smallcaps}.---I probably missed his first half hour of
+4:48 a.m.---I probably missed his first half hour of
 singing. Nevertheless, I continued for an hour and 12 minutes, until
-6:00 [a.m]{.smallcaps}. At 1 hour and 3 minutes, I announce, "There's a
+6:00 a.m.. At 1 hour and 3 minutes, I announce, "There's a
 good hour in the life of this seaside sparrow . . ." Just before an hour
 and 10 minutes, I announce, "OK, I need a break. I can't hold this
 parabola any longer . . ." Here is the largely unedited file from which
