@@ -80,15 +80,14 @@
 	  			
 	  			<li>
 					<h4><a href="search.php#explore-list"><i class="fas fa-search"></i> Explore</a></h4>
-					<p>This is some explanation text.</p>
+					<p>Explore the world of birdsong with these 77 suggestions; see the relevant book section for context.</p>
 				</li>
 			</ul><!--menu-->
 		</div>
 	</section>
 	
 	<section id="samples" class="dark">
-		<h2 class="center">Sample species from the book</h2>
-		<p class="lead center">Sample the recordings from the book blah blah this is some more interesting text about the content.</p>
+		<h2 class="center">A sample of nine species from the book</h2>		
 		<p class="small center">Click <i class="far fa-play-circle"></i> to hear a recording.
 		Click <i class="fas fa-info-circle"></i> or the species name to see the species page.
 		</p>
@@ -135,10 +134,10 @@
 				<p><em><b>Birdsong for the Curious Naturalist</b></em> is available from the following retailers:</p>
 				
 				<ul class="buy-links">
-					<li><a href="#">Barnes &amp; Noble</a></li>
-					<li><a href="#">Indie</a></li>
-					<li><a href="#">Amazon</a></li>
-					<li><a href="#">Powell's</a></li>
+					<li><a href="https://www.barnesandnoble.com/w/birdsong-for-the-curious-naturalist-donald-kroodsma/1132304327?ean=9781328919113&st=PLA&sid=BNB_ADL+Core+Generic+Books+-+Desktop+Medium&sourceId=PLAGoNA&dpid=tdtve346c&2sid=Google_c&gclid=Cj0KCQiAuefvBRDXARIsAFEOQ9FVucYZ54Er5pO_PsxqgOSNs-agI7rpfBvlonM3nLGeZ496vrleLz4aAtbkEALw_wcB">Barnes &amp; Noble</a></li>
+					<li><a href="https://www.indiebound.org/search/book?keys=birdsong+for+the+curious+naturalist">Indie</a></li>
+					<li><a href="https://www.amazon.com/gp/product/B07SZBFXR9?pf_rd_p=ab873d20-a0ca-439b-ac45-cd78f07a84d8&pf_rd_r=Y8DS8WQXNDQEMXQZT9NT">Amazon</a></li>
+					<li><a href="https://www.powells.com/searchresults?keyword=birdsong+for+the+curious+naturalist">Powell's</a></li>
 				</ul>
 			</div>
 		</div>
