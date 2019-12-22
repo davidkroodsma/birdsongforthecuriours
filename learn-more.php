@@ -37,7 +37,7 @@
 				<li><a href="search.html">Listen &amp; Explore</a></li>
 				<li><a href="page.html">Look Inside</a></li>
 				<li><a href="learn-more.html">Learn More</a></li>
-				<li><a href="page.html">Downloads</a></li>
+				<!--<li><a href="page.php">Downloads</a></li>-->
 				<li><a href="#buy-popup" class="open-modal" rel="modal:open">Buy the Book</a></li>
 			</ul>
 		</nav>
