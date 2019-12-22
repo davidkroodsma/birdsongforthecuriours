@@ -29,14 +29,14 @@
 	<![endif]-->
 	
 	<header>
-	  	<h1><a href="index.html">Birdsong <span class="script">for the</span> <br />Curious Naturalist</a></h1>
+	  	<h1><a href="index.phpt">Birdsong <span class="script">for the</span> <br />Curious Naturalist</a></h1>
 		<nav>
 			<a id="toggle-menu" href="#"><i class="fas fa-bars"></i> Menu</a>
 			<ul>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="search.html">Listen &amp; Explore</a></li>
-				<li><a href="page.html">Look Inside</a></li>
-				<li><a href="learn-more.html">Learn More</a></li>
+				<li><a href="index.phpt">Home</a></li>
+				<li><a href="search.phpt">Listen &amp; Explore</a></li>
+				<li><a href="page.php">Look Inside</a></li>
+				<li><a href="learn-more.php">Learn More</a></li>
 				<!--<li><a href="page.php">Downloads</a></li>-->
 				<li><a href="#buy-popup" class="open-modal" rel="modal:open">Buy the Book</a></li>
 			</ul>
