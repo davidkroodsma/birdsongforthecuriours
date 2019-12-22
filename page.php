@@ -1,4 +1,4 @@
- < ?php header("Location: http://www.birdsongforthecurious.com/book_sample.pdf"); ?>
+ <? php header("Location: http://www.birdsongforthecurious.com/book_sample.pdf"); ?>
 
 
 <!doctype html>
