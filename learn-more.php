@@ -29,7 +29,7 @@
 	<![endif]-->
 	
 	<header>
-	  	<h1><a href="index.phpt">Birdsong <span class="script">for the</span> <br />Curious Naturalist</a></h1>
+	  	<h1><a href="index.php">Birdsong <span class="script">for the</span> <br />Curious Naturalist</a></h1>
 		<nav>
 			<a id="toggle-menu" href="#"><i class="fas fa-bars"></i> Menu</a>
 			<ul>
