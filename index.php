@@ -60,22 +60,22 @@
 	<section id="search">
 		<div class="wrap tight">
 			<h2 class="center">Listen &amp; Explore</h2>
-			<p class="lead center">Peruse the recordings from the book blah blah this is some more interesting text about the content.</p>
+			<p class="lead center">Here are four ways you can explore *Birdsong for the Curious Naturalist*.</p>
 
 			<ul id="menu" class="front">
 				<li>
 					<h4><a href="search.php#chapter-list"><i class="fas fa-book-open"></i> Listen by Chapter</a></h4>
-					<p>This is some explanation text that tells you what you will find when you click this link. You will be able to search by chapter!</p>
+					<p>In this expanding series of chapter and subchapter titles, find the topic and then the species you’d like to learn more about.</p>
 				</li>
 	  			
 	  			<li>
 					<h4><a href="search.php#species-list"><i class="fas fa-dove"></i> Listen by Species</a></h4>
-					<p>This is some explanation text.</p>
+					<p>Find your species in this taxonomic listing and you’ll see all the sounds of that particular species in the book. </p>
 				</li>
 	  			
 				<li>	
 					<h4><a href="search.php#number-list"><i class="fas fa-hashtag"></i> Listen by Number</a></h4>
-					<p>This is some explanation text.</p>
+					<p>Using a particular sound number from the book’s text, you can easily find it here.</p>
 				</li>
 	  			
 	  			<li>
