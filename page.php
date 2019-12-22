@@ -1,5 +1,6 @@
 <?php 
-  header("http://www.birdsongforthecurious.com/book_sample.pdf");
+ // header("http://www.birdsongforthecurious.com/book_sample.pdf");
+header("http://google.com");
 ?>
 
 <!doctype html>
