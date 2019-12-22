@@ -87,8 +87,7 @@
 	</section>
 	
 	<section id="samples" class="dark">
-		<h2 class="center">Sample species from the book</h2>
-		<p class="lead center">Sample the recordings from the book blah blah this is some more interesting text about the content.</p>
+		<h2 class="center">A sample of nine species from the book</h2>		
 		<p class="small center">Click <i class="far fa-play-circle"></i> to hear a recording.
 		Click <i class="fas fa-info-circle"></i> or the species name to see the species page.
 		</p>
