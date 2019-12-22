@@ -1606,3 +1606,74 @@ ul.buy-links a {
 		page-break-after: avoid;
 	}
 }
+
+/* Eathan's updated table css */
+
+table {
+	margin: 1.5rem 0;
+	width: 100%;
+	max-width: 100%;
+	border-top:#ccc 1px solid;
+	border-bottom:#ccc 1px solid;
+	font-size: 1.125rem;
+	border-collapse: collapse;
+}
+table td,
+table th {
+  line-height: 1.75rem;
+  padding: .5rem;
+}
+table th {
+	border-bottom: 1px solid #a7a7a7;
+	border-right: 1px solid #e0e0e0;
+	text-align: left;
+	background: #ededed;
+}
+table th:first-child {
+	text-align: left;
+	padding-left:1rem;
+	border-left:#ccc 1px solid;
+}
+table th:last-child, table td:last-child {
+	border-right:#ccc 1px solid;
+}
+table td:first-child {
+	text-align: left;
+	padding-left:1rem;
+	border-left:#ccc 1px solid;
+}
+table td {
+	border-bottom:1px solid #e0e0e0;
+	border-left: 1px solid #e0e0e0;
+	background: #fafafa;
+}
+table tr:nth-child(2n) td {
+	background: #f6f6f6;
+}
+table tr:last-child td {
+	border-bottom:0;
+}
+table tr:hover td {
+	background: #f2f2f2;
+}
+
+
+/* Audio controls */
+
+audio,
+canvas,
+progress,
+video {
+  display: inline-block; /* 1 */
+  vertical-align: baseline; /* 2 */
+}
+
+audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+
+#audio {
+	margin-bottom: 2em;
+}
+
