@@ -45,8 +45,7 @@
 	
 	<section id="banner" class="internal">
 		<div class="title">
-			<h1>Learn More</h1>
-			<h2>This could be some tagline about what this page contains.</h2>
+			<h1>Learn More</h1>			
 		</div>
 	</section>
 	
