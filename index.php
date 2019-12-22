@@ -80,7 +80,7 @@
 	  			
 	  			<li>
 					<h4><a href="search.php#explore-list"><i class="fas fa-search"></i> Explore</a></h4>
-					<p>This is some explanation text.</p>
+					<p>Explore the world of birdsong with these 77 suggestions; see the relevant book section for context.</p>
 				</li>
 			</ul><!--menu-->
 		</div>
