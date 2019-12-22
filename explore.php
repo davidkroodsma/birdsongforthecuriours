@@ -49,7 +49,7 @@
 				<li><a href="search.php">Listen &amp; Explore</a></li>
 				<li><a href="page.php">Look Inside</a></li>
 				<li><a href="learn-more.php">Learn More</a></li>
-				<li><a href="page.php">Downloads</a></li>
+				<!--<li><a href="page.php">Downloads</a></li>-->
 				<li><a href="#buy-popup" class="open-modal" rel="modal:open">Buy the Book</a></li>
 			</ul>
 		</nav>
