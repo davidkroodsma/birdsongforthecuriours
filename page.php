@@ -1,3 +1,6 @@
+ < ?php header("Location: http://www.birdsongforthecurious.com/book_sample.pdf"); ?>
+
+
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
