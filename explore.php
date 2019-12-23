@@ -85,8 +85,8 @@
 					
 					<ul class="buy-links">
 						<li><a href="#">Barnes &amp; Noble</a></li>
-						<li><a href="#">Indie</a></li>
-						<li><a href="#">Amazon</a></li>
+						<li><a href="https://www.indiebound.org/search/book?keys=birdsong+for+the+curious+naturalist">Indie</a></li>
+						<li><a href="">Amazon</a></li>
 						<li><a href="#">Powell's</a></li>
 					</ul>
 				
@@ -145,7 +145,7 @@
 				
 				<ul class="buy-links">
 					<li><a href="#">Barnes &amp; Noble</a></li>
-					<li><a href="#">Indie</a></li>
+					<li><a href="https://www.indiebound.org/search/book?keys=birdsong+for+the+curious+naturalist">Indie</a></li>
 					<li><a href="#">Amazon</a></li>
 					<li><a href="#">Powell's</a></li>
 				</ul>
