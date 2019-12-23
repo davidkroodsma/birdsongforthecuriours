@@ -1,3 +1,8 @@
+<?php 
+  $expand = (isset($_GET['expand']))? $_GET['expand'] : 0;
+  $expand2 = (isset($_GET['expand2']))? $_GET['expand2'] : 0;
+?>
+
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
@@ -21,9 +26,29 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
 	
 	<script src="js/main.js"></script>
+
 	
 </head>
-<body class="search">
+
+
+<body class="search" onload="open_dropdown()">
+
+    <script language="javascript">  
+
+       function open_dropdown(){
+       	   var expand = "<?php echo $expand; ?>";
+       	   var expand2 = "<?php echo $expand2; ?>";
+           if(expand!="0"){
+              	var elmnt = document.getElementById(expand);
+           	    elmnt.click();
+           	    if(expand2!="0"){
+                  	var elmnt = document.getElementById(expand2);
+           	        elmnt.click();          	    	
+           	    }
+           	    elmnt.scrollIntoView();
+           }
+       }
+	</script>
 	  <!--[if IE]>
 	<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
 	<![endif]-->
@@ -53,8 +78,7 @@
 	
 	<section id="content">
 		<div class="sidebar">
-			<ul id="menu" class="side">
-				
+			<ul id="menu" class="side">			
 				<li class="active">
 					<a href="#chapter-list"><i class="fas fa-book-open"></i> Listen by Chapter</a>
 				</li>
@@ -98,55 +122,6 @@
 				<p>Listen by number, as referenced in the book’s text; state abbreviations are added as a prefix. Simply click on any of the 381 numbers, such as CO-280, where you’ll be whisked away to Colorado, listening to yellow-headed blackbirds.</p>
 				
 
-
-				<!--
-				<ul class="collapser">
-					<li><a href="#"><i class="fas fa-plus-circle"></i> Chapter 2: Birds and Their Sounds</a>
-						<ul class="show-hide collapser">
-							<li><a href="#"><i class="fas fa-plus-circle"></i> Birds, sing and call</a>
-								<ul class="show-hide">
-									
-									<li><a href="recording.php">Black-capped chickadee</a></li>
-									<li><a href="recording.php">White-breasted nuthatch</a></li>
-									<li><a href="recording.php">Veery</a></li>
-									<li><a href="recording.php">American robin</a></li>
-									<li><a href="recording.php">Gray catbird</a></li>
-									<li><a href="recording.php">Common yellowthroat</a></li>
-									
-								</ul>
-							</li>
-							<li><a href="#"><i class="fas fa-plus-circle"></i> Birds without a song just call</a>
-								<ul class="show-hide">
-									
-									<li><a href="recording.php">Canada goose</a></li>
-									<li><a href="recording.php">Mallard</a></li>
-									<li><a href="recording.php">Chimney swift</a></li>
-									<li><a href="recording.php">Killdeer</a></li>
-									<li><a href="recording.php">Double-crested cormorant</a></li>
-									<li><a href="recording.php">Red-shouldered hawk</a></li>
-									
-								</ul>
-							</li>
-						</ul>
-					</li>
-					<li><a href="#"><i class="fas fa-plus-circle"></i> Chapter 3: Why and How Birds Sing</a>
-						<ul class="show-hide collapser">
-							<li><a href="#"><i class="fas fa-plus-circle"></i> Why sing?</a>
-								<ul class="show-hide">
-									
-									<li><a href="recording.php">Eastern whip-poor-will, Mexican whip-poor-will</a></li>
-									<li><a href="recording.php">Virginia rail, sora</a></li>
-									<li><a href="recording.php">Brown thrasher</a></li>
-									<li><a href="recording.php">Black-throated blue warbler</a></li>
-									<li><a href="recording.php">Wild turkey</a></li>
-									<li><a href="recording.php">Dickcissel</a></li>
-									<li><a href="recording.php">Yellow-headed blackbird</a></li>
-									
-								</ul>
-							</li>
-						</ul>
-					</li>
-				</ul>-->
 				<?php require('scripts/chapter_lookup.php'); ?>
 				
 			</div><!--chapter-list-->
@@ -157,38 +132,7 @@
 				<p>Explanation text</p>
 				<?php require('scripts/species_lookup.php'); ?>
 
-				<!-- 
-				<ul class="collapser">
-					<li><a href="#"><i class="fas fa-plus-circle"></i> Ducks, geese</a>
-						<ul class="show-hide">
-							<li><em>Anatidae</em>
-								
-								<ul>
-									<li>Canada goose, <a href="recording.php">27-29</a></li>
-									<li>American wigeon, <a href="recording.php">40</a></li>
-									<li>Mallard, <a href="recording.php">30-31</a></li>
-									<li>Ruddy duck, <a href="recording.php">64</a></li>
-								</ul>
-							</li>
-						</ul>
-						
-					</li>
-					<li><a href="#"><i class="fas fa-plus-circle"></i> Quail, chicken, grouse, turkey, chachalaca</a></li>
-					<li><a href="#"><i class="fas fa-plus-circle"></i> Grebes, pigeons, doves</a></li>
-					<li><a href="#"><i class="fas fa-plus-circle"></i> Nightjars</a></li>
-					<li><a href="#"><i class="fas fa-plus-circle"></i> Thrushes</a></li>
-					<li><a href="#"><i class="fas fa-plus-circle"></i> Mockingbirds, catbirds, thrashers, starlings</a>
-						
-						<ul class="show-hide">
-							<li><em>Mimidae</em>
-								
-								<ul>
-									<li>Northern mockingbird, <a href="recording.php">238</a>, <a href="recording.php">335-342</a>, <a href="recording.php">463</a>, <a href="recording.php">516-517</a></li>
-								</ul>
-							</li>
-						</ul>
-					</li>
-				</ul> -->
+
 			</div><!--species-list-->
 			
 			
@@ -206,40 +150,6 @@
 				
                 <?php require('scripts/recording_lookup.php'); ?>
 
-				
-				<!-- <ul class="collapser">
-					
-					<li><a href="#"><i class="fas fa-plus-circle"></i> 1-26, Birds sing, and call</a>
-						
-						<ul class="show-hide">
-							<li>1-5, <a href="recording.php">Black-capped chickadee</a></li>
-							<li>6-11, <a href="recording.php">White-breasted nuthatch</a></li>
-							<li>12-13, Veery</li>
-							<li>14-21, American robin</li>
-							<li>22-23, Gray catbird</li>
-							<li>24-26, Common yellowthroat</li>
-						</ul>
-					</li>
-					<li><a href="#"><i class="fas fa-plus-circle"></i> 27-41, Birds without a song just call</a>
-					
-						<ul class="show-hide">
-							<li>27-29, Canada goose</li>
-							<li>30-31, Mallard</li>
-							<li>32, Chimney swift</li>
-							<li>33-34, Killdeer</li>
-							<li>35, Double-crested cormorant</li>
-							<li>36-38, Red-shouldered hawk</li>
-							<li>39, Red-bellied woodpecker</li>
-							<li>40, American wigeon</li>
-							<li>41, Pied-billed grebe</li>
-						</ul>
-						
-					</li>
-					<li><a href="#"><i class="fas fa-plus-circle"></i> 42-62, Female song, and duets</a></li>
-					<li><a href="#"><i class="fas fa-plus-circle"></i> 63-78, Mechanical (non-vocal) sounds</a></li>
-					<li><a href="#"><i class="fas fa-plus-circle"></i> 713-734, Extra! Extra! Bonus!--Australia</a></li>
-					
-				</ul> -->
 			</div><!--number-list-->
 			
 			
@@ -251,8 +161,6 @@
 				
 				<ul class="collapser">
 				  <?php require('scripts/explore_index.php'); ?>
-
-
 				</ul>
 			</div><!--explore-list-->
 		</div><!--#main .switcher-->

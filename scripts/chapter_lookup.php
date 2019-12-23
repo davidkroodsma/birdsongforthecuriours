@@ -1,6 +1,6 @@
-<ul class="collapser" ><li> <a href="#" ><i class="fas fa-plus-circle"></i> 2: Birds and Their Sounds</a>
+<ul class="collapser" ><li> <a href="#" id='2BirdsandTheirSounds'><i class="fas fa-plus-circle"></i> 2: Birds and Their Sounds</a>
 						<ul class="show-hide collapser">
-                        <li> <a href="#"><i class="fas fa-plus-circle"></i> Birds sing and call</a>
+                        <li> <a href="#" id = 'Birdssingandcall'><i class="fas fa-plus-circle"></i> Birds sing and call</a>
 								<ul class="show-hide">
                                 <li><a href="recording.php?page=1">Black-capped chickadee</a></li><li><a href="recording.php?page=2">White-breasted nuthatch</a></li><li><a href="recording.php?page=3">Veery</a></li><li><a href="recording.php?page=4">American robin</a></li><li><a href="recording.php?page=5">Gray catbird</a></li><li><a href="recording.php?page=6">Common yellowthroat</a></li>								</ul>
 							</li>
@@ -154,9 +154,9 @@
                                 <li><a href="recording.php?page=209">Common loon</a></li><li><a href="recording.php?page=210">Bell's vireo</a></li><li><a href="recording.php?page=211">Barn swallow</a></li><li><a href="recording.php?page=212">Cliff swallow</a></li><li><a href="recording.php?page=213">Great-tailed grackle</a></li><li><a href="recording.php?page=214">Winter wren</a></li><li><a href="recording.php?page=215">Bewick’s wren</a></li>								</ul>
 							</li>
 						</ul>
-					</li><li> <a href="#"><i class="fas fa-plus-circle"></i> 10: Additional Information</a>
+					</li><li> <a href="#" id='10AdditionalInformation'><i class="fas fa-plus-circle"></i> 10: Additional Information</a>
 						<ul class="show-hide collapser">
-                        <li> <a href="#"><i class="fas fa-plus-circle"></i> More birds! More Sounds!</a>
+                        <li> <a href="#" id="MorebirdsMoreSounds"><i class="fas fa-plus-circle"></i> More birds! More Sounds!</a>
 								<ul class="show-hide">
                                 <li><a href="recording.php?page=216">Eurasian blackbird</a></li><li><a href="recording.php?page=217">Red-breasted nuthatch</a></li><li><a href="recording.php?page=218">Common grackle</a></li><li><a href="recording.php?page=219">Black-crested titmouse</a></li><li><a href="recording.php?page=220">Blue grosbeak</a></li><li><a href="recording.php?page=221">Golden-crowned kinglet</a></li><li><a href="recording.php?page=222">Golden-crowned sparrow</a></li><li><a href="recording.php?page=223">Seaside sparrow</a></li><li><a href="recording.php?page=224">Olive sparrow</a></li><li><a href="recording.php?page=225">Rufous-crowned sparrow</a></li><li><a href="recording.php?page=226">Blue-headed vireo</a></li><li><a href="recording.php?page=227">Black-capped vireo</a></li><li><a href="recording.php?page=228">Plain chachalaca</a></li><li><a href="recording.php?page=229">Montezuma oropendola</a></li><li><a href="recording.php?page=230">Plumed whistling duck</a></li><li><a href="recording.php?page=231">Tooth-billed bowerbird</a></li><li><a href="recording.php?page=232">Green catbird</a></li><li><a href="recording.php?page=233">Red-backed fairy-wren</a></li><li><a href="recording.php?page=234">Bell miner</a></li><li><a href="recording.php?page=235">Scarlet honeyeater</a></li><li><a href="recording.php?page=236">Chowchilla</a></li><li><a href="recording.php?page=237">Eastern whipbird</a></li><li><a href="recording.php?page=238">Golden whistler</a></li><li><a href="recording.php?page=239">Rufous whistler</a></li><li><a href="recording.php?page=240">Rufous fantail</a></li><li><a href="recording.php?page=241">Willie wagtail</a></li><li><a href="recording.php?page=242">Forest raven</a></li><li><a href="recording.php?page=243">Tasmanian devil</a></li>								</ul>
 							</li>

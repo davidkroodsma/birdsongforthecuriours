@@ -1,5 +1,5 @@
 <ul class="collapser">
-					<li><a href="#"><i class="fas fa-plus-circle"></i> Ducks, geese</a>
+					<li><a href="#" id = 'Ducksgeese'><i class="fas fa-plus-circle"></i> Ducks, geese</a>
 						<ul class="show-hide">
 							<li><em> Anatidae</em>
 								
@@ -69,7 +69,7 @@
 							</li>						</ul>
 						
 					</li>
-					<li><a href="#"><i class="fas fa-plus-circle"></i> Rails, limpkin, cranes</a>
+					<li><a href="#"><i class="fas fa-plus-circle" id="Railslimpkincranes"></i> Rails, limpkin, cranes</a>
 						<ul class="show-hide">
 							<li><em> Rallidae</em>
 								

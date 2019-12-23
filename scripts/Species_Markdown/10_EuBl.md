@@ -1,6 +1,6 @@
 Our all-American robin has about 80 close relatives in the same genus
 *Turdus* throughout the world. You can find them in North and South
-America, Europe, Asia, Africa, and Australia---everywhere but
+America, Europe, Asia, Africa, and Australia--everywhere but
 Antarctica!
 
 One of these close relatives is the "blackbird" mentioned in the English
@@ -11,7 +11,7 @@ Eurasian blackbird, *Turdus merula*, who behaves and sings much like our
 North American robin, *Turdus migratorius*. Both are, for example, among
 the first birds to sing in the morning. (Note: The Eurasian blackbird is
 not in the American blackbird family Icteridae, nor is the "European
-robin" in the genus *Turdus*---common names can certainly be confusing.)
+robin" in the genus *Turdus*--common names can certainly be confusing.)
 
 Listen (♫687).What similarities do you hear in the singing of the
 American robin and the Eurasian blackbird? What differences? This

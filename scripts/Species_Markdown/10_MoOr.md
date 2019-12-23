@@ -13,7 +13,7 @@ extraordinary, and now the ending climatic note sounds like a trumpeting
 elephant.
 
 But there's more! He also "sings" a most unbirdlike sound, as if he were
-thrashing tree branches, breaking them to smithereens. What the---? How
+thrashing tree branches, breaking them to smithereens. What the--? How
 does he do that? Slow that song to quarter speed and it truly sounds
 like an elephant crashing through the forest, throwing large tree trunks
 aside with abandon. What a striking contrast between these two "songs"
