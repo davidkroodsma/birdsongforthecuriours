@@ -87,7 +87,7 @@
 						<li><a href="https://www.barnesandnoble.com/w/birdsong-for-the-curious-naturalist-donald-kroodsma/1132304327?ean=9781328919113&st=PLA&sid=BNB_ADL+Core+Generic+Books+-+Desktop+Medium&sourceId=PLAGoNA&dpid=tdtve346c&2sid=Google_c&gclid=Cj0KCQiAuefvBRDXARIsAFEOQ9FVucYZ54Er5pO_PsxqgOSNs-agI7rpfBvlonM3nLGeZ496vrleLz4aAtbkEALw_wcB">Barhttps://www.barnesandnoble.com/w/birdsong-for-the-curious-naturalist-donald-kroodsma/1132304327?ean=9781328919113&st=PLA&sid=BNB_ADL+Core+Generic+Books+-+Desktop+Medium&sourceId=PLAGoNA&dpid=tdtve346c&2sid=Google_c&gclid=Cj0KCQiAuefvBRDXARIsAFEOQ9FVucYZ54Er5pO_PsxqgOSNs-agI7rpfBvlonM3nLGeZ496vrleLz4aAtbkEALw_wcBnes &amp; Noble</a></li>
 						<li><a href="https://www.indiebound.org/search/book?keys=birdsong+for+the+curious+naturalist">Indie</a></li>
 						<li><a href="">Amazon</a></li>
-						<li><a href="#">Powell's</a></li>
+						<li><a href="https://www.powells.com/searchresults?keyword=birdsong+for+the+curious+naturalist">Powell's</a></li>
 					</ul>
 				
 			</div>
@@ -147,7 +147,7 @@
 					<li><a href="https://www.barnesandnoble.com/w/birdsong-for-the-curious-naturalist-donald-kroodsma/1132304327?ean=9781328919113&st=PLA&sid=BNB_ADL+Core+Generic+Books+-+Desktop+Medium&sourceId=PLAGoNA&dpid=tdtve346c&2sid=Google_c&gclid=Cj0KCQiAuefvBRDXARIsAFEOQ9FVucYZ54Er5pO_PsxqgOSNs-agI7rpfBvlonM3nLGeZ496vrleLz4aAtbkEALw_wcB">Barnes &amp; Noble</a></li>
 					<li><a href="https://www.indiebound.org/search/book?keys=birdsong+for+the+curious+naturalist">Indie</a></li>
 					<li><a href="#">Amazon</a></li>
-					<li><a href="#">Powell's</a></li>
+					<li><a href="https://www.powells.com/searchresults?keyword=birdsong+for+the+curious+naturalist">Powell's</a></li>
 				</ul>
 			</div>
 		</div>
