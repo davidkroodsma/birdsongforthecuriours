@@ -127,14 +127,16 @@
 				
 				<p>1) Check out the exercise prepared for The Wilson Ornithological Society, on “Recording and analysis of bird vocalizations,” by Sylvia L. Halkin and Walter J. Berry, found <a href="https://wilsonsociety.org/pubs/manual-of-field-and-laboratory-exercises-for-ornithology/">here</a>. It offers good “how to” information: How to get the best recordings you can with a smartphone, extensive and helpful notes on how to use Raven Lite for analyzing sounds, etc. Included is a useful glossary of terms (e.g., vocalization, frequency, amplitude, etc.), and a list of questions you might be able to answer about bird sounds, much like my Explore sections.</p>
 				<p>2) The Cornell Lab of Ornithology’s <a href="https://academy.allaboutbirds.org/all-about-bird-song/">“All About Birdsong”</a>, With audio and video; a game on bird identification included for 30 species. </p>
-				<p>3) On the internet you can find more bird sounds for your listening pleasure and study.
-				<a href="https://www.xeno-canto.org/">Xeno-canto</a> —  “a website dedicated to sharing bird sounds from all over the world.”		
-				<a href="https://www.macaulaylibrary.org/">The Cornell Lab of Ornithology’s Macaulay Library</a> — A rapidly growing archive of brief sound clips, as birders attach recordings to their eBird submissions. All recordings can be viewed as sonagrams. 
-				<a href="https://osuc.biosci.ohio-state.edu/blb/">The Borror Laboratory of Bioacoustics at Ohio State University</a> — “one of the oldest and most extensive . . . collections of recorded animal sounds . . . in the world . . .”
-				<a href="https://www.floridamuseum.ufl.edu/bird-sounds/ ">The Bird Sounds Database </a> at the Florida Museum of Natural History--sounds from over 3000 species of birds, all available online
-				<a href="https://sounds.bl.uk/">The British Library</a> — An extensive, eclectic collection of earth sounds, including “Environment and Nature”
-				<a href="https://academy.allaboutbirds.org/avian-vocal-behavior-sound-visualizations/">Avian Vocal Behavior—Sound Visualizations</a>. Sonagrams and accompanying sounds, illustrating Chapter 10 in the Handbook of Bird Biology, 3rd edition, from the Cornell Lab of Ornithology.
-				<a href="http://listeningtoacontinentsing.com/">The companion website</a> to my book *Listening to a Continent Sing: Birdsong by Bicycle from the Atlantic to the Pacific*, — a sample of bird sounds from North America, rich in explanation as to what you are hearing. </p>
+				<p>3) On the internet you can find more bird sounds for your listening pleasure and study.</p>
+				<ul>
+				<li><a href="https://www.xeno-canto.org/">Xeno-canto</a> —  “a website dedicated to sharing bird sounds from all over the world.”</li>		
+				<li><a href="https://www.macaulaylibrary.org/">The Cornell Lab of Ornithology’s Macaulay Library</a> — A rapidly growing archive of brief sound clips, as birders attach recordings to their eBird submissions. All recordings can be viewed as sonagrams.</li> 
+				<li><a href="https://osuc.biosci.ohio-state.edu/blb/">The Borror Laboratory of Bioacoustics at Ohio State University</a> — “one of the oldest and most extensive . . . collections of recorded animal sounds . . . in the world . . .”</li>
+				<li><a href="https://www.floridamuseum.ufl.edu/bird-sounds/ ">The Bird Sounds Database </a> at the Florida Museum of Natural History--sounds from over 3000 species of birds, all available online</li>
+				<li><a href="https://sounds.bl.uk/">The British Library</a> — havior-sound-visualizations/">Avian Vocal Behavior—Sound Visualizations</a>. Sonagrams and accompanying sounds, illustrating Chapter 10 in the Handbook of Bird Biology, 3rd edition, from the Cornell Lab of Ornithology.</li>
+				<li><a href="http://listeningtoacontinentsing.com/">The companion website</a> to my book *Listening to a Continent Sing: Birdsong by Bicycle from the Atlantic to the Pacific*, — a sample of bird sounds from North America, rich in explanation as to what you are hearing.</li> </p>
+				An extensive, eclectic collection of earth sounds, including “Environment and Nature”
+				<li><a href="https://academy.allaboutbirds.org/avian-vocal-be
 				<p>4) The following books or websites provide additional perspectives on birdsong:</p>
 				<ul>
 					<li>Constantine, M., and The Sound Approach. 2006. The Sound Approach to Birding. A guide to understanding bird sound. The Sound Approach, Poole, Dorset UK. Beautiful sonagrams, with sounds to accompany them. </li>
