@@ -127,7 +127,7 @@
 				
 				<p>1) Check out the exercise prepared for The Wilson Ornithological Society, on “Recording and analysis of bird vocalizations,” by Sylvia L. Halkin and Walter J. Berry, found <a href="https://wilsonsociety.org/pubs/manual-of-field-and-laboratory-exercises-for-ornithology/">here</a>. It offers good “how to” information: How to get the best recordings you can with a smartphone, extensive and helpful notes on how to use Raven Lite for analyzing sounds, etc. Included is a useful glossary of terms (e.g., vocalization, frequency, amplitude, etc.), and a list of questions you might be able to answer about bird sounds, much like my Explore sections.</p>
 				<p>2) The Cornell Lab of Ornithology’s <a href="https://academy.allaboutbirds.org/all-about-bird-song/">“All About Birdsong”</a>, With audio and video; a game on bird identification included for 30 species. </p>
-				<p>3) On the internet you can find more bird sounds for your listening pleasure and study.</p>
+				<p>3) On the internet you can find more bird sounds for your listening pleasure and study:</p>
 				<ul>
 				<li><a href="https://www.xeno-canto.org/">Xeno-canto</a> —  “a website dedicated to sharing bird sounds from all over the world.”</li>		
 				<li><a href="https://www.macaulaylibrary.org/">The Cornell Lab of Ornithology’s Macaulay Library</a> — A rapidly growing archive of brief sound clips, as birders attach recordings to their eBird submissions. All recordings can be viewed as sonagrams.</li> 
