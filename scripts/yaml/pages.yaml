@@ -197,7 +197,7 @@
     photo_file: Anhinga-BS-Anhinga_T0B9158
   - photo_caption: 'Female
 
-      Robert Royse'
+      Photo by Robert Royse'
     photo_file: AnHi-RR-Anhinga
   songs: '48'
   subchapter_name: Female song and duets
@@ -643,8 +643,6 @@
   pictures:
   - photo_caption: Photo by Laure Wilson Neish
     photo_file: BhCo-LW-BHCO(m)_8341
-  - photo_caption: Photo by John Van de Graaff
-    photo_file: ERROR
   songs: 125-129
   subchapter_name: Not one, but two voice boxes
   title: Brown-headed cowbird
@@ -688,7 +686,7 @@
   from_page: 43
   pictures:
   - photo_caption: Photo by Donald Kroodsma
-    photo_file: ERROR
+    photo_file: ReJu DK 1-19_4578
   songs: '135'
   subchapter_name: What birds hear
   title: Red junglefowl
@@ -910,8 +908,6 @@
   pictures:
   - photo_caption: Photo by John Van de Graaff
     photo_file: CarWr-BbJ-384-cawr-head-turn_Bos-10-04-24_8535
-  - photo_caption: Photo by John Van de Graaff
-    photo_file: ERROR
   songs: 184-187
   subchapter_name: Learned songs of songbirds, and babbling
   title: Carolina wren
@@ -1166,8 +1162,6 @@
   pictures:
   - photo_caption: Photo by Marie Read
     photo_file: NoMo-MR-NMockingbirdSing_0165_Read
-  - photo_caption: Photo by John Van de Graaff
-    photo_file: ERROR
   songs: 335-342
   subchapter_name: Mimicry
   title: Northern mockingbird
@@ -1210,7 +1204,7 @@
   filename: 5.4_BlJa
   from_page: 78
   pictures:
-  - photo_caption: OrOr-WH-Orchard_oriole_male_WH_Orchard_oriole_male_singing_WIL9447-Edit-3
+  - photo_caption: Photo by Wil Hershberger
     photo_file: BlJa-WH-20030215_Blue_jay_WH_MG_0843-1
   songs: 356-360
   subchapter_name: Mimicry
@@ -1221,7 +1215,7 @@
   filename: 6.1_LeFl
   from_page: 79
   pictures:
-  - photo_caption: OrOr-WH-Orchard_oriole_male_WH_Orchard_oriole_male_singing_WIL9447-Edit-3
+  - photo_caption: Photo by Brian E. Small
     photo_file: LeFl-BS-Least_Flycatcher_05
   songs: 361-362
   subchapter_name: Song complexity
@@ -1691,8 +1685,6 @@
   pictures:
   - photo_caption: Photo by John Van de Graaff
     photo_file: NoMo-BbJ-411a-nomo-rt-dk-TX-05-02-19_7062
-  - photo_caption: Photo by John Van de Graaff
-    photo_file: ERROR
   songs: 463-476
   subchapter_name: How birds go to roost and awake
   title: Northern mockingbird
@@ -2035,7 +2027,7 @@
   from_page: 137
   pictures:
   - photo_caption: Photo by Donald Kroodsma
-    photo_file: ReJu_DK_1-19_4578
+    photo_file: ReJu DK Bike trip to 5-13 043_1
   songs: 553-554
   subchapter_name: Each individual has its own song
   title: Red junglefowl (chicken)
@@ -2211,8 +2203,6 @@
 
       Photo by Robert Royse'
     photo_file: EaMe-RR-EMeadowlark
-  - photo_caption: Photo by John Van de Graaff
-    photo_file: ERROR
   songs: 616-629
   subchapter_name: Song changes over evolutionary time
   title: Western meadowlark, eastern meadowlark
