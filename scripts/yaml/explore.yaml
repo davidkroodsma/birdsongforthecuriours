@@ -1,0 +1,385 @@
+1:
+  a_title: 1.  Chick-a-dee calls of North American chickadees.
+  chapter: 2. Birds and Their Sounds
+  subchapter: Birds sing and call
+  x_from_page: 8
+2:
+  a_title: 2.  White-breasted nuthatch songs.
+  chapter: 2. Birds and Their Sounds
+  subchapter: Birds sing and call
+  x_from_page: 9
+3:
+  a_title: 3.  American robin songs.
+  chapter: 2. Birds and Their Sounds
+  subchapter: Birds sing and call
+  x_from_page: 11
+4:
+  a_title: 4.  Mallard quacks and rab-rabs.
+  chapter: 2. Birds and Their Sounds
+  subchapter: Birds without a song just call
+  x_from_page: 12
+5:
+  a_title: 5.  When and why do chimney swifts twitter?
+  chapter: 2. Birds and Their Sounds
+  subchapter: Birds without a song just call
+  x_from_page: 13
+6:
+  a_title: 6.  Red-shouldered hawk counting games.
+  chapter: 2. Birds and Their Sounds
+  subchapter: Birds without a song just call
+  x_from_page: 14
+7:
+  a_title: 7.  Duets by Carolina wrens and wrentits.
+  chapter: 2. Birds and Their Sounds
+  subchapter: Female song and duets
+  x_from_page: 18
+8:
+  a_title: 8.  Listening to female red-winged blackbirds.
+  chapter: 2. Birds and Their Sounds
+  subchapter: Female song and duets
+  x_from_page: 19
+9:
+  a_title: 9.  Singing from the nest by cardinals and grosbeaks.
+  chapter: 2. Birds and Their Sounds
+  subchapter: Female song and duets
+  x_from_page: 21
+10:
+  a_title: 10.  Whistling wings of mourning doves.
+  chapter: 2. Birds and Their Sounds
+  subchapter: Mechanical (non-vocal) sounds
+  x_from_page: 21
+11:
+  a_title: 11.  Peenting and VROOMing common nighthawks.
+  chapter: 2. Birds and Their Sounds
+  subchapter: Mechanical (non-vocal) sounds
+  x_from_page: 22
+12:
+  a_title: "12.  Winnows of Wilson\u2019s snipe."
+  chapter: 2. Birds and Their Sounds
+  subchapter: Mechanical (non-vocal) sounds
+  x_from_page: 23
+13:
+  a_title: "13.  The \u201Cdouble-strike\u201D of sapsuckers."
+  chapter: 2. Birds and Their Sounds
+  subchapter: Mechanical (non-vocal) sounds
+  x_from_page: 25
+14:
+  a_title: 14.  Indefatigable, bachelor males advertising for a mate.
+  chapter: 3. Why and How Birds Sing
+  subchapter: Why sing?
+  x_from_page: 28
+15:
+  a_title: 15.  Singing for more and more mates.
+  chapter: 3. Why and How Birds Sing
+  subchapter: Why sing?
+  x_from_page: 30
+16:
+  a_title: 16.  Listening for courtship songs.
+  chapter: 3. Why and How Birds Sing
+  subchapter: Courtship songs
+  x_from_page: 32
+17:
+  a_title: 17.  The puzzling case of the California thrasher.
+  chapter: 3. Why and How Birds Sing
+  subchapter: Singing in the brain
+  x_from_page: 34
+18:
+  a_title: 18.  Bird brains and special song control neurons.
+  chapter: 3. Why and How Birds Sing
+  subchapter: Singing in the brain
+  x_from_page: 36
+19:
+  a_title: 19.  Memories of birds and human listeners.
+  chapter: 3. Why and How Birds Sing
+  subchapter: Singing in the brain
+  x_from_page: 37
+20:
+  a_title: 20.  Seeing the two voices of birds in sonagrams.
+  chapter: 3. Why and How Birds Sing
+  subchapter: Not one, but two voice boxes
+  x_from_page: 41
+21:
+  a_title: 21.  Playing songs at slower speeds, lower frequencies.
+  chapter: 3. Why and How Birds Sing
+  subchapter: What birds hear
+  x_from_page: 43
+22:
+  a_title: 22.  No dialects in the innate songs of flycatchers, doves, etc. .
+  chapter: 4. How a Bird Gets Its Song
+  subchapter: Inborn songs
+  x_from_page: 47
+23:
+  a_title: 23.  Improvised songs of red-eyed vireos.
+  chapter: 4. How a Bird Gets Its Song
+  subchapter: Improvised songs
+  x_from_page: 48
+24:
+  a_title: 24.  The practice singing of young songbirds.
+  chapter: 4. How a Bird Gets Its Song
+  subchapter: Learned songs of songbirds, and babbling
+  x_from_page: 52
+25:
+  a_title: 25.  Listening for practice singing during spring.
+  chapter: 4. How a Bird Gets Its Song
+  subchapter: Learned songs of songbirds, and babbling
+  x_from_page: 55
+26:
+  a_title: 26.  Neighboring male songbirds learn from each other.
+  chapter: 5. More about Song Learning
+  subchapter: 'Big decisions: When, where, and from whom to learn'
+  x_from_page: 58
+27:
+  a_title: 27.  Call matching by ravens, jays, and other corvids.
+  chapter: 5. More about Song Learning
+  subchapter: Song (and call) matching
+  x_from_page: 59
+28:
+  a_title: 28.  Song matching by neighboring western male marsh wrens.
+  chapter: 5. More about Song Learning
+  subchapter: Song (and call) matching
+  x_from_page: 61
+29:
+  a_title: 29.  Song matching by titmice.
+  chapter: 5. More about Song Learning
+  subchapter: Song (and call) matching
+  x_from_page: 63
+30:
+  a_title: 30.  Dialects in black-capped chickadee songs.
+  chapter: 5. More about Song Learning
+  subchapter: Song (and call) dialects
+  x_from_page: 65
+31:
+  a_title: 31.  Bicycling among dickcissel song dialects.
+  chapter: 5. More about Song Learning
+  subchapter: Song (and call) dialects
+  x_from_page: 66
+32:
+  a_title: 32.  A road-trip through white-throated sparrow song dialects.
+  chapter: 5. More about Song Learning
+  subchapter: Song (and call) dialects
+  x_from_page: 68
+33:
+  a_title: 33.  Call matching by male red-winged blackbirds.
+  chapter: 5. More about Song Learning
+  subchapter: Song (and call) dialects
+  x_from_page: 71
+34:
+  a_title: 34.  Mockingbird mimicry.
+  chapter: 5. More about Song Learning
+  subchapter: Mimicry
+  x_from_page: 75
+35:
+  a_title: 35.  Tuning your ears to hear mimicry.
+  chapter: 5. More about Song Learning
+  subchapter: Mimicry
+  x_from_page: 77
+36:
+  a_title: 36.  Scaling song complexity.
+  chapter: 6. Song Learning Often Creates Complex Songs and Large Repertoires
+  subchapter: Song complexity
+  x_from_page: 83
+37:
+  a_title: 37.  How phoebes use their two to three songs.
+  chapter: 6. Song Learning Often Creates Complex Songs and Large Repertoires
+  subchapter: Small to large repertoires
+  x_from_page: 85
+38:
+  a_title: 38.  Songs of ruby-crowned kinglets.
+  chapter: 6. Song Learning Often Creates Complex Songs and Large Repertoires
+  subchapter: Small to large repertoires
+  x_from_page: 86
+39:
+  a_title: 39.  Seeing the magnificence of hermit thrush songs.
+  chapter: 6. Song Learning Often Creates Complex Songs and Large Repertoires
+  subchapter: Small to large repertoires
+  x_from_page: 89
+40:
+  a_title: 40.  Getting to know song repertoires of individual birds.
+  chapter: 6. Song Learning Often Creates Complex Songs and Large Repertoires
+  subchapter: Small to large repertoires
+  x_from_page: 90
+41:
+  a_title: 41.  Patience in listening to songs of a brown thrasher.
+  chapter: 6. Song Learning Often Creates Complex Songs and Large Repertoires
+  subchapter: Small to large repertoires
+  x_from_page: 94
+42:
+  a_title: 42.  Once you are attuned, every singing bird becomes interesting.
+  chapter: 6. Song Learning Often Creates Complex Songs and Large Repertoires
+  subchapter: How a repertoire is delivered
+  x_from_page: 97
+43:
+  a_title: 43.  Song packages of the Philadelphia vireo.
+  chapter: 6. Song Learning Often Creates Complex Songs and Large Repertoires
+  subchapter: How a repertoire is delivered
+  x_from_page: 100
+44:
+  a_title: 44.  Listening for chat song packages.
+  chapter: 6. Song Learning Often Creates Complex Songs and Large Repertoires
+  subchapter: How a repertoire is delivered
+  x_from_page: 101
+45:
+  a_title: 45.  Song packages of yellow-throated vireos.
+  chapter: 6. Song Learning Often Creates Complex Songs and Large Repertoires
+  subchapter: How a repertoire is delivered
+  x_from_page: 101
+46:
+  a_title: 46.  Listening for patterns in how songbirds present their song repertoires.
+  chapter: 6. Song Learning Often Creates Complex Songs and Large Repertoires
+  subchapter: How a repertoire is delivered
+  x_from_page: 103
+47:
+  a_title: 47. What do songless songbirds do during the dawn chorus?
+  chapter: 6. Song Learning Often Creates Complex Songs and Large Repertoires
+  subchapter: What? "Songbirds" with no song?
+  x_from_page: 107
+48:
+  a_title: "48. Dawn calling choruses in Swainson\u2019s thrushes and veeries."
+  chapter: '7. When to Sing, and How '
+  subchapter: How birds go to roost and awake
+  x_from_page: 111
+49:
+  a_title: 49. Mockingbird calls at dusk and dawn.
+  chapter: '7. When to Sing, and How '
+  subchapter: How birds go to roost and awake
+  x_from_page: 111
+50:
+  a_title: "50. Cardinals awaking\u201413 mornings to explore!"
+  chapter: '7. When to Sing, and How '
+  subchapter: How birds go to roost and awake
+  x_from_page: 112
+51:
+  a_title: 51. Exploring horned lark singing with Raven Lite.
+  chapter: '7. When to Sing, and How '
+  subchapter: Energized dawn singing
+  x_from_page: 115
+52:
+  a_title: 52. Warbler dawn choruses are special.
+  chapter: '7. When to Sing, and How '
+  subchapter: Energized dawn singing
+  x_from_page: 116
+53:
+  a_title: 53. Individuality among red-winged blackbirds.
+  chapter: '7. When to Sing, and How '
+  subchapter: Energized dawn singing
+  x_from_page: 119
+54:
+  a_title: 54. An extreme blackbird challenge for you!
+  chapter: '7. When to Sing, and How '
+  subchapter: Energized dawn singing
+  x_from_page: 120
+55:
+  a_title: "55. The thrill of dawn-singing Brewer\u2019s sparrows."
+  chapter: '7. When to Sing, and How '
+  subchapter: Energized dawn singing
+  x_from_page: 122
+56:
+  a_title: 56. You can unravel the case of clay-colored sparrows.
+  chapter: '7. When to Sing, and How '
+  subchapter: Energized dawn singing
+  x_from_page: 123
+57:
+  a_title: 57. Choose your own dawn chorus experience.
+  chapter: '7. When to Sing, and How '
+  subchapter: Energized dawn singing
+  x_from_page: 123
+58:
+  a_title: 58. Night singers!
+  chapter: '7. When to Sing, and How '
+  subchapter: Night singing
+  x_from_page: 124
+59:
+  a_title: 59. Owling.
+  chapter: '7. When to Sing, and How '
+  subchapter: Night singing
+  x_from_page: 125
+60:
+  a_title: 60. Purple martin song flights.
+  chapter: '7. When to Sing, and How '
+  subchapter: Night singing
+  x_from_page: 127
+61:
+  a_title: 61. Sage thrasher songs, through the night.
+  chapter: '7. When to Sing, and How '
+  subchapter: Night singing
+  x_from_page: 127
+62:
+  a_title: 62. Flight songs of ovenbirds.
+  chapter: '7. When to Sing, and How '
+  subchapter: Night singing
+  x_from_page: 129
+63:
+  a_title: 63. Get to know the American woodcock.
+  chapter: '7. When to Sing, and How '
+  subchapter: Songs and calls in flight
+  x_from_page: 131
+64:
+  a_title: 64. Dawn song flights of tree swallows.
+  chapter: '7. When to Sing, and How '
+  subchapter: Songs and calls in flight
+  x_from_page: 133
+65:
+  a_title: '65. Prairie flight songs. '
+  chapter: '7. When to Sing, and How '
+  subchapter: Songs and calls in flight
+  x_from_page: 135
+66:
+  a_title: 66. Just when do birds sing in flight?
+  chapter: '7. When to Sing, and How '
+  subchapter: Songs and calls in flight
+  x_from_page: 136
+67:
+  a_title: 67. Recognizing individuals by their songs.
+  chapter: 8. How Songs Change over Space and Time
+  subchapter: Each individual has its own song
+  x_from_page: 140
+68:
+  a_title: 68. Discovering new species by their songs.
+  chapter: 8. How Songs Change over Space and Time
+  subchapter: Each species has its own song
+  x_from_page: 142
+69:
+  a_title: "69. Just what is a \u201Cspecies\u201D?"
+  chapter: 8. How Songs Change over Space and Time
+  subchapter: Each species has its own song
+  x_from_page: 146
+70:
+  a_title: 70. The joy of western meadowlark songs.
+  chapter: 8. How Songs Change over Space and Time
+  subchapter: Song changes over evolutionary time
+  x_from_page: 151
+71:
+  a_title: 71. Song changes over evolutionary time.
+  chapter: 8. How Songs Change over Space and Time
+  subchapter: Song changes over evolutionary time
+  x_from_page: 152
+72:
+  a_title: 72. The curious case of pitch-shifting black-capped chickadees.
+  chapter: 9. Music to Our Ears
+  subchapter: The music in birdsong
+  x_from_page: 156
+73:
+  a_title: 73. Themes and variations in birdsong.
+  chapter: 9. Music to Our Ears
+  subchapter: The music in birdsong
+  x_from_page: 158
+74:
+  a_title: 74. Exploring birdsong with human musicians.
+  chapter: 9. Music to Our Ears
+  subchapter: The music in birdsong
+  x_from_page: 160
+75:
+  a_title: '75. Birdsong and musicality. '
+  chapter: 9. Music to Our Ears
+  subchapter: More music to our ears
+  x_from_page: 164
+76:
+  a_title: 76. Get to know this wren!
+  chapter: 9. Music to Our Ears
+  subchapter: "Music to my ears\u2014author's choice"
+  x_from_page: 168
+77:
+  a_title: 77. Develop your own list of favored musicians.
+  chapter: 9. Music to Our Ears
+  subchapter: "Music to my ears\u2014author's choice"
+  x_from_page: 168

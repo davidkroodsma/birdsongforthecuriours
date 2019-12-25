@@ -1,0 +1,1128 @@
+- bird_name: Canada goose
+  family: Anatidae
+  group: Ducks, geese
+  songs:
+  - 27-29
+- bird_name: American wigeon
+  family: Anatidae
+  group: Ducks, geese
+  songs:
+  - '40'
+- bird_name: Mallard
+  family: Anatidae
+  group: Ducks, geese
+  songs:
+  - 30-31
+- bird_name: Ruddy duck
+  family: Anatidae
+  group: Ducks, geese
+  songs:
+  - '64'
+- bird_name: Plain chachalaca
+  family: Cracidae
+  group: Quail, chicken, grouse, turkey, chachalaca
+  songs:
+  - '710'
+- bird_name: Northern bobwhite
+  family: Odontophoridae
+  group: Quail, chicken, grouse, turkey, chachalaca
+  songs:
+  - '136'
+- bird_name: California quail
+  family: Odontophoridae
+  group: Quail, chicken, grouse, turkey, chachalaca
+  songs:
+  - '112'
+- bird_name: Red junglefowl
+  family: Odontophoridae
+  group: Quail, chicken, grouse, turkey, chachalaca
+  songs:
+  - '135'
+  - 553-554
+- bird_name: Ruffed grouse
+  family: Phasianidae
+  group: Quail, chicken, grouse, turkey, chachalaca
+  songs:
+  - 573-575
+- bird_name: Wild turkey
+  family: Phasianidae
+  group: Quail, chicken, grouse, turkey, chachalaca
+  songs:
+  - '86'
+- bird_name: Pied-billed grebe
+  family: Podicipedidae
+  group: Grebes, pigeons, doves
+  songs:
+  - '41'
+- bird_name: Rock pigeon
+  family: Columbidae
+  group: Grebes, pigeons, doves
+  songs:
+  - '134'
+- bird_name: Eurasian collared dove
+  family: Columbidae
+  group: Grebes, pigeons, doves
+  songs:
+  - '139'
+- bird_name: Mourning dove
+  family: Columbidae
+  group: Grebes, pigeons, doves
+  songs:
+  - '63'
+  - 137-138
+- bird_name: Common nighthawk
+  family: Caprimulgidae
+  group: Nightjars
+  songs:
+  - '65'
+- bird_name: Chuck-will's-widow
+  family: Caprimulgidae
+  group: Nightjars
+  songs:
+  - 509-510
+- bird_name: Eastern whip-poor-will
+  family: Caprimulgidae
+  group: Nightjars
+  songs:
+  - 79-81
+- bird_name: Mexican whip-poor-will
+  family: Caprimulgidae
+  group: Nightjars
+  songs:
+  - 79-81
+- bird_name: Chimney Swift
+  family: Apodidae
+  group: Swifts, hummingbirds
+  songs:
+  - '32'
+- bird_name: Anna's hummingbird
+  family: Trochilidae
+  group: Swifts, hummingbirds
+  songs:
+  - 315-324
+- bird_name: Broad-tailed hummingbird
+  family: Trochilidae
+  group: Swifts, hummingbirds
+  songs:
+  - 66-67
+- bird_name: Virginia rail
+  family: Rallidae
+  group: Rails, limpkin, cranes
+  songs:
+  - 82-83
+- bird_name: Sora
+  family: Rallidae
+  group: Rails, limpkin, cranes
+  songs:
+  - 82-83
+- bird_name: Limpkin
+  family: Aramidae
+  group: Rails, limpkin, cranes
+  songs:
+  - '512'
+- bird_name: Sandhill crane
+  family: Gruidae
+  group: Rails, limpkin, cranes
+  songs:
+  - 42-46
+- bird_name: Killdeer
+  family: Charadriidae
+  group: Shorebirds, gulls
+  songs:
+  - 33-34
+- bird_name: Upland sandpiper
+  family: Scolopacidae
+  group: Shorebirds, gulls
+  songs:
+  - 668-669
+- bird_name: Long-billed curlew
+  family: Scolopacidae
+  group: Shorebirds, gulls
+  songs:
+  - 343-346
+- bird_name: American woodcock
+  family: Scolopacidae
+  group: Shorebirds, gulls
+  songs:
+  - '536'
+- bird_name: Wilson's snipe
+  family: Scolopacidae
+  group: Shorebirds, gulls
+  songs:
+  - '68'
+- bird_name: Willet
+  family: Scolopacidae
+  group: Shorebirds, gulls
+  songs:
+  - 537-538
+- bird_name: Western gull
+  family: Laridae
+  group: Shorebirds, gulls
+  songs:
+  - '113'
+- bird_name: Common loon
+  family: Gaviidae
+  group: Loon, shearwater
+  songs:
+  - 670-672
+- bird_name: Sooty shearwater
+  family: Procellariidae
+  group: Loon, shearwater
+  songs:
+  - '47'
+- bird_name: Double-crested cormorant
+  family: Phalacrocoracidae
+  group: Cormorants, anhingas
+  songs:
+  - '35'
+- bird_name: Anhinga
+  family: Anhingidae
+  group: Cormorants, anhingas
+  songs:
+  - '48'
+- bird_name: Great blue heron
+  family: Ardeidae
+  group: Herons, hawks, owls
+  songs:
+  - '513'
+- bird_name: Red-tailed hawk
+  family: Accipitridae
+  group: Herons, hawks, owls
+  songs:
+  - 539-541
+- bird_name: Red-shouldered hawk
+  family: Accipitridae
+  group: Herons, hawks, owls
+  songs:
+  - 36-38
+- bird_name: Great Horned owl
+  family: Strigidae
+  group: Herons, hawks, owls
+  songs:
+  - '370'
+  - 576-578
+  - '633'
+- bird_name: Northern hawk owl
+  family: Strigidae
+  group: Herons, hawks, owls
+  songs:
+  - 14-21
+- bird_name: Barred owl
+  family: Strigidae
+  group: Herons, hawks, owls
+  songs:
+  - '511'
+- bird_name: Red-bellied woodpecker
+  family: Picidae
+  group: Woodpeckers, falcons
+  songs:
+  - '39'
+- bird_name: Yellow-bellied sapsucker
+  family: Picidae
+  group: Woodpeckers, falcons
+  songs:
+  - 72-78
+- bird_name: Red-naped sapsucker
+  family: Picidae
+  group: Woodpeckers, falcons
+  songs:
+  - 72-78
+- bird_name: Red-breasted sapsucker
+  family: Picidae
+  group: Woodpeckers, falcons
+  songs:
+  - 72-78
+- bird_name: Northern flicker
+  family: Picidae
+  group: Woodpeckers, falcons
+  songs:
+  - '69'
+- bird_name: Pileated woodpecker
+  family: Picidae
+  group: Woodpeckers, falcons
+  songs:
+  - 70-71
+  - '457'
+- bird_name: American kestrel
+  family: Falconidae
+  group: Woodpeckers, falcons
+  songs:
+  - 539-541
+- bird_name: Great crested flycatcher
+  family: Tyrannidae
+  group: Flycatchers
+  songs:
+  - 477-478
+- bird_name: "Couch\u2019s kingbird"
+  family: Tyrannidae
+  group: Flycatchers
+  songs:
+  - 612-615
+- bird_name: Western kingbird
+  family: Tyrannidae
+  group: Flycatchers
+  songs:
+  - 612-615
+- bird_name: Eastern kingbird
+  family: Tyrannidae
+  group: Flycatchers
+  songs:
+  - 612-615
+- bird_name: Olive-sided flycatcher
+  family: Tyrannidae
+  group: Flycatchers
+  songs:
+  - 379-381
+- bird_name: Western wood-pewee
+  family: Tyrannidae
+  group: Flycatchers
+  songs:
+  - 606-611
+- bird_name: Eastern wood-pewee
+  family: Tyrannidae
+  group: Flycatchers
+  songs:
+  - 606-611
+- bird_name: Yellow-bellied flycatcher
+  family: Tyrannidae
+  group: Flycatchers
+  songs:
+  - 630-639
+- bird_name: Acadian flycatcher
+  family: Tyrannidae
+  group: Flycatchers
+  songs:
+  - 630-639
+- bird_name: Alder flycatcher
+  family: Tyrannidae
+  group: Flycatchers
+  songs:
+  - 140-147
+  - 630-639
+- bird_name: Willow flycatcher
+  family: Tyrannidae
+  group: Flycatchers
+  songs:
+  - 140-147
+  - 576-578
+  - 630-639
+  - '640'
+- bird_name: Least flycatcher
+  family: Tyrannidae
+  group: Flycatchers
+  songs:
+  - 361-362
+  - 630-639
+- bird_name: Hammond's flycatcher
+  family: Tyrannidae
+  group: Flycatchers
+  songs:
+  - 630-639
+- bird_name: Gray flycatcher
+  family: Tyrannidae
+  group: Flycatchers
+  songs:
+  - 630-639
+- bird_name: Dusky flycatcher
+  family: Tyrannidae
+  group: Flycatchers
+  songs:
+  - 630-639
+- bird_name: Pacific-slope flycatcher
+  family: Tyrannidae
+  group: Flycatchers
+  songs:
+  - 630-639
+- bird_name: Cordilleran flycatcher
+  family: Tyrannidae
+  group: Flycatchers
+  songs:
+  - 630-639
+- bird_name: Black phoebe
+  family: Tyrannidae
+  group: Flycatchers
+  songs:
+  - '382'
+- bird_name: Eastern phoebe
+  family: Tyrannidae
+  group: Flycatchers
+  songs:
+  - '111'
+  - 148-154
+- bird_name: Say's phoebe
+  family: Tyrannidae
+  group: Flycatchers
+  songs:
+  - 383-385
+- bird_name: Loggerhead shrike
+  family: Laniidae
+  group: Shrikes, vireos
+  songs:
+  - '657'
+- bird_name: Black-capped vireo
+  family: Vireonidae
+  group: Shrikes, vireos
+  songs:
+  - 706-709
+- bird_name: White-eyed vireo
+  family: Vireonidae
+  group: Shrikes, vireos
+  songs:
+  - 347-351
+- bird_name: Bell's vireo
+  family: Vireonidae
+  group: Shrikes, vireos
+  songs:
+  - '673'
+- bird_name: Yellow-throated vireo
+  family: Vireonidae
+  group: Shrikes, vireos
+  songs:
+  - 435-436
+- bird_name: Blue-headed vireo
+  family: Vireonidae
+  group: Shrikes, vireos
+  songs:
+  - '705'
+- bird_name: Philadelphia vireo
+  family: Vireonidae
+  group: Shrikes, vireos
+  songs:
+  - 430-432
+- bird_name: Warbling vireo
+  family: Vireonidae
+  group: Shrikes, vireos
+  songs:
+  - 162-163
+  - 579-580
+- bird_name: Red-eyed vireo
+  family: Vireonidae
+  group: Shrikes, vireos
+  songs:
+  - 155-158
+  - 164-165
+  - 428-429
+- bird_name: Pinyon jay
+  family: Corvidae
+  group: Jays, crows
+  songs:
+  - '451'
+- bird_name: Steller's jay
+  family: Corvidae
+  group: Jays, crows
+  songs:
+  - 352-355
+- bird_name: Blue jay
+  family: Corvidae
+  group: Jays, crows
+  songs:
+  - 356-360
+  - '460'
+- bird_name: California scrub-jay
+  family: Corvidae
+  group: Jays, crows
+  songs:
+  - '452'
+- bird_name: American crow
+  family: Corvidae
+  group: Jays, crows
+  songs:
+  - 448-450
+- bird_name: Common raven
+  family: Corvidae
+  group: Jays, crows
+  songs:
+  - 222-223
+- bird_name: Horned lark
+  family: Alaudidae
+  group: Larks, swallows
+  songs:
+  - 481-484
+- bird_name: Purple martin
+  family: Hirundinidae
+  group: Larks, swallows
+  songs:
+  - 514-515
+- bird_name: Tree swallow
+  family: Hirundinidae
+  group: Larks, swallows
+  songs:
+  - 542-543
+- bird_name: Cliff swallow
+  family: Hirundinidae
+  group: Larks, swallows
+  songs:
+  - 677-679
+- bird_name: Barn swallow
+  family: Hirundinidae
+  group: Larks, swallows
+  songs:
+  - 674-676
+- bird_name: Carolina chickadee
+  family: Paridae
+  group: Chickadees, titmice
+  songs:
+  - 393-395
+- bird_name: Black-capped chickadee
+  family: Paridae
+  group: Chickadees, titmice
+  songs:
+  - 1-5
+  - 255-258
+  - 644-646
+- bird_name: Chestnut-backed chickadee
+  family: Paridae
+  group: Chickadees, titmice
+  songs:
+  - 453-455
+- bird_name: Oak titmouse
+  family: Paridae
+  group: Chickadees, titmice
+  songs:
+  - '239'
+- bird_name: Tufted titmouse
+  family: Paridae
+  group: Chickadees, titmice
+  songs:
+  - 391-392
+- bird_name: Black-crested titmouse
+  family: Paridae
+  group: Chickadees, titmice
+  songs:
+  - '694'
+- bird_name: Bushtit
+  family: Aegithalidae
+  group: Bushtit, nuthatch
+  songs:
+  - '456'
+- bird_name: White-breasted nuthatch
+  family: Sittidae
+  group: Bushtit, nuthatch
+  songs:
+  - 6-11
+- bird_name: Red-breasted nuthatch
+  family: Sittidae
+  group: Bushtit, nuthatch
+  songs:
+  - 688-690
+- bird_name: Rock wren
+  family: Troglodytidae
+  group: Wrens
+  songs:
+  - 405-406
+- bird_name: House wren
+  family: Troglodytidae
+  group: Wrens
+  songs:
+  - '372'
+- bird_name: Pacific wren
+  family: Troglodytidae
+  group: Wrens
+  songs:
+  - 132-133
+- bird_name: Winter wren
+  family: Troglodytidae
+  group: Wrens
+  songs:
+  - 682-684
+- bird_name: Sedge wren
+  family: Troglodytidae
+  group: Wrens
+  songs:
+  - '159'
+  - 407-410
+  - 586-589
+  - '652'
+- bird_name: Marsh wren
+  family: Troglodytidae
+  group: Wrens
+  songs:
+  - 107-108
+  - 227-233
+- bird_name: Carolina wren
+  family: Troglodytidae
+  group: Wrens
+  songs:
+  - 49-50
+  - 109-110
+  - 166-168
+  - 184-185
+- bird_name: Bewick's wren
+  family: Troglodytidae
+  group: Wrens
+  songs:
+  - 581-585
+  - 685-686
+- bird_name: Cactus wren
+  family: Troglodytidae
+  group: Wrens
+  songs:
+  - '369'
+- bird_name: Canyon wren
+  family: Troglodytidae
+  group: Wrens
+  songs:
+  - 641-642
+- bird_name: Golden-crowned kinglet
+  family: Regulidae
+  group: Kinglets, wrentit
+  songs:
+  - '696'
+- bird_name: Ruby-crowned kinglet
+  family: Regulidae
+  group: Kinglets, wrentit
+  songs:
+  - 386-387
+- bird_name: Wrentit
+  family: Sylviidae
+  group: Kinglets, wrentit
+  songs:
+  - 51-53
+- bird_name: Eastern bluebird
+  family: Turdidae
+  group: Thrushes
+  songs:
+  - 479-480
+- bird_name: Mountain bluebird
+  family: Turdidae
+  group: Thrushes
+  songs:
+  - '544'
+- bird_name: Townsend's solitaire
+  family: Turdidae
+  group: Thrushes
+  songs:
+  - 373-376
+- bird_name: Veery
+  family: Turdidae
+  group: Thrushes
+  songs:
+  - 12-13
+  - '462'
+- bird_name: Gray-cheeked thrush
+  family: Turdidae
+  group: Thrushes
+  songs:
+  - '533'
+  - 661-662
+- bird_name: Swainson's thrush
+  family: Turdidae
+  group: Thrushes
+  songs:
+  - '461'
+  - 659-660
+- bird_name: Hermit thrush
+  family: Turdidae
+  group: Thrushes
+  songs:
+  - 396-399
+  - 647-648
+- bird_name: Wood thrush
+  family: Turdidae
+  group: Thrushes
+  songs:
+  - 116-119
+  - 439-444
+  - '458'
+- bird_name: American robin
+  family: Turdidae
+  group: Thrushes
+  songs:
+  - 14-21
+  - 437-438
+  - '640'
+  - '129'
+- bird_name: Eurasian blackbird
+  family: Turdidae
+  group: Thrushes
+  songs:
+  - '687'
+- bird_name: Varied thrush
+  family: Turdidae
+  group: Thrushes
+  songs:
+  - '120'
+  - 653-656
+- bird_name: Gray catbird
+  family: Mimidae
+  group: Mockingbirds, catbirds, thrashers, starlings
+  songs:
+  - 22-23
+  - 160-161
+- bird_name: Brown thrasher
+  family: Mimidae
+  group: Mockingbirds, catbirds, thrashers, starlings
+  songs:
+  - '84'
+  - 234-237
+  - 411-419
+  - '651'
+- bird_name: California thrasher
+  family: Mimidae
+  group: Mockingbirds, catbirds, thrashers, starlings
+  songs:
+  - 100-106
+- bird_name: Sage thrasher
+  family: Mimidae
+  group: Mockingbirds, catbirds, thrashers, starlings
+  songs:
+  - 114-115
+  - 377-378
+  - 518-531
+- bird_name: Northern mockingbird
+  family: Mimidae
+  group: Mockingbirds, catbirds, thrashers, starlings
+  songs:
+  - '238'
+  - 335-342
+  - '463'
+  - 516-517
+- bird_name: European starling
+  family: Sturnidae
+  group: Mockingbirds, catbirds, thrashers, starlings
+  songs:
+  - 343-346
+- bird_name: Cedar waxwing
+  family: Bombycillidae
+  group: Waxwings, house sparrow
+  songs:
+  - 445-446
+- bird_name: House sparrow
+  family: Passeridae
+  group: Waxwings, house sparrow
+  songs:
+  - 363-368
+- bird_name: Evening grosbeak
+  family: Fringillidae
+  group: Finches, longspur
+  songs:
+  - '447'
+- bird_name: House finch
+  family: Fringillidae
+  group: Finches, longspur
+  songs:
+  - 90-93
+- bird_name: Purple finch
+  family: Fringillidae
+  group: Finches, longspur
+  songs:
+  - '658'
+- bird_name: "Cassin\u2019s finch"
+  family: Fringillidae
+  group: Finches, longspur
+  songs:
+  - 94-95
+- bird_name: 'Common redpoll '
+  family: Fringillidae
+  group: Finches, longspur
+  songs:
+  - '545'
+- bird_name: Red crossbill
+  family: Fringillidae
+  group: Finches, longspur
+  songs:
+  - 333-334
+- bird_name: American goldfinch
+  family: Fringillidae
+  group: Finches, longspur
+  songs:
+  - 546-547
+- bird_name: "McCown\u2019s longspur"
+  family: Calcariidae
+  group: Finches, longspur
+  songs:
+  - '548'
+- bird_name: Olive sparrow
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - '702'
+- bird_name: Spotted towhee
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - 420-424
+- bird_name: Eastern towhee
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - 420-424
+- bird_name: Rufous-crowned sparrow
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - 703-704
+- bird_name: Cassin's sparrow
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - '427'
+- bird_name: Bachman's sparrow
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - '426'
+- bird_name: American tree sparrow
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - 271-281
+- bird_name: Chipping sparrow
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - 188-199
+  - 497-498
+- bird_name: Clay-colored sparrow
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - 506-508
+- bird_name: Brewer's sparrow
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - 501-505
+- bird_name: Field sparrow
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - '643'
+  - 499-500
+- bird_name: Vesper sparrow
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - 291-297
+- bird_name: Lark sparrow
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - 96-97
+- bird_name: Black-throated sparrow
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - '425'
+- bird_name: Lark bunting
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - '549'
+- bird_name: Savannah sparrow
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - 388-390
+- bird_name: Henslow's sparrow
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - 130-131
+- bird_name: Seaside sparrow
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - 698-701
+- bird_name: Fox sparrow
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - 282-290
+  - 590-598
+- bird_name: Song sparrow
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - 169-170
+  - '640'
+- bird_name: White-throated sparrow
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - 171-172
+  - 182-183
+  - 298-307
+- bird_name: White-crowned sparrow
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - 240-254
+- bird_name: Golden-crowned sparrow
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - '697'
+- bird_name: Dark-eyed junco
+  family: Passerellidae
+  group: Sparrows
+  songs:
+  - '370'
+  - 186-187
+- bird_name: Yellow-breasted chat
+  family: Icteridae
+  group: Blackbirds
+  songs:
+  - 433-434
+- bird_name: Yellow-headed blackbird
+  family: Icteridae
+  group: Blackbirds
+  songs:
+  - 88-89
+- bird_name: Bobolink
+  family: Icteridae
+  group: Blackbirds
+  songs:
+  - 308-314
+- bird_name: Eastern meadowlark
+  family: Icteridae
+  group: Blackbirds
+  songs:
+  - 616-618
+- bird_name: Western meadowlark
+  family: Icteridae
+  group: Blackbirds
+  songs:
+  - 620-629
+  - 550-552
+  - 616-618
+- bird_name: Montezuma oropendola
+  family: Icteridae
+  group: Blackbirds
+  songs:
+  - 711-712
+- bird_name: Orchard oriole
+  family: Icteridae
+  group: Blackbirds
+  songs:
+  - 491-493
+  - '640'
+- bird_name: Baltimore oriole
+  family: Icteridae
+  group: Blackbirds
+  songs:
+  - '54'
+- bird_name: "Scott\u2019s oriole"
+  family: Icteridae
+  group: Blackbirds
+  songs:
+  - 663-665
+- bird_name: Red-winged blackbird
+  family: Icteridae
+  group: Blackbirds
+  songs:
+  - 55-56
+  - 325-329
+  - 494-496
+  - '640'
+- bird_name: Brown-headed cowbird
+  family: Icteridae
+  group: Blackbirds
+  songs:
+  - 125-128
+  - 330-332
+- bird_name: Common grackle
+  family: Icteridae
+  group: Blackbirds
+  songs:
+  - 691-693
+- bird_name: Great-tailed grackle
+  family: Icteridae
+  group: Blackbirds
+  songs:
+  - '459'
+  - 680-681
+- bird_name: Ovenbird
+  family: Parulidae
+  group: Warblers
+  songs:
+  - 534-535
+  - 555-559
+  - '649'
+- bird_name: Tennessee warbler
+  family: Parulidae
+  group: Warblers
+  songs:
+  - 176-177
+- bird_name: Connecticut warbler
+  family: Parulidae
+  group: Warblers
+  songs:
+  - '532'
+- bird_name: Common yellowthroat
+  family: Parulidae
+  group: Warblers
+  songs:
+  - 24-26
+  - 210-221
+  - '640'
+- bird_name: American redstart
+  family: Parulidae
+  group: Warblers
+  songs:
+  - 178-179
+  - 560-566
+- bird_name: Magnolia warbler
+  family: Parulidae
+  group: Warblers
+  songs:
+  - 180-181
+- bird_name: Yellow warbler
+  family: Parulidae
+  group: Warblers
+  songs:
+  - 489-490
+  - '640'
+- bird_name: Chestnut-sided warbler
+  family: Parulidae
+  group: Warblers
+  songs:
+  - 567-572
+- bird_name: Black-throated blue warbler
+  family: Parulidae
+  group: Warblers
+  songs:
+  - '85'
+- bird_name: Red-faced warbler
+  family: Parulidae
+  group: Warblers
+  songs:
+  - 666-667
+- bird_name: Summer tanager
+  family: Cardinalidae
+  group: Cardinals, tanagers, grosbeaks, buntings
+  songs:
+  - 599-605
+- bird_name: Scarlet tanager
+  family: Cardinalidae
+  group: Cardinals, tanagers, grosbeaks, buntings
+  songs:
+  - 599-605
+- bird_name: Western tanager
+  family: Cardinalidae
+  group: Cardinals, tanagers, grosbeaks, buntings
+  songs:
+  - 599-605
+- bird_name: Northern cardinal
+  family: Cardinalidae
+  group: Cardinals, tanagers, grosbeaks, buntings
+  songs:
+  - 464-476
+  - 57-60
+  - 121-124
+  - 400-404
+  - 224-226
+- bird_name: Pyrrhuloxia
+  family: Cardinalidae
+  group: Cardinals, tanagers, grosbeaks, buntings
+  songs:
+  - 224-226
+- bird_name: Rose-breasted grosbeak
+  family: Cardinalidae
+  group: Cardinals, tanagers, grosbeaks, buntings
+  songs:
+  - 61-62
+  - 98-99
+- bird_name: Black-headed grosbeak
+  family: Cardinalidae
+  group: Cardinals, tanagers, grosbeaks, buntings
+  songs:
+  - 485-488
+- bird_name: Blue grosbeak
+  family: Cardinalidae
+  group: Cardinals, tanagers, grosbeaks, buntings
+  songs:
+  - '695'
+- bird_name: Lazuli bunting
+  family: Cardinalidae
+  group: Cardinals, tanagers, grosbeaks, buntings
+  songs:
+  - 200-209
+- bird_name: Indigo bunting
+  family: Cardinalidae
+  group: Cardinals, tanagers, grosbeaks, buntings
+  songs:
+  - 173-175
+  - 200-209
+  - '650'
+- bird_name: Painted bunting
+  family: Cardinalidae
+  group: Cardinals, tanagers, grosbeaks, buntings
+  songs:
+  - '371'
+- bird_name: Dickcissel
+  family: Cardinalidae
+  group: Cardinals, tanagers, grosbeaks, buntings
+  songs:
+  - '87'
+  - 259-270
+- bird_name: Plumed whistling duck
+  family: Anatidae
+  group: Australian specialities
+  songs:
+  - '713'
+- bird_name: Tooth-billed bowerbird
+  family: Ptilonorhynchidae
+  group: Australian specialities
+  songs:
+  - 714-718
+- bird_name: Green catbird
+  family: Ptilonorhynchidae
+  group: Australian specialities
+  songs:
+  - '719'
+- bird_name: Red-backed fairy-wren
+  family: Maluridae
+  group: Australian specialities
+  songs:
+  - '720'
+- bird_name: Bell miner
+  family: Meliphagidae
+  group: Australian specialities
+  songs:
+  - '721'
+- bird_name: Scarlet honeyeater
+  family: Meliphagidae
+  group: Australian specialities
+  songs:
+  - '722'
+- bird_name: Chowchilla
+  family: Orthonychidae
+  group: Australian specialities
+  songs:
+  - 723-724
+- bird_name: Eastern whipbird
+  family: Psophodidae
+  group: Australian specialities
+  songs:
+  - 725-726
+- bird_name: Golden whistler
+  family: Pachycephalidae
+  group: Australian specialities
+  songs:
+  - 727-729
+- bird_name: Rufous whistler
+  family: Pachycephalidae
+  group: Australian specialities
+  songs:
+  - '730'
+- bird_name: Rufous fantail
+  family: Rhipiduridae
+  group: Australian specialities
+  songs:
+  - '731'
+- bird_name: Willie wagtail
+  family: Rhipiduridae
+  group: Australian specialities
+  songs:
+  - '732'
+- bird_name: Forest raven
+  family: Corvidae
+  group: Australian specialities
+  songs:
+  - '733'
+- bird_name: Tasmanian devil
+  family: Dasyuridae
+  group: Australian specialities
+  songs:
+  - '734'

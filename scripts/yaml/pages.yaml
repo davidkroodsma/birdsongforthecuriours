@@ -1,0 +1,2771 @@
+1:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: '1'
+  filename: 2.2_BcCh
+  from_page: 8
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: BcCh-BS-1-Black-capped_Chickadee_B9H4324
+  songs: 1-5
+  subchapter_name: Birds sing and call
+  title: Black-capped chickadee
+2:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: '2'
+  filename: 2.2_WbNu
+  from_page: 9
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: WbNu-WH-White-breasted_nuthatch_WH_C2FS8443-1_superB
+  songs: 6-11
+  subchapter_name: Birds sing and call
+  title: White-breasted nuthatch
+3:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: ''
+  filename: 2.2_Veery
+  from_page: 10
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: Veery-BS-Veery_D4_66412
+  songs: 12-13
+  subchapter_name: Birds sing and call
+  title: Veery
+4:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: '3'
+  filename: 2.2_AmRo
+  from_page: 10
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: AmRo-WH-American_robin_WH_WIL4597
+  songs: 14-21
+  subchapter_name: Birds sing and call
+  title: American robin
+5:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: ''
+  filename: 2.2_GrCa
+  from_page: 11
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: GrCa-MR-GrayCatbirdSIng_7578_Read
+  songs: 22-23
+  subchapter_name: Birds sing and call
+  title: Gray catbird
+6:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: ''
+  filename: 2.2_CoYe
+  from_page: 11
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: CoYe-MR-CommYellowthroatMSing_3755_Read
+  songs: 24-26
+  subchapter_name: Birds sing and call
+  title: Common yellowthroat
+7:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: ''
+  filename: 2.3_CaGo
+  from_page: 12
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: CaGo-MR-CAGOAggression_8680_Read
+  songs: 27-29
+  subchapter_name: Birds without a song just call
+  title: Canada goose
+8:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: '4'
+  filename: 2.3_Mall
+  from_page: 12
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: Mall-MR-MallardPair_0341_Read
+  songs: 30-31
+  subchapter_name: Birds without a song just call
+  title: Mallard
+9:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: '5'
+  filename: 2.3_ChSw
+  from_page: 13
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: ChSw-BS-Chimney_Swift_T0B60762
+  songs: '32'
+  subchapter_name: Birds without a song just call
+  title: Chimney swift
+10:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: ''
+  filename: 2.3_Kill
+  from_page: 13
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: Killdeer-WH-WIL4452
+  songs: 33-34
+  subchapter_name: Birds without a song just call
+  title: Killdeer
+11:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: ''
+  filename: 2.3_DcCo
+  from_page: 13
+  pictures:
+  - photo_caption: Photo by Laure Wilson Neish
+    photo_file: DcCo-LW-DCCO_4636
+  songs: '35'
+  subchapter_name: Birds without a song just call
+  title: Double-crested cormorant
+12:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: '6'
+  filename: 2.3_RsHa
+  from_page: 14
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: RsHa-BbJ-117-rsha-turned-B_CorkSw-FL-08-11-30_5527
+  songs: 36-38
+  subchapter_name: Birds without a song just call
+  title: Red-shouldered hawk
+13:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: ''
+  filename: 2.3_RbWo
+  from_page: 15
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: RbWo-MR-RBWoodpeckerMF_2725_Read
+  songs: '39'
+  subchapter_name: Song or Call?
+  title: Red-bellied woodpecker
+14:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: ''
+  filename: 2.3_AmWi
+  from_page: 15
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: AmWi-MR-AmWigeonMLanding_4289_Read
+  songs: '40'
+  subchapter_name: Song or Call?
+  title: American wigeon
+15:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: ''
+  filename: 2.3_PbGr
+  from_page: 15
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: PbGr-BS-Pied-billed_Grebe_D4_4455
+  songs: '41'
+  subchapter_name: Song or Call?
+  title: Pied-billed grebe
+16:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: ''
+  filename: 2.4_SaCr
+  from_page: 16
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: SaCr-MR-FLSandhillCranesPair_8636V_Read
+  songs: 42-46
+  subchapter_name: Female song and duets
+  title: Sandhill crane
+17:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: ''
+  filename: 2.4_SoSh
+  from_page: 17
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: SoSh-RR-SootyShearwater
+  songs: '47'
+  subchapter_name: Female song and duets
+  title: Sooty shearwater
+18:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: ''
+  filename: 2.4_Anhi
+  from_page: 17
+  pictures:
+  - photo_caption: 'Male
+
+      Photo by Brian E. Small'
+    photo_file: Anhinga-BS-Anhinga_T0B9158
+  - photo_caption: 'Female
+
+      Robert Royse'
+    photo_file: AnHi-RR-Anhinga
+  songs: '48'
+  subchapter_name: Female song and duets
+  title: Anhinga
+19:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: ''
+  filename: 2.4_CarWr
+  from_page: 17
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: CarWr-BS-2-Carolina_Wren_T0B21373
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: CarWr-WH-Carolina_wren_WH_-_WIL1448-2
+  songs: 49-50
+  subchapter_name: Female song and duets
+  title: Carolina wren
+20:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: '7'
+  filename: 2.4_Wrentit
+  from_page: 18
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: Wrentit-BS-Wrentit_T0B87335
+  songs: 51-53
+  subchapter_name: Female song and duets
+  title: Wrentit
+21:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: ''
+  filename: 2.4_BaOr
+  from_page: 18
+  pictures:
+  - photo_caption: 'Female
+
+      Photo by Marie Read'
+    photo_file: BaOr-MR-BaltOrioleFNestMat_9236_Read
+  - photo_caption: 'Male
+
+      Photo by Marie Read'
+    photo_file: BaOr-MR-BaltOrioleMSing_9805R_Read
+  songs: '54'
+  subchapter_name: Female song and duets
+  title: Baltimore oriole
+22:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: '8'
+  filename: 2.4_RwBl
+  from_page: 18
+  pictures:
+  - photo_caption: 'Female
+
+      Photo by Marie Read'
+    photo_file: RwBl-MR-RWBBFCall_1945_Read
+  - photo_caption: 'Male
+
+      Photo by Wil Hershberger'
+    photo_file: RwBl-WH-20070513_Red-winged_Blackbird_WH__WIL9115
+  songs: 55-56
+  subchapter_name: Female song and duets
+  title: Red-winged blackbird
+23:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: ''
+  filename: 2.4_NoCa
+  from_page: 19
+  pictures:
+  - photo_caption: 'Male
+
+      Photo by Brian E. Small'
+    photo_file: NoCa-BS-Northern_Cardinal_T0B53398
+  - photo_caption: 'Female
+
+      Photo by Marie Read'
+    photo_file: NoCa-MR-NCardinalFCrop_6263R_Read
+  songs: 57-60
+  subchapter_name: Female song and duets
+  title: Northern cardinal
+24:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: '9'
+  filename: 2.4_RbGr
+  from_page: 20
+  pictures:
+  - photo_caption: 'Female
+
+      Photo by Brian E. Small'
+    photo_file: RbGr-BS-1-Rose-breasted_Grosbeak_B9H27018
+  - photo_caption: 'Male
+
+      Photo by Brian E. Small'
+    photo_file: RbGr-BS-2-Rose-breasted_Grosbeak_T0B80502
+  songs: 61-62
+  subchapter_name: Female song and duets
+  title: Rose-breasted grosbeak
+25:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: '10'
+  filename: 2.5_MoDo
+  from_page: 21
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: MoDo-WH-20030209_Mourning_Dove_WH_C2FS0743
+  songs: '63'
+  subchapter_name: Mechanical (non-vocal) sounds
+  title: Mourning dove
+26:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: ''
+  filename: 2.5_RuDu
+  from_page: 22
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: RuDu-MR-RuddyDuckBubble_4706_Read
+  songs: '64'
+  subchapter_name: Mechanical (non-vocal) sounds
+  title: Ruddy duck
+27:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: '11'
+  filename: 2.5_CoNi
+  from_page: 22
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: CoNi-MR-CommNighthawkFlight_5693_Read
+  songs: '65'
+  subchapter_name: Mechanical (non-vocal) sounds
+  title: Common nighthawk
+28:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: ''
+  filename: 2.5_BtHu
+  from_page: 22
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: BtHu-BS-Broad-tailed_Hummingbird_T0B66674
+  songs: 66-67
+  subchapter_name: Mechanical (non-vocal) sounds
+  title: Broad-tailed hummingbird
+29:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: '12'
+  filename: 2.5_WiSn
+  from_page: 23
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: WiSn-RR-WilsonsSnipe
+  songs: '68'
+  subchapter_name: Mechanical (non-vocal) sounds
+  title: Wilson's snipe
+30:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: ''
+  filename: 2.5_NoFl
+  from_page: 23
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: NoFl-MR-NFlickerM_B9660HZ_Read
+  songs: '69'
+  subchapter_name: Mechanical (non-vocal) sounds
+  title: Northern flicker
+31:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: ''
+  filename: 2.5_PiWo
+  from_page: 24
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: PiWo-WH-Pileated_woodpecker_male_WH_C2FS6812
+  songs: 70-71
+  subchapter_name: Mechanical (non-vocal) sounds
+  title: Pileated woodpecker
+32:
+  chapter_name: '2: Birds and Their Sounds'
+  explores: '13'
+  filename: 2.5_YbSa
+  from_page: 24
+  pictures:
+  - photo_caption: 'Yellow-bellied sapsucker
+
+      Photo by Marie Read'
+    photo_file: YbSa-MR-YBSapsuckerM_B96301_Read
+  - photo_caption: 'Red-naped sapsucker
+
+      Photo by Laure Wilson Neish'
+    photo_file: RnSa-LW-RNSA(m)_7747
+  - photo_caption: 'Red-breasted sapsucker
+
+      Photo by Marie Read'
+    photo_file: RbSa-MR-RBSapsucker_4526_Read
+  songs: 72-78
+  subchapter_name: Mechanical (non-vocal) sounds
+  title: The sapsuckers
+33:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: ''
+  filename: 3.1_Ewpl
+  from_page: 27
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: Whip-WH-whip-poor-will_WH_C2FS9304b
+  songs: 79-81
+  subchapter_name: Why sing?
+  title: Eastern whip-poor-will, Mexican whip-poor-will
+34:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: ''
+  filename: 3.1_ViRa
+  from_page: 27
+  pictures:
+  - photo_caption: 'Virginia rail
+
+      Photo by Marie Read'
+    photo_file: ViRa-MR-VirginiaRail_8119R_Read
+  - photo_caption: 'Sora
+
+      Photo by John Van de Graaff'
+    photo_file: Sora-BbJ-154b-sora-Xlegged-OH-05-05-08_5921
+  songs: 82-83
+  subchapter_name: Why sing?
+  title: Virginia rail, sora
+35:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: ''
+  filename: 3.1_BrTh
+  from_page: 28
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: BrTh-WH-Brown_thrasher_WH_MG_1769
+  songs: '84'
+  subchapter_name: Why sing?
+  title: Brown thrasher
+36:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: '14'
+  filename: 3.1_BtBW
+  from_page: 28
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: BtBlWa-BbJ-434b-bbwa-rt_branch-CPk-03-10-02_7963
+  songs: '85'
+  subchapter_name: Why sing?
+  title: Black-throated blue warbler
+37:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: ''
+  filename: 3.1_WiTu
+  from_page: 29
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: WiTu-WH-20130317_Wild_Turkey_WH__MG_8399
+  songs: '86'
+  subchapter_name: Why sing?
+  title: Wild turkey
+38:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: ''
+  filename: 3.1_Dick
+  from_page: 29
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: Dick-RR-Dickcissel2
+  songs: '87'
+  subchapter_name: Why sing?
+  title: Dickcissel
+39:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: '15'
+  filename: 3.1_YhBl
+  from_page: 30
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: YhBl-WH-20120510_Yellow-headed_blackbird_ND_WH_MG_7415
+  songs: 88-89
+  subchapter_name: Why sing?
+  title: Yellow-headed blackbird
+40:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: ''
+  filename: 3.2_HoFi
+  from_page: 31
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: HoFi-MR-HouseFinchMSing_6930_Read
+  songs: 90-93
+  subchapter_name: Courtship songs
+  title: House finch
+41:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: ''
+  filename: 3.2_CaFi
+  from_page: 31
+  pictures:
+  - photo_caption: Photo by Laure Wilson Neish
+    photo_file: CaFi-LW-CAFI(m)_6706
+  songs: 94-95
+  subchapter_name: Courtship songs
+  title: "Cassin\u2019s finch"
+42:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: ''
+  filename: 3.2_LarSp
+  from_page: 32
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: LarSp-RR-LarkSparrow
+  songs: 96-97
+  subchapter_name: Courtship songs
+  title: Lark sparrow
+43:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: '16'
+  filename: 3.2_RbGr
+  from_page: 32
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: RbGr-MR-RBGrosbeakMSing_B168761_Read
+  songs: 98-99
+  subchapter_name: Courtship songs
+  title: Rose-breasted grosbeak
+44:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: '17'
+  filename: 3.3_CaTh
+  from_page: 33
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: CaTh-RR-CaliforniaThrasher
+  songs: 100-106
+  subchapter_name: Singing in the brain
+  title: California thrasher
+45:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: ''
+  filename: 3.3_MaWr
+  from_page: 34
+  pictures:
+  - photo_caption: 'Western marsh wren
+
+      Photo by Robert Royse'
+    photo_file: MaWr-RR-MarshWrenW
+  - photo_caption: 'Eastern marsh wren
+
+      Photo by Robert Royse'
+    photo_file: MaWr-RR-MarshWrenE
+  songs: 107-108
+  subchapter_name: Singing in the brain
+  title: Marsh wren
+46:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: ''
+  filename: 3.3_CarWr
+  from_page: 35
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: CarWr-BS-2-Carolina_Wren_T0B21373
+  songs: 109-110
+  subchapter_name: Singing in the brain
+  title: Carolina wren
+47:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: ''
+  filename: 3.3_EaPh
+  from_page: 35
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: EaPh-WH-20030405_Eastern_phoebe_WH_C2FS1885
+  songs: '111'
+  subchapter_name: Singing in the brain
+  title: Eastern phoebe
+48:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: ''
+  filename: 3.3_CaQu
+  from_page: 36
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: CaQu-RR-CaliforniaQuail
+  songs: '112'
+  subchapter_name: Singing in the brain
+  title: California quail
+49:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: '18'
+  filename: 3.3_WeGu
+  from_page: 36
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: WeGu-BS-Western_Gull_B9H9068
+  songs: '113'
+  subchapter_name: Singing in the brain
+  title: Western gull
+50:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: '19'
+  filename: 3.3_SaTh
+  from_page: 37
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: SaTh-RR-SageThrasher
+  songs: 114-115
+  subchapter_name: Singing in the brain
+  title: Sage thrasher
+51:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: ''
+  filename: 3.4_WoTh
+  from_page: 39
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: WoTh-WH-20030504_Wood_Thrush_WH_C2FS3293_levels_USM_cropped
+  songs: 116-119
+  subchapter_name: Not one, but two voice boxes
+  title: Wood thrush
+52:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: ''
+  filename: 3.4_VaTh
+  from_page: 39
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: VaTh-BS-2-Varied_Thrush_T0B102104
+  songs: '120'
+  subchapter_name: Not one, but two voice boxes
+  title: Varied thrush
+53:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: ''
+  filename: 3.4_NoCa
+  from_page: 40
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: NoCa-WH-20160202_Northern_Cardinal_male_WH__L1A2478
+  songs: 121-124
+  subchapter_name: Not one, but two voice boxes
+  title: Northern cardinal
+54:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: '20'
+  filename: 3.4_BhCo
+  from_page: 40
+  pictures:
+  - photo_caption: Photo by Laure Wilson Neish
+    photo_file: BhCo-LW-BHCO(m)_8341
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: ERROR
+  songs: 125-129
+  subchapter_name: Not one, but two voice boxes
+  title: Brown-headed cowbird
+55:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: ''
+  filename: 3.5_HeSp
+  from_page: 41
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: HeSp-WH-Henslows_sparrow_WH_MG_3154
+  songs: 130-131
+  subchapter_name: What birds hear
+  title: Henslow's sparrow
+56:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: ''
+  filename: 3.5_PaWr
+  from_page: 42
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: PaWr-BS-Pacific_Wren_D4_79593
+  songs: 132-133
+  subchapter_name: What birds hear
+  title: Pacific wren
+57:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: ''
+  filename: 3.5_RoPi
+  from_page: 42
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: RoPi-MR-RockPigeonsAllopreen_B66124_Read
+  songs: '134'
+  subchapter_name: What birds hear
+  title: Rock pigeon
+58:
+  chapter_name: '3: Why and How Birds Sing'
+  explores: '21'
+  filename: 3.5_ReJu
+  from_page: 43
+  pictures:
+  - photo_caption: Photo by Donald Kroodsma
+    photo_file: ERROR
+  songs: '135'
+  subchapter_name: What birds hear
+  title: Red junglefowl
+59:
+  chapter_name: '4: How a Bird Gets Its Song'
+  explores: ''
+  filename: 4.1_NoBo
+  from_page: 44
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: NoBo-RR-NBobwhite
+  songs: '136'
+  subchapter_name: Inborn songs
+  title: Northern bobwhite
+60:
+  chapter_name: '4: How a Bird Gets Its Song'
+  explores: ''
+  filename: 4.1_MoDo
+  from_page: 45
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: MoDo-WH-20030209_Mourning_Dove_WH_C2FS0743
+  songs: 137-138
+  subchapter_name: Inborn songs
+  title: Mourning dove
+61:
+  chapter_name: '4: How a Bird Gets Its Song'
+  explores: ''
+  filename: 4.1_ECDo
+  from_page: 45
+  pictures:
+  - photo_caption: Photo by Laure Wilson Neish
+    photo_file: EuCoDo-LW-EuDoDo_IMG_3706
+  songs: '139'
+  subchapter_name: Inborn songs
+  title: Eurasian collared dove
+62:
+  chapter_name: '4: How a Bird Gets Its Song'
+  explores: ''
+  filename: 4.1_AlFl
+  from_page: 45
+  pictures:
+  - photo_caption: 'Alder flycatcher
+
+      Photo by Brian E. Small'
+    photo_file: AlFl-BS-Alder_Flycatcher_T0B64355
+  - photo_caption: 'Willow flycatcher
+
+      Photo by Brian E. Small'
+    photo_file: WiFl-BS-Willow_Flycatcher_DX_63495
+  songs: 140-147
+  subchapter_name: Inborn songs
+  title: Alder flycatcher, willow flycatcher
+63:
+  chapter_name: '4: How a Bird Gets Its Song'
+  explores: '22'
+  filename: 4.1_EaPh
+  from_page: 46
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: EaPh-MR-EPhoebeNestMat_6573_Read
+  songs: 148-154
+  subchapter_name: Inborn songs
+  title: Eastern phoebe
+64:
+  chapter_name: '4: How a Bird Gets Its Song'
+  explores: '23'
+  filename: 4.2_ReVi
+  from_page: 48
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: ReVi-BS-Red-eyed_Vireo_T0B26149
+  songs: 155-158
+  subchapter_name: Improvised songs
+  title: Red-eyed vireo
+65:
+  chapter_name: '4: How a Bird Gets Its Song'
+  explores: ''
+  filename: 4.2_SeWr
+  from_page: 48
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: SeWr-WH-20120512_Sedge_wren_MN_WH_MG_7686
+  songs: '159'
+  subchapter_name: Improvised songs
+  title: Sedge wren
+66:
+  chapter_name: '4: How a Bird Gets Its Song'
+  explores: ''
+  filename: 4.2_GrCa
+  from_page: 49
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: GrCa-BS-Gray_Catbird_B9H23152
+  songs: 160-161
+  subchapter_name: Improvised songs
+  title: Gray catbird
+67:
+  chapter_name: '4: How a Bird Gets Its Song'
+  explores: ''
+  filename: 4.3_WaVi
+  from_page: 50
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: WaVi-WH-Warbling_vireo_WH_Warbling_vireo_WH_-9548
+  songs: 162-163
+  subchapter_name: Learned songs of songbirds, and babbling
+  title: Warbling vireo
+68:
+  chapter_name: '4: How a Bird Gets Its Song'
+  explores: ''
+  filename: 4.3_ReVi
+  from_page: 50
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: ReVi-RR-Red-eyedVireo
+  songs: 164-165
+  subchapter_name: Learned songs of songbirds, and babbling
+  title: Red-eyed vireo
+69:
+  chapter_name: '4: How a Bird Gets Its Song'
+  explores: ''
+  filename: 4.3_CarWr1
+  from_page: 51
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: CarWr-WH-20121229_Carolina_Wren_WH__MG_9086
+  songs: 166-168
+  subchapter_name: Learned songs of songbirds, and babbling
+  title: Carolina wren
+70:
+  chapter_name: '4: How a Bird Gets Its Song'
+  explores: ''
+  filename: 4.3_SoSp
+  from_page: 51
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: SoSp-WH-Song_sparrow_WH_C2FS5178
+  songs: 169-170
+  subchapter_name: Learned songs of songbirds, and babbling
+  title: Song sparrow
+71:
+  chapter_name: '4: How a Bird Gets Its Song'
+  explores: '24'
+  filename: 4.3_WtSp1
+  from_page: 52
+  pictures:
+  - photo_caption: Photo by Laure Wilson Neish
+    photo_file: WtSp-LW-WtSp_3U0C6450
+  songs: 171-172
+  subchapter_name: Learned songs of songbirds, and babbling
+  title: White-throated sparrow
+72:
+  chapter_name: '4: How a Bird Gets Its Song'
+  explores: ''
+  filename: 4.3_InBu
+  from_page: 53
+  pictures:
+  - photo_caption: 'First year male
+
+      Photo by Marie Read'
+    photo_file: InBu-MR-IndBuntingFirstYrM_1869_Read
+  - photo_caption: '2nd year or older male
+
+      Photo by Marie Read'
+    photo_file: InBu-MR-IndBuntingM_B1671242_Read
+  songs: 173-175
+  subchapter_name: Learned songs of songbirds, and babbling
+  title: Indigo bunting
+73:
+  chapter_name: '4: How a Bird Gets Its Song'
+  explores: ''
+  filename: 4.3_TeWa
+  from_page: 53
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: TeWa-BS-Tennessee_Warbler_D4_58423
+  songs: 176-177
+  subchapter_name: Learned songs of songbirds, and babbling
+  title: Tennessee warbler
+74:
+  chapter_name: '4: How a Bird Gets Its Song'
+  explores: ''
+  filename: 4.3_AmRe
+  from_page: 53
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: AmRe-BS-American_Redstart_D4_99987
+  songs: 178-179
+  subchapter_name: Learned songs of songbirds, and babbling
+  title: American redstart
+75:
+  chapter_name: '4: How a Bird Gets Its Song'
+  explores: ''
+  filename: 4.3_MaWa
+  from_page: 54
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: MaWa-BbJ-433b-mawa-rt-up-brnch-PP-02-05
+  songs: 180-181
+  subchapter_name: Learned songs of songbirds, and babbling
+  title: Magnolia warbler
+76:
+  chapter_name: '4: How a Bird Gets Its Song'
+  explores: ''
+  filename: 4.3_WtSp2
+  from_page: 54
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: WtSp-BbJ-494b-wtsp-left-song-CPk-04-04-17_9595_copy
+  songs: 182-183
+  subchapter_name: Learned songs of songbirds, and babbling
+  title: White-throated sparrow
+77:
+  chapter_name: '4: How a Bird Gets Its Song'
+  explores: '25'
+  filename: 4.3_CarWr2
+  from_page: 55
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: CarWr-BbJ-384-cawr-head-turn_Bos-10-04-24_8535
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: ERROR
+  songs: 184-187
+  subchapter_name: Learned songs of songbirds, and babbling
+  title: Carolina wren
+78:
+  chapter_name: '5: More about Song Learning'
+  explores: ''
+  filename: 5.1_ChSp
+  from_page: 56
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: ChSp-MR-ChipSparrowRedbud_9231_Read
+  songs: 188-199
+  subchapter_name: 'Big decisions: When, where, and from whom to learn'
+  title: Chipping sparrow
+79:
+  chapter_name: '5: More about Song Learning'
+  explores: ''
+  filename: 5.1_InBu
+  from_page: 57
+  pictures:
+  - photo_caption: 'Indigo bunting
+
+      Photo by obert Royse'
+    photo_file: InBu-RR-IndigoBunting
+  - photo_caption: 'Lazuli bunting
+
+      Photo by Robert Royse'
+    photo_file: LazBu-RR-LazuliBunting
+  songs: 200-209
+  subchapter_name: 'Big decisions: When, where, and from whom to learn'
+  title: Indigo bunting, lazuli bunting
+80:
+  chapter_name: '5: More about Song Learning'
+  explores: '26'
+  filename: 5.1_CoYe
+  from_page: 58
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: CoYe-WH-Common_yellowthroat_C2FS3631_WH
+  songs: 210-221
+  subchapter_name: 'Big decisions: When, where, and from whom to learn'
+  title: Common yellowthroat
+81:
+  chapter_name: '5: More about Song Learning'
+  explores: '27'
+  filename: 5.2_CoRa
+  from_page: 59
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: CoRa-WH-Raven_WH_MG_2907
+  songs: 222-223
+  subchapter_name: Song (and call) matching
+  title: Common raven
+82:
+  chapter_name: '5: More about Song Learning'
+  explores: ''
+  filename: 5.2_NoCa
+  from_page: 59
+  pictures:
+  - photo_caption: 'Northern cardinal
+
+      Photo by Wil Hershberger'
+    photo_file: NoCa-WH-20160202_Northern_Cardinal_male_WH__L1A2386
+  - photo_caption: 'Pyrrhuloxia
+
+      Photo by Marie Read'
+    photo_file: Pyrr-MR-PyrrhuloxiaM_0978_Read
+  songs: 224-226
+  subchapter_name: Song (and call) matching
+  title: Northern cardinal, pyrrhuloxia
+83:
+  chapter_name: '5: More about Song Learning'
+  explores: '28'
+  filename: 5.2_MaWr
+  from_page: 60
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: MaWr-BS-Marsh_Wren_DX_64780
+  songs: 227-233
+  subchapter_name: Song (and call) matching
+  title: Marsh wren
+84:
+  chapter_name: '5: More about Song Learning'
+  explores: ''
+  filename: 5.2_BrTh
+  from_page: 61
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: BrTh-BS-2-Brown_Thrasher_04
+  songs: 234-237
+  subchapter_name: Song (and call) matching
+  title: Brown thrasher
+85:
+  chapter_name: '5: More about Song Learning'
+  explores: ''
+  filename: 5.2_NoMo
+  from_page: 62
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: NoMo-BbJ-411a-nomo-prchthorns-AZ-04-01-31_3721CS
+  songs: '238'
+  subchapter_name: Song (and call) matching
+  title: Northern mockingbird
+86:
+  chapter_name: '5: More about Song Learning'
+  explores: '29'
+  filename: 5.2_OaTi
+  from_page: 63
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: OaTi-RR-OakTitmouse
+  songs: '239'
+  subchapter_name: Song (and call) matching
+  title: Oak titmouse
+87:
+  chapter_name: '5: More about Song Learning'
+  explores: ''
+  filename: 5.3_WcSp
+  from_page: 64
+  pictures:
+  - photo_caption: Photo by Laure Wilson Neish
+    photo_file: WcSp-LW-WCSP_9284
+  songs: 240-254
+  subchapter_name: Song (and call) dialects
+  title: White-crowned sparrow
+88:
+  chapter_name: '5: More about Song Learning'
+  explores: '30'
+  filename: 5.3_BcCh
+  from_page: 64
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: BcCh-BbJ-374-bcch-pine-2-VNC-05-10-04_0182
+  songs: 255-258
+  subchapter_name: Song (and call) dialects
+  title: Black-capped chickadee
+89:
+  chapter_name: '5: More about Song Learning'
+  explores: '31'
+  filename: 5.3_Dick
+  from_page: 65
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: Dick-RR-Dickcissel1
+  songs: 259-270
+  subchapter_name: Song (and call) dialects
+  title: Dickcissel
+90:
+  chapter_name: '5: More about Song Learning'
+  explores: ''
+  filename: 5.3_ATSp
+  from_page: 66
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: AmTrSp-WH-20031115_American_Tree_Sparrow_WH_C2FS2263
+  songs: 271-281
+  subchapter_name: Song (and call) dialects
+  title: American tree sparrow
+91:
+  chapter_name: '5: More about Song Learning'
+  explores: ''
+  filename: 5.3_FoSp
+  from_page: 66
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: FoSp-RR-FoxSparrow-Red
+  songs: 282-290
+  subchapter_name: Song (and call) dialects
+  title: Fox sparrow
+92:
+  chapter_name: '5: More about Song Learning'
+  explores: ''
+  filename: 5.3_VeSp
+  from_page: 67
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: VeSp-WH-20030424_Vesper_sparrow_WH_MG2604
+  songs: 291-297
+  subchapter_name: Song (and call) dialects
+  title: Vesper sparrow
+93:
+  chapter_name: '5: More about Song Learning'
+  explores: '32'
+  filename: 5.3_WtSp
+  from_page: 67
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: WtSp-WH-White-throated_sparrow_WH__WIL0981
+  songs: 298-307
+  subchapter_name: Song (and call) dialects
+  title: White-throated sparrow
+94:
+  chapter_name: '5: More about Song Learning'
+  explores: ''
+  filename: 5.3_Bobo
+  from_page: 68
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: Bobo-MR-BobolinkM_B16314R_Read
+  songs: 308-314
+  subchapter_name: Song (and call) dialects
+  title: Bobolink
+95:
+  chapter_name: '5: More about Song Learning'
+  explores: ''
+  filename: 5.3_AnHu
+  from_page: 69
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: AnHu-BbJ-298a-anhu_AZ-15-11-16_0658
+  songs: 315-324
+  subchapter_name: Song (and call) dialects
+  title: "Anna\u2019s hummingbird"
+96:
+  chapter_name: '5: More about Song Learning'
+  explores: '33'
+  filename: 5.3_RwBl
+  from_page: 70
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: RwBl-BbJ-513-rwbl_strut!_Noho-13-05-07_0655
+  songs: 325-329
+  subchapter_name: Song (and call) dialects
+  title: Red-winged blackbird
+97:
+  chapter_name: '5: More about Song Learning'
+  explores: ''
+  filename: 5.3_BhCo
+  from_page: 71
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: BhCo-MR-BHCowbirdM_B163522_Read
+  songs: 330-332
+  subchapter_name: Song (and call) dialects
+  title: Brown-headed cowbird
+98:
+  chapter_name: '5: More about Song Learning'
+  explores: ''
+  filename: 5.3_ReCr
+  from_page: 72
+  pictures:
+  - photo_caption: Photo by Laure Wilson Neish
+    photo_file: ReCr-LW-ReCr_3U0C5656
+  songs: 333-334
+  subchapter_name: Song (and call) dialects
+  title: Red crossbill
+99:
+  chapter_name: '5: More about Song Learning'
+  explores: '34'
+  filename: 5.4_NoMo
+  from_page: 73
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: NoMo-MR-NMockingbirdSing_0165_Read
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: ERROR
+  songs: 335-342
+  subchapter_name: Mimicry
+  title: Northern mockingbird
+100:
+  chapter_name: '5: More about Song Learning'
+  explores: ''
+  filename: 5.4_EuSt
+  from_page: 76
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: EuSt-MR-EuStarling_B15208_Read
+  songs: 343-346
+  subchapter_name: Mimicry
+  title: European starling
+101:
+  chapter_name: '5: More about Song Learning'
+  explores: '35'
+  filename: 5.4_WeVi
+  from_page: 77
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: WeVi-RR-White-eyedVireo
+  songs: 347-351
+  subchapter_name: Mimicry
+  title: White-eyed vireo
+102:
+  chapter_name: '5: More about Song Learning'
+  explores: ''
+  filename: 5.4_StJa
+  from_page: 77
+  pictures:
+  - photo_caption: Photo by Laure Wilson Neish
+    photo_file: StJa-LW-STJA-flash_9069
+  songs: 352-355
+  subchapter_name: Mimicry
+  title: Steller's jay
+103:
+  chapter_name: '5: More about Song Learning'
+  explores: ''
+  filename: 5.4_BlJa
+  from_page: 78
+  pictures:
+  - photo_caption: OrOr-WH-Orchard_oriole_male_WH_Orchard_oriole_male_singing_WIL9447-Edit-3
+    photo_file: BlJa-WH-20030215_Blue_jay_WH_MG_0843-1
+  songs: 356-360
+  subchapter_name: Mimicry
+  title: Blue jay
+104:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.1_LeFl
+  from_page: 79
+  pictures:
+  - photo_caption: OrOr-WH-Orchard_oriole_male_WH_Orchard_oriole_male_singing_WIL9447-Edit-3
+    photo_file: LeFl-BS-Least_Flycatcher_05
+  songs: 361-362
+  subchapter_name: Song complexity
+  title: Least flycatcher
+105:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.1_HoSp
+  from_page: 80
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: HoSp-BS-House_Sparrow_T0B21566
+  songs: 363-368
+  subchapter_name: Song complexity
+  title: House sparrow
+106:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.1_CacWr
+  from_page: 80
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: CacWr-BbJ-390-cawr-rt-cactus-TX-05-02-19_7125
+  songs: '369'
+  subchapter_name: Song complexity
+  title: Cactus wren
+107:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.1_DeJu
+  from_page: 81
+  pictures:
+  - photo_caption: Photo by Laure Wilson Neish
+    photo_file: DeJu-LW-DEJU(m)_3141
+  songs: '370'
+  subchapter_name: Song complexity
+  title: Dark-eyed junco
+108:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.1_PaBu
+  from_page: 81
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: PaBu-BbJ-469b-pabu-TX-03-4-28a
+  songs: '371'
+  subchapter_name: Song complexity
+  title: Painted bunting
+109:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.1_HoWr
+  from_page: 82
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: HoWr-RR-HouseWren
+  songs: '372'
+  subchapter_name: Song complexity
+  title: House wren
+110:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.1_ToSo
+  from_page: 82
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: ToSo-WH-Towsends_solitaire_WH_MG_0768
+  songs: 373-376
+  subchapter_name: Song complexity
+  title: Townsend's solitaire
+111:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: '36'
+  filename: 6.1_SaTh
+  from_page: 83
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: SaTh-BS-Sage_Thrasher_D4_42558
+  songs: 377-378
+  subchapter_name: Song complexity
+  title: Sage thrasher
+112:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.2_OsFl
+  from_page: 84
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: OsFl-BS-Olive-sided_Flycatcher_T0B54334
+  songs: 379-381
+  subchapter_name: Small to large repertoires
+  title: Olive-sided flycatcher
+113:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.2_BlPh
+  from_page: 84
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: BlPh-RR-BlackPhoebe
+  songs: '382'
+  subchapter_name: Small to large repertoires
+  title: Black phoebe
+114:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: '37'
+  filename: 6.2_SaPh
+  from_page: 84
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: SaPh-WH-20120404_Says_phoebe_OK_WH_MG_3597
+  songs: 383-385
+  subchapter_name: Small to large repertoires
+  title: Say's phoebe
+115:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: '38'
+  filename: 6.2_RcKi
+  from_page: 86
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: RcKi-WH-20031110_Ruby-crowned_Kinglet_WH_C2FS2212
+  songs: 386-387
+  subchapter_name: Small to large repertoires
+  title: Ruby-crowned kinglet
+116:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.2_SaSp
+  from_page: 86
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: SaSp-RR-SavannahSparrow
+  songs: 388-390
+  subchapter_name: Small to large repertoires
+  title: Savannah sparrow
+117:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.2_TuTi
+  from_page: 87
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: TuTi-WH-20161028_Tufted_Titmouse_WH__WLH7502
+  songs: 391-392
+  subchapter_name: Small to large repertoires
+  title: Tufted titmouse
+118:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.2_CaCh
+  from_page: 87
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: CaCh-WH-20101101_Carolina_chickadee_WH_MG6845
+  songs: 393-395
+  subchapter_name: Small to large repertoires
+  title: Carolina chickadee
+119:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: '39'
+  filename: 6.2_HeTh
+  from_page: 88
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: HeTh-BS-Hermit_Thrush_T0B67408
+  songs: 396-399
+  subchapter_name: Small to large repertoires
+  title: Hermit thrush
+120:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: '40'
+  filename: 6.2_NoCa
+  from_page: 89
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: NoCa-BbJ-464b-noca-tree-cloned-CPk_04-1-15_4508
+  songs: 400-404
+  subchapter_name: Small to large repertoires
+  title: Northern cardinal
+121:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.2_RoWr
+  from_page: 90
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: RoWr-RR-RockWren
+  songs: 405-406
+  subchapter_name: Small to large repertoires
+  title: Rock wren
+122:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.2_SeWr
+  from_page: 91
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: SeWr-RR-SedgeWren
+  songs: 407-410
+  subchapter_name: Small to large repertoires
+  title: Sedge wren
+123:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: '41'
+  filename: 6.2_BrTh
+  from_page: 92
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: BrTh-BS-1-Brown_Thrasher_02
+  songs: 411-419
+  subchapter_name: Small to large repertoires
+  title: Brown thrasher
+124:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.3_EaTo
+  from_page: 94
+  pictures:
+  - photo_caption: 'Eastern towhee
+
+      Photo by Wil Hershberger'
+    photo_file: EaTo-WH-20040612_Eastern_Towhee_WH_C2FS1748
+  - photo_caption: 'Spotted towhee
+
+      Photo by Brian E. Small'
+    photo_file: SpTo-BS-Spotted_Towhee_T0B74201
+  songs: 420-424
+  subchapter_name: How a repertoire is delivered
+  title: Eastern towhee
+125:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.3_BtSp
+  from_page: 95
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: BtSp-BS-Black-throated_Sparrow_D4_2953
+  songs: '425'
+  subchapter_name: How a repertoire is delivered
+  title: Black-throated sparrow
+126:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.3_BaSp
+  from_page: 96
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: BaSp-RR-BachmansSparrow
+  songs: '426'
+  subchapter_name: How a repertoire is delivered
+  title: Bachman's sparrow
+127:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: '42'
+  filename: 6.3_CaSp
+  from_page: 96
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: CaSp-WH-20140531_Cassins_Sparrow_WH__MG_4681
+  songs: '427'
+  subchapter_name: How a repertoire is delivered
+  title: "Cassin\u2019s sparrow"
+128:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.3_ReVi
+  from_page: 98
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: ReVi-WH-Red-eyed_vireo_C2FS3699_WH
+  songs: 428-429
+  subchapter_name: How a repertoire is delivered
+  title: Red-eyed vireo
+129:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: '43'
+  filename: 6.3_PhVi
+  from_page: 98
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: PhVi-BS-Philadelphia_Vireo_D4_102414
+  songs: 430-432
+  subchapter_name: How a repertoire is delivered
+  title: Philadelphia vireo
+130:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: '44'
+  filename: 6.3_YbCh
+  from_page: 100
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: YbCh-RR-Y-bChat
+  songs: 433-434
+  subchapter_name: How a repertoire is delivered
+  title: Yellow-breasted chat
+131:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: '45'
+  filename: 6.3_YtVi
+  from_page: 101
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: YtVi-RR-Yellow-thrVireo
+  songs: 435-436
+  subchapter_name: How a repertoire is delivered
+  title: Yellow-throated vireo
+132:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.3_AmRo
+  from_page: 101
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: AmRo-MR-AmRobinCalling_1330_Read
+  songs: 437-438
+  subchapter_name: How a repertoire is delivered
+  title: American robin
+133:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: '46'
+  filename: 6.3_WoTh
+  from_page: 102
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: WoTh-BS-Wood_Thrush_B9H26486
+  songs: 439-444
+  subchapter_name: How a repertoire is delivered
+  title: Wood thrush
+134:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.4_CeWx
+  from_page: 104
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: CeWa-MR-CEWACrabapple_1762_Read
+  songs: 445-446
+  subchapter_name: What? &quot;Songbirds&quot; with no song?
+  title: Cedar waxwing
+135:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.4_EvGr
+  from_page: 104
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: EvGr-RR-EveningGrosbeak
+  songs: '447'
+  subchapter_name: What? &quot;Songbirds&quot; with no song?
+  title: Evening grosbeak
+136:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.4_AmCr
+  from_page: 105
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: AmCr-WH-20110417_American_crow_WH_MG0522
+  songs: 448-450
+  subchapter_name: What? &quot;Songbirds&quot; with no song?
+  title: American crow
+137:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.4_PiJa
+  from_page: 105
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: PiJa-RR-PinyonJay
+  songs: 451-452
+  subchapter_name: What? &quot;Songbirds&quot; with no song?
+  title: Pinyon jay
+138:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: ''
+  filename: 6.4_CbCh
+  from_page: 106
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: CbCh-RR-Chrstnut-backedChickadee
+  songs: 453-455
+  subchapter_name: What? &quot;Songbirds&quot; with no song?
+  title: Chestnut-backed chickadee
+139:
+  chapter_name: '6: Song Learning Often Creates Complex Songs and Large Repertoires'
+  explores: '47'
+  filename: 6.4_Bush
+  from_page: 107
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: Bush-BS-Bushtit_T0B72812
+  songs: '456'
+  subchapter_name: What? &quot;Songbirds&quot; with no song?
+  title: Bushtit
+140:
+  chapter_name: '7: When to Sing, and How '
+  explores: ''
+  filename: 7.1_PiWo
+  from_page: 108
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: PiWo-MR-PileatedWoodpF_9595_Read
+  songs: '457'
+  subchapter_name: How birds go to roost and awake
+  title: Pileated woodpecker
+141:
+  chapter_name: '7: When to Sing, and How '
+  explores: ''
+  filename: 7.1_WoTh
+  from_page: 109
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: WoTh-WH-20030504_Wood_Thrush_WH_C2FS3258
+  songs: '458'
+  subchapter_name: How birds go to roost and awake
+  title: Wood thrush
+142:
+  chapter_name: '7: When to Sing, and How '
+  explores: ''
+  filename: 7.1_GtGr
+  from_page: 109
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: GtGr-RR-Great-tailedGrackle1
+  songs: '459'
+  subchapter_name: How birds go to roost and awake
+  title: Great-tailed grackle
+143:
+  chapter_name: '7: When to Sing, and How '
+  explores: ''
+  filename: 7.1_BlJa
+  from_page: 110
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: BlJa-WH-Blue_jay_C2FS5973_levels_USM_NI_cropped_WH
+  songs: '460'
+  subchapter_name: How birds go to roost and awake
+  title: Blue jay
+144:
+  chapter_name: '7: When to Sing, and How '
+  explores: ''
+  filename: 7.1_SwTh
+  from_page: 110
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: SwTh-BS-Swainsons_Thrush_T0B29875
+  songs: '461'
+  subchapter_name: How birds go to roost and awake
+  title: Swainson's thrush
+145:
+  chapter_name: '7: When to Sing, and How '
+  explores: '48'
+  filename: 7.1_Veery
+  from_page: 110
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: Veery-RR-Veery
+  songs: '462'
+  subchapter_name: How birds go to roost and awake
+  title: Veery
+146:
+  chapter_name: '7: When to Sing, and How '
+  explores: 49, 50
+  filename: 7.1_NoMo
+  from_page: 111
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: NoMo-BbJ-411a-nomo-rt-dk-TX-05-02-19_7062
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: ERROR
+  songs: 463-476
+  subchapter_name: How birds go to roost and awake
+  title: Northern mockingbird
+147:
+  chapter_name: '7: When to Sing, and How '
+  explores: ''
+  filename: 7.2_GCFl
+  from_page: 113
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: GcFl-WH-Great_crested_flycatcher_050494_WH
+  songs: 477-478
+  subchapter_name: Energized dawn singing
+  title: Great crested flycatcher
+148:
+  chapter_name: '7: When to Sing, and How '
+  explores: ''
+  filename: 7.2_EaBl
+  from_page: 114
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: EaBl-BbJ-401b-eabl-m-moth!-NY-04-07-10_2541
+  songs: 479-480
+  subchapter_name: Energized dawn singing
+  title: Eastern bluebird
+149:
+  chapter_name: '7: When to Sing, and How '
+  explores: '51'
+  filename: 7.2_HoLa
+  from_page: 114
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: HoLa-WH-20120412_Horned_lark_CO_WH_MG_4331
+  songs: 481-484
+  subchapter_name: Energized dawn singing
+  title: Horned lark
+150:
+  chapter_name: '7: When to Sing, and How '
+  explores: ''
+  filename: 7.2_BhGr
+  from_page: 115
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: BhGr-MR-BHGrosbeakMSing_4768_Read
+  songs: 485-488
+  subchapter_name: Energized dawn singing
+  title: Black-headed grosbeak
+151:
+  chapter_name: '7: When to Sing, and How '
+  explores: '52'
+  filename: 7.2_YeWa
+  from_page: 115
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: YeWa-RR-YellowWarbler
+  songs: 489-490
+  subchapter_name: Energized dawn singing
+  title: Yellow warbler
+152:
+  chapter_name: '7: When to Sing, and How '
+  explores: ''
+  filename: 7.2_OrOr
+  from_page: 116
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: OrOr-WH-Orchard_oriole_male_WH_Orchard_oriole_male_singing_WIL9447-Edit-3
+  songs: 491-493
+  subchapter_name: Energized dawn singing
+  title: Orchard oriole
+153:
+  chapter_name: '7: When to Sing, and How '
+  explores: 53, 54
+  filename: 7.2_RwBl
+  from_page: 117
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: RwBl-MR-RWBlackbirdMTakeoff_1605_Read
+  songs: 494-496
+  subchapter_name: Energized dawn singing
+  title: Red-winged blackbird
+154:
+  chapter_name: '7: When to Sing, and How '
+  explores: ''
+  filename: 7.2_ChSp
+  from_page: 120
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: ChSp-WH-Chipping_sparrow_in_white_flowering_peach_tree_044860_WH
+  songs: 497-498
+  subchapter_name: Energized dawn singing
+  title: Chipping sparrow
+155:
+  chapter_name: '7: When to Sing, and How '
+  explores: ''
+  filename: 7.2_FiSp
+  from_page: 121
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: FiSp-WH-Field_sparrow_in_peach_trees_044796_WH
+  songs: 499-500
+  subchapter_name: Energized dawn singing
+  title: Field sparrow
+156:
+  chapter_name: '7: When to Sing, and How '
+  explores: '55'
+  filename: 7.2_BrSp
+  from_page: 121
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: BrSp-WH-20130516_Brewers_Sparrow_WH_MG_1509
+  songs: 501-505
+  subchapter_name: Energized dawn singing
+  title: Brewer's sparrow
+157:
+  chapter_name: '7: When to Sing, and How '
+  explores: 56, 57
+  filename: 7.2_CcSp
+  from_page: 122
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: CcSp-WH-20120510_Clay-colored_sparrow_ND_WH_MG_7027
+  songs: 506-508
+  subchapter_name: Energized dawn singing
+  title: Clay-colored sparrow
+158:
+  chapter_name: '7: When to Sing, and How '
+  explores: '58'
+  filename: 7.3_CWWi
+  from_page: 124
+  pictures:
+  - photo_caption: Photo by J. Turner, M. D./VIREO
+    photo_file: CWWi-VIREO-Chuck-wills-widow_t16-1-022
+  songs: 509-510
+  subchapter_name: Night singing
+  title: Chuck-will's-widow
+159:
+  chapter_name: '7: When to Sing, and How '
+  explores: '59'
+  filename: 7.3_BaOw
+  from_page: 124
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: BaOw-WH-C2FS9722
+  songs: '511'
+  subchapter_name: Night singing
+  title: Barred owl
+160:
+  chapter_name: '7: When to Sing, and How '
+  explores: ''
+  filename: 7.3_Limp
+  from_page: 125
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: Limp-BbJ-156a-limp-shell-C-a-FL-06-01-12_0728C
+  songs: '512'
+  subchapter_name: Night singing
+  title: Limpkin
+161:
+  chapter_name: '7: When to Sing, and How '
+  explores: ''
+  filename: 7.3_GBHe
+  from_page: 126
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: GbHe-MR-GreatBlueHeron_2326_Read
+  songs: '513'
+  subchapter_name: Night singing
+  title: Great blue heron
+162:
+  chapter_name: '7: When to Sing, and How '
+  explores: '60'
+  filename: 7.3_PuMar
+  from_page: 126
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: PuMar-BS-Purple_Martin_09
+  songs: 514-515
+  subchapter_name: Night singing
+  title: Purple martin
+163:
+  chapter_name: '7: When to Sing, and How '
+  explores: '61'
+  filename: 7.3_NoMo
+  from_page: 127
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: NoMo-WH-20031123_Northern_Mockingbird_WH_C2FS2785
+  - photo_caption: Photo by Robert Royse
+    photo_file: SaTh-RR-SageThrasher
+  songs: 516-531
+  subchapter_name: Night singing
+  title: Northern mockingbird
+164:
+  chapter_name: '7: When to Sing, and How '
+  explores: ''
+  filename: 7.3_CtWa
+  from_page: 128
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: CtWa-BS-Connecticut_Warbler_06
+  songs: '532'
+  subchapter_name: Night singing
+  title: Connecticut warbler
+165:
+  chapter_name: '7: When to Sing, and How '
+  explores: ''
+  filename: 7.3_GcTh
+  from_page: 128
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: GcTh-RR-Gray-cheekedThrush1
+  songs: '533'
+  subchapter_name: Night singing
+  title: Gray-cheeked thrush
+166:
+  chapter_name: '7: When to Sing, and How '
+  explores: '62'
+  filename: 7.3_Oven
+  from_page: 129
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: Oven-MR-Ovenbird_4620R_Read
+  songs: 534-535
+  subchapter_name: Night singing
+  title: Ovenbird
+167:
+  chapter_name: '7: When to Sing, and How '
+  explores: '63'
+  filename: 7.4_AmWo
+  from_page: 130
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: AmWo-WH-20110402_American_woodcock_WH_MG9984
+  songs: '536'
+  subchapter_name: Songs and calls in flight
+  title: American woodcock
+168:
+  chapter_name: '7: When to Sing, and How '
+  explores: ''
+  filename: 7.4_Will
+  from_page: 131
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: Will-BbJ-172-will-flight-CA-04-02-20_4456
+  songs: 537-538
+  subchapter_name: Songs and calls in flight
+  title: Willet
+169:
+  chapter_name: '7: When to Sing, and How '
+  explores: ''
+  filename: 7.4_RtHa
+  from_page: 132
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: RtHa-BbJ-122-rtha-close-NO-04-6-28-2288
+  songs: 539-541
+  subchapter_name: Songs and calls in flight
+  title: Red-tailed hawk
+170:
+  chapter_name: '7: When to Sing, and How '
+  explores: '64'
+  filename: 7.4_TrSw
+  from_page: 132
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: TrSw-BbJ-367b-trsw-side-orng-Noho-06-4-16_1095
+  songs: 542-543
+  subchapter_name: Songs and calls in flight
+  title: Tree swallow
+171:
+  chapter_name: '7: When to Sing, and How '
+  explores: ''
+  filename: 7.4_MoBl
+  from_page: 133
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: MoBl-BbJ-400b-mobl-wall-UT-06-05-31_4848
+  songs: '544'
+  subchapter_name: Songs and calls in flight
+  title: Mountain bluebird
+172:
+  chapter_name: '7: When to Sing, and How '
+  explores: ''
+  filename: 7.4_CoRe
+  from_page: 133
+  pictures:
+  - photo_caption: Photo by Laure Wilson Neish
+    photo_file: CoRe-LW-CoRe_IMG_2087
+  songs: '545'
+  subchapter_name: Songs and calls in flight
+  title: Common redpoll
+173:
+  chapter_name: '7: When to Sing, and How '
+  explores: ''
+  filename: 7.4_AmGo
+  from_page: 134
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: AmGo-WH-20050429_American_Goldfinch_male_WH_C2FS2879
+  songs: 546-547
+  subchapter_name: Songs and calls in flight
+  title: American goldfinch
+174:
+  chapter_name: '7: When to Sing, and How '
+  explores: ''
+  filename: 7.4_McLo
+  from_page: 134
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: McLo-WH-20120410_McCowns_longspur_CO_WH_MG_4037
+  songs: '548'
+  subchapter_name: Songs and calls in flight
+  title: "McCown\u2019s longspur"
+175:
+  chapter_name: '7: When to Sing, and How '
+  explores: '65'
+  filename: 7.4_LarBu
+  from_page: 134
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: LarBu-WH-20130515_Lark_Bunting_WH_MG_1382
+  songs: '549'
+  subchapter_name: Songs and calls in flight
+  title: Lark bunting
+176:
+  chapter_name: '7: When to Sing, and How '
+  explores: '66'
+  filename: 7.4_WeMe
+  from_page: 135
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: WeMe-WH-20140610_Western_Meadowlark_WH__MG_6896
+  songs: 550-552
+  subchapter_name: Songs and calls in flight
+  title: Western meadowlark
+177:
+  chapter_name: '8: How Songs Change over Space and Time'
+  explores: ''
+  filename: 8.1_ReJu
+  from_page: 137
+  pictures:
+  - photo_caption: Photo by Donald Kroodsma
+    photo_file: ReJu_DK_1-19_4578
+  songs: 553-554
+  subchapter_name: Each individual has its own song
+  title: Red junglefowl (chicken)
+178:
+  chapter_name: '8: How Songs Change over Space and Time'
+  explores: ''
+  filename: 8.1_Oven
+  from_page: 138
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: Oven-BbJ-448b-oven-singing-B-NO-04-06-09_1065
+  songs: 555-559
+  subchapter_name: Each individual has its own song
+  title: Ovenbird
+179:
+  chapter_name: '8: How Songs Change over Space and Time'
+  explores: ''
+  filename: 8.1_AmRe
+  from_page: 139
+  pictures:
+  - photo_caption: Photo by Laure Wilson Neish
+    photo_file: AmRe-LW-AMRE(m)_0234
+  songs: 560-566
+  subchapter_name: Each individual has its own song
+  title: American redstart
+180:
+  chapter_name: '8: How Songs Change over Space and Time'
+  explores: '67'
+  filename: 8.1_CsWa
+  from_page: 139
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: CsWa-WH-20130608_Chestnut-sided_Warbler_WH_MG_3737
+  songs: 567-572
+  subchapter_name: Each individual has its own song
+  title: Chestnut-sided warbler
+181:
+  chapter_name: '8: How Songs Change over Space and Time'
+  explores: '68'
+  filename: 8.2_RuGr
+  from_page: 141
+  pictures:
+  - photo_caption: Photo by Laure Wilson Neish
+    photo_file: RuGr-LW-RUGR-drum_7662
+  songs: 573-575
+  subchapter_name: Each species has its own song
+  title: Ruffed grouse
+182:
+  chapter_name: '8: How Songs Change over Space and Time'
+  explores: ''
+  filename: 8.2_WiFl
+  from_page: 142
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: WiFl-RR-WillowFlycatcher
+  songs: 576-578
+  subchapter_name: Each species has its own song
+  title: Willow flycatcher
+183:
+  chapter_name: '8: How Songs Change over Space and Time'
+  explores: ''
+  filename: 8.2_WaVi
+  from_page: 143
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: WaVi-BS-Warbling_Vireo_D4_102176
+  songs: 579-580
+  subchapter_name: Each species has its own song
+  title: Warbling vireo
+184:
+  chapter_name: '8: How Songs Change over Space and Time'
+  explores: ''
+  filename: 8.2_BeWr
+  from_page: 144
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: BeWr-BS-1-Bewicks_Wren_D4_28996
+  songs: 581-585
+  subchapter_name: Each species has its own song
+  title: "Bewick\u2019s wren"
+185:
+  chapter_name: '8: How Songs Change over Space and Time'
+  explores: ''
+  filename: 8.2_SeWr
+  from_page: 144
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: SeWr-BS-Sedge_Wren_02
+  songs: 586-589
+  subchapter_name: Each species has its own song
+  title: Sedge wren
+186:
+  chapter_name: '8: How Songs Change over Space and Time'
+  explores: '69'
+  filename: 8.2_FoSp
+  from_page: 145
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: FoSp-RR-FoxSparrow-Sooty
+  songs: 590-598
+  subchapter_name: Each species has its own song
+  title: Fox sparrow
+187:
+  chapter_name: '8: How Songs Change over Space and Time'
+  explores: ''
+  filename: 8.3_WeTa
+  from_page: 147
+  pictures:
+  - photo_caption: 'Western tanager
+
+      Photo by Marie Read'
+    photo_file: WeTa-MR-WesternTanagerM_4787_Read
+  - photo_caption: 'Scarlet tanager
+
+      Photo by Wil Hershberger'
+    photo_file: ScTa-WH-Scarlet_tanager_male_C2FS4044_WH
+  - photo_caption: 'Summer tanager
+
+      Photo by Marie Read'
+    photo_file: SuTa-MR-SummerTanagerMSing_0257R_Read
+  songs: 599-605
+  subchapter_name: Song changes over evolutionary time
+  title: Western tanager, scarlet tanager, summer tanager
+188:
+  chapter_name: '8: How Songs Change over Space and Time'
+  explores: ''
+  filename: 8.3_EWPe
+  from_page: 148
+  pictures:
+  - photo_caption: 'Western wood-pewee
+
+      Photo by Brian E. Small'
+    photo_file: WwPe-BS-Western_Wood-Pewee_D4_43761
+  - photo_caption: 'Eastern wood-pewee
+
+      Photo by John Van de Graaff'
+    photo_file: EwPe-BbJ-323b-ewpe-OH-06-05-12_2508-10x8
+  songs: 606-611
+  subchapter_name: Song changes over evolutionary time
+  title: Western wood-pewee, eastern wood-pewee
+189:
+  chapter_name: '8: How Songs Change over Space and Time'
+  explores: ''
+  filename: 8.3_WeKi
+  from_page: 149
+  pictures:
+  - photo_caption: 'Western kingbird
+
+      Photo by Brian E. Small'
+    photo_file: WeKi-BS-Western_Kingbird_02
+  - photo_caption: 'Eastern kingbird
+
+      Photo by Robert Royse'
+    photo_file: EaKi-RR-EKingbird
+  - photo_caption: 'Couch''s kingbird
+
+      Photo by Brian E. Small'
+    photo_file: CoKi-BS-Couchs_Kingbird_03
+  songs: 612-615
+  subchapter_name: Song changes over evolutionary time
+  title: Western kingbird, eastern kingbird, Couich's kingbird
+190:
+  chapter_name: '8: How Songs Change over Space and Time'
+  explores: '70'
+  filename: 8.3_WeMe
+  from_page: 150
+  pictures:
+  - photo_caption: 'Western meadowlark
+
+      Photo by Robert Royse'
+    photo_file: WeMe-RR-WMeadowlark
+  - photo_caption: 'Eastern meadowlark
+
+      Photo by Robert Royse'
+    photo_file: EaMe-RR-EMeadowlark
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: ERROR
+  songs: 616-629
+  subchapter_name: Song changes over evolutionary time
+  title: Western meadowlark, eastern meadowlark
+191:
+  chapter_name: '8: How Songs Change over Space and Time'
+  explores: '71'
+  filename: 8.3_Empidonax
+  from_page: 151
+  pictures:
+  - photo_caption: 'Acadian flycatcher
+
+      Photo by Brian E. Small'
+    photo_file: AcFl-BS-Acadian_Flycatcher_D4_96822
+  - photo_caption: 'Pacific-slope flycatcher
+
+      Photo by Brian E. Small'
+    photo_file: PsFl-BS-Pacific-slope_Flycatcher_B9H16095
+  - photo_caption: 'Yellow-bellied flycatcher
+
+      Photo by Brian E. Small'
+    photo_file: YbFl-BS-Yellow-bellied_Flycatcher_02
+  songs: 630-639
+  subchapter_name: Song changes over evolutionary time
+  title: Empixonax flycatchers
+192:
+  chapter_name: '9: Music to Our Ears'
+  explores: ''
+  filename: 9.1_Chorus
+  from_page: 153
+  pictures:
+  - photo_caption: 'Willow flycatcher
+
+      Photo by Brian E. Small'
+    photo_file: WiFl-BS-Willow_Flycatcher_DX_63495
+  - photo_caption: 'Yellow warbler
+
+      Photo by Robert Royse'
+    photo_file: YeWa-RR-YellowWarbler
+  - photo_caption: 'Orchard oriole
+
+      Photo by Wil Hershberger'
+    photo_file: OrOr-WH-Orchard_oriole_male_WH_Orchard_oriole_male_singing_WIL9447-Edit-3
+  songs: '640'
+  subchapter_name: The music in birdsong
+  title: A chorus of singers, at dawn
+193:
+  chapter_name: '9: Music to Our Ears'
+  explores: ''
+  filename: 9.1_CanWr
+  from_page: 154
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: CanWr-RR-CanyonWren
+  songs: 641-642
+  subchapter_name: The music in birdsong
+  title: "Ritardando\u2014canyon wren"
+194:
+  chapter_name: '9: Music to Our Ears'
+  explores: ''
+  filename: 9.1_FiSp
+  from_page: 154
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: FiSp-WH-20030424_Field_sparrow_WH_MG-4
+  songs: '643'
+  subchapter_name: The music in birdsong
+  title: "Accelerando\u2014field sparrow"
+195:
+  chapter_name: '9: Music to Our Ears'
+  explores: '72'
+  filename: 9.1_BcCh
+  from_page: 155
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: BcCh-BS-2-Black-capped_Chickadee_B9H4367
+  songs: 644-646
+  subchapter_name: The music in birdsong
+  title: "Pitch-shifting, retaining melody\u2014black-capped chickadee"
+196:
+  chapter_name: '9: Music to Our Ears'
+  explores: ''
+  filename: 9.1_HeTh
+  from_page: 156
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: HeTh-BbJ-409-heth-rt-close-hi-CPk-04-10-22_5252
+  songs: 647-648
+  subchapter_name: The music in birdsong
+  title: "Contrast\u2014hermit thrush"
+197:
+  chapter_name: '9: Music to Our Ears'
+  explores: ''
+  filename: 9.1_Oven
+  from_page: 157
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: Oven-MR-Ovenbird_4620R_Read
+  songs: '649'
+  subchapter_name: The music in birdsong
+  title: "Crescendo\u2014ovenbird "
+198:
+  chapter_name: '9: Music to Our Ears'
+  explores: ''
+  filename: 9.1_InBu
+  from_page: 157
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: InBu-BbJ-468b-inbu-male-Quabbin_Noho-14-05-26_4196
+  songs: '650'
+  subchapter_name: The music in birdsong
+  title: "Diminuendo\u2014indigo bunting"
+199:
+  chapter_name: '9: Music to Our Ears'
+  explores: '73'
+  filename: 9.1_BrTh
+  from_page: 158
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: BrTh-WH-Brown_thrasher_044992_WH
+  songs: '651'
+  subchapter_name: The music in birdsong
+  title: "Theme and variations\u2014brown thrasher"
+200:
+  chapter_name: '9: Music to Our Ears'
+  explores: ''
+  filename: 9.1_SeWr
+  from_page: 159
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: SeWr-BS-Sedge_Wren_04
+  songs: '652'
+  subchapter_name: The music in birdsong
+  title: "Improvising\u2014sedge wren"
+201:
+  chapter_name: '9: Music to Our Ears'
+  explores: ''
+  filename: 9.1_VaTh
+  from_page: 159
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: VaTh-BS-1-Varied_Thrush_T0B102048
+  songs: 653-656
+  subchapter_name: The music in birdsong
+  title: "Dissonance\u2014varied thrush"
+202:
+  chapter_name: '9: Music to Our Ears'
+  explores: '74'
+  filename: 9.1_LoSh
+  from_page: 160
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: LoSh-WH-20120404_Loggerhead_shrike_OK_WH_MG_3337
+  songs: '657'
+  subchapter_name: The music in birdsong
+  title: "Metronome\u2014loggerhead shrike "
+203:
+  chapter_name: '9: Music to Our Ears'
+  explores: ''
+  filename: 9.2_PuFi
+  from_page: 161
+  pictures:
+  - photo_caption: 'Male, 2nd year or older
+
+      Photo by Wil Hershberger'
+    photo_file: PuFi-WH-20110417_Purple_finch_WH_MG0497
+  - photo_caption: 'First-year male, or female
+
+      Photo by Wil Hershberger'
+    photo_file: PuFi-WH-20110417_Purple_finch_WH_MG0660
+  songs: '658'
+  subchapter_name: More music to our ears
+  title: Purple finch
+204:
+  chapter_name: '9: Music to Our Ears'
+  explores: ''
+  filename: 9.2_SwTh
+  from_page: 161
+  pictures:
+  - photo_caption: Photo by Laure Wilson Neish
+    photo_file: SwTh-LW-SWTH_9091
+  songs: 659-660
+  subchapter_name: More music to our ears
+  title: Swainson's thrush
+205:
+  chapter_name: '9: Music to Our Ears'
+  explores: ''
+  filename: 9.2_GcTh
+  from_page: 162
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: GcTh-RR-Gray-cheekedThrush2
+  songs: 661-662
+  subchapter_name: More music to our ears
+  title: Gray-cheeked thrush
+206:
+  chapter_name: '9: Music to Our Ears'
+  explores: ''
+  filename: 9.2_ScOr
+  from_page: 162
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: ScOr-BS-Scotts_Oriole_T0B82514
+  songs: 663-665
+  subchapter_name: More music to our ears
+  title: Scott's oriole
+207:
+  chapter_name: '9: Music to Our Ears'
+  explores: ''
+  filename: 9.2_RfWa
+  from_page: 162
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: RfWa-BS-Red-faced_Warbler_B9H28048
+  songs: 666-667
+  subchapter_name: More music to our ears
+  title: Red-faced warbler
+208:
+  chapter_name: '9: Music to Our Ears'
+  explores: '75'
+  filename: 9.2_UpSa
+  from_page: 163
+  pictures:
+  - photo_caption: Photo by Wil Hershberger
+    photo_file: UpSa-WH-20130525_Upland_Sandpiper_WH_MG_2571
+  songs: 668-669
+  subchapter_name: More music to our ears
+  title: Upland sandpiper
+209:
+  chapter_name: '9: Music to Our Ears'
+  explores: ''
+  filename: 9.3_CoLo
+  from_page: 164
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: CoLo-BbJ-025a-colo-chk-bk-green-ME-05-07-26_5046
+  songs: 670-672
+  subchapter_name: "Music to my ears\u2014author's choice"
+  title: Common loon
+210:
+  chapter_name: '9: Music to Our Ears'
+  explores: ''
+  filename: 9.3_BeVi
+  from_page: 164
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: BeVi-BS-Bells_Vireo_X2_14358
+  songs: '673'
+  subchapter_name: "Music to my ears\u2014author's choice"
+  title: Bell's vireo
+211:
+  chapter_name: '9: Music to Our Ears'
+  explores: ''
+  filename: 9.3_BaSw
+  from_page: 165
+  pictures:
+  - photo_caption: Photo by John Van de Graaff
+    photo_file: BaSw-BbJ-370-basw-rt-blu-ring-TX-03-04-27-0923
+  songs: 674-676
+  subchapter_name: "Music to my ears\u2014author's choice"
+  title: Barn swallow
+212:
+  chapter_name: '9: Music to Our Ears'
+  explores: ''
+  filename: 9.3_ClSw
+  from_page: 166
+  pictures:
+  - photo_caption: Photo by Marie Read
+    photo_file: ClSw-MR-CliffSwallow_0777_Read
+  songs: 677-679
+  subchapter_name: "Music to my ears\u2014author's choice"
+  title: Cliff swallow
+213:
+  chapter_name: '9: Music to Our Ears'
+  explores: ''
+  filename: 9.3_GtGr
+  from_page: 166
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: GtGr-RR-Great-tailedGrackle2
+  songs: 680-681
+  subchapter_name: "Music to my ears\u2014author's choice"
+  title: Great-tailed grackle
+214:
+  chapter_name: '9: Music to Our Ears'
+  explores: ''
+  filename: 9.3_WiWr
+  from_page: 166
+  pictures:
+  - photo_caption: Photo by Robert Royse
+    photo_file: WiWr-RR-WinterWren
+  songs: 682-684
+  subchapter_name: "Music to my ears\u2014author's choice"
+  title: Winter wren
+215:
+  chapter_name: '9: Music to Our Ears'
+  explores: 76, 77
+  filename: 9.3_BeWr
+  from_page: 167
+  pictures:
+  - photo_caption: Photo by Brian E. Small
+    photo_file: BeWr-BS-2-Bewicks_Wren_B9H18093
+  songs: 685-686
+  subchapter_name: "Music to my ears\u2014author's choice"
+  title: "Bewick\u2019s wren"
+216:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_EuBl
+  from_page: 169
+  pictures: []
+  songs: '687'
+  subchapter_name: More birds! More Sounds!&mdash;Americas
+  title: Eurasian blackbird
+217:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_RbNu
+  from_page: 169
+  pictures: []
+  songs: 688-690
+  subchapter_name: More birds! More Sounds!&mdash;Americas
+  title: Red-breasted nuthatch
+218:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_CoGr
+  from_page: 169
+  pictures: []
+  songs: 691-693
+  subchapter_name: More birds! More Sounds!&mdash;Americas
+  title: Common grackle
+219:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_BcTi
+  from_page: 169
+  pictures: []
+  songs: '694'
+  subchapter_name: More birds! More Sounds!&mdash;Americas
+  title: Black-crested titmouse
+220:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_BlGr
+  from_page: 169
+  pictures: []
+  songs: '695'
+  subchapter_name: More birds! More Sounds!&mdash;Americas
+  title: Blue grosbeak
+221:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_GcKi
+  from_page: 169
+  pictures: []
+  songs: '696'
+  subchapter_name: More birds! More Sounds!&mdash;Americas
+  title: Golden-crowned kinglet
+222:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_GcSp
+  from_page: 169
+  pictures: []
+  songs: '697'
+  subchapter_name: More birds! More Sounds!&mdash;Americas
+  title: Golden-crowned sparrow
+223:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_SeSp
+  from_page: 169
+  pictures: []
+  songs: 698-701
+  subchapter_name: More birds! More Sounds!&mdash;Americas
+  title: Seaside sparrow
+224:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_OlSp
+  from_page: 169
+  pictures: []
+  songs: '702'
+  subchapter_name: More birds! More Sounds!&mdash;Americas
+  title: Olive sparrow
+225:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_RcSp
+  from_page: 169
+  pictures: []
+  songs: 703-704
+  subchapter_name: More birds! More Sounds!&mdash;Americas
+  title: Rufous-crowned sparrow
+226:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_BhVi
+  from_page: 169
+  pictures: []
+  songs: '705'
+  subchapter_name: More birds! More Sounds!&mdash;Americas
+  title: Blue-headed vireo
+227:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_BcVi
+  from_page: 169
+  pictures: []
+  songs: 706-709
+  subchapter_name: More birds! More Sounds!&mdash;Americas
+  title: Black-capped vireo
+228:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_PlCh
+  from_page: 169
+  pictures: []
+  songs: '710'
+  subchapter_name: More birds! More Sounds!&mdash;Americas
+  title: Plain chachalaca
+229:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_MoOr
+  from_page: 169
+  pictures: []
+  songs: 711-712
+  subchapter_name: More birds! More Sounds!&mdash;Americas
+  title: Montezuma oropendola
+230:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_PlWhDu
+  from_page: 170
+  pictures: []
+  songs: '713'
+  subchapter_name: More birds! More Sounds!&mdash;Australia
+  title: Plumed whistling duck
+231:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_TbBo
+  from_page: 170
+  pictures: []
+  songs: 714-718
+  subchapter_name: More birds! More Sounds!&mdash;Australia
+  title: Tooth-billed bowerbird
+232:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_GrCa
+  from_page: 170
+  pictures: []
+  songs: '719'
+  subchapter_name: More birds! More Sounds!&mdash;Australia
+  title: Green catbird
+233:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_RbFW
+  from_page: 170
+  pictures: []
+  songs: '720'
+  subchapter_name: More birds! More Sounds!&mdash;Australia
+  title: Red-backed fairy-wren
+234:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_BeMi
+  from_page: 170
+  pictures: []
+  songs: '721'
+  subchapter_name: More birds! More Sounds!&mdash;Australia
+  title: Bell miner
+235:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_ScHo
+  from_page: 170
+  pictures: []
+  songs: '722'
+  subchapter_name: More birds! More Sounds!&mdash;Australia
+  title: Scarlet honeyeater
+236:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_Chow
+  from_page: 170
+  pictures: []
+  songs: 723-724
+  subchapter_name: More birds! More Sounds!&mdash;Australia
+  title: Chowchilla
+237:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_EaWh
+  from_page: 170
+  pictures: []
+  songs: 725-726
+  subchapter_name: More birds! More Sounds!&mdash;Australia
+  title: Eastern whipbird
+238:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_GoWh
+  from_page: 170
+  pictures: []
+  songs: 727-729
+  subchapter_name: More birds! More Sounds!&mdash;Australia
+  title: Golden whistler
+239:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_RuWh
+  from_page: 170
+  pictures: []
+  songs: '730'
+  subchapter_name: More birds! More Sounds!&mdash;Australia
+  title: Rufous whistler
+240:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_RuFa
+  from_page: 170
+  pictures: []
+  songs: '731'
+  subchapter_name: More birds! More Sounds!&mdash;Australia
+  title: Rufous fantail
+241:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_WiWa
+  from_page: 170
+  pictures: []
+  songs: '732'
+  subchapter_name: More birds! More Sounds!&mdash;Australia
+  title: Willie wagtail
+242:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_FoRa
+  from_page: 170
+  pictures: []
+  songs: '733'
+  subchapter_name: More birds! More Sounds!&mdash;Australia
+  title: Forest raven
+243:
+  chapter_name: '10: More birds! More Sounds!'
+  explores: ''
+  filename: 10_TaDe
+  from_page: 170
+  pictures: []
+  songs: '734'
+  subchapter_name: More birds! More Sounds!&mdash;Australia
+  title: Tasmanian devil
