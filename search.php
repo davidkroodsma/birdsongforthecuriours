@@ -47,7 +47,15 @@
            	    }
            	    elmnt.scrollIntoView();
            }
-       }
+
+          }
+          function update_url(new_url){
+          	window.history.pushState('page2', 'Title', new_url);
+          }
+
+
+
+
 	</script>
 	  <!--[if IE]>
 	<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
@@ -58,7 +66,7 @@
 		<nav>
 			<a id="toggle-menu" href="#"><i class="fas fa-bars"></i> Menu</a>
 			<ul>
-				<li><a href="index.php">Home</a></li>
+				<li><a href="index.php" >Home</a></li>
 				<li><a href="search.php">Listen &amp; Explore</a></li>
 				<li><a href="page.php">Look Inside</a></li>
 				<li><a href="learn-more.php">Learn More</a></li>
@@ -80,19 +88,19 @@
 		<div class="sidebar">
 			<ul id="menu" class="side">			
 				<li class="active">
-					<a href="#chapter-list"><i class="fas fa-book-open"></i> Listen by Chapter</a>
+					<a href="#chapter-list" onclick='update_url("search.php#chapter-list")'><i class="fas fa-book-open"></i> Listen by Chapter</a>
 				</li>
 	  			
 	  			<li>
-					<a href="#species-list"><i class="fas fa-dove"></i> Listen by Species</a>
+					<a href="#species-list" onclick='update_url("search.php#species-list")'><i class="fas fa-dove"></i> Listen by Species</a>
 				</li>
 	  			
 				<li>
-					<a href="#number-list"><i class="fas fa-hashtag"></i> Listen by Number</a>
+					<a href="#number-list" onclick='update_url("search.php#number-list")'><i class="fas fa-hashtag"></i> Listen by Number</a>
 				</li>
 	  			
 	  			<li>
-					<a href="#explore-list"><i class="fas fa-search"></i> Explore</a>
+					<a href="#explore-list" onclick='update_url("search.php#explore-list")'><i class="fas fa-search"></i> Explore</a>
 				</li>
 				
 			</ul><!--menu-->
@@ -139,14 +147,14 @@
 			<div id="number-list" class="switch">
 				<h2>Search Recordings by Number</h2>
 				
-				<h4><i class="fas fa-search"></i> Search for a recording by number:</h4>
+				<!-- <h4><i class="fas fa-search"></i> Search for a recording by number:</h4> 
 				
 				<form id="number-search-form" method="post" action="">
 					<input type="text" size="10" name="search-string" value="" />
 					<input type="button" name="submit" value="Search" />
-				</form>
+				</form>-->
 				
-				<h4>Or find your number in the following outline of the book:</h4>
+				<h4>Find your number in the following outline of the book:</h4>
 				
                 <?php require('scripts/recording_lookup.php'); ?>
 

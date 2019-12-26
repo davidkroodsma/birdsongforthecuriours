@@ -3,6 +3,17 @@
   $bird = (isset($_GET['page']))? $_GET['page'] : 1;
   include "scripts/lookup_php.php"; 
   include "scripts/explore_lookup.php";  
+
+  function webify_title($x) {
+               $x = str_replace(" ","_",$x);
+               $x = str_replace(":","",$x);
+               $x = str_replace(".","",$x);
+               $x = str_replace(";","",$x);
+               $x = str_replace(",","",$x);
+                #   return x.replace(" ","_").replace(":","").replace(".","").replace(";","")
+               return $x;
+
+           }
  
 ?>
 
@@ -95,8 +106,11 @@
 		<div class="main">
 			
 			<h2 class="species-name"><i class="fas fa-dove"></i><?php echo $species_names_headers[$bird] ?> </h2><!--Northern Cardinal</h2> -->
-			<h5 class="meta"><a href="search.php#chapter-list"><i class="fas fa-book-open"></i>Chapter <?php echo $web_chapters[$bird] ?>   <!-- Chapter 2:  Birds and Their Sounds--> </a></h5>
-			<h5 class="meta"><a href="search.php#chapter-list"><i class="fas fa-list"></i> Subchapter: <?php echo $subchapters[$bird] ?> <!-- Female song, and duets --></a></h5>
+			<h5 class="meta"><a href="search.php?expand=<?php 
+               echo webify_title($web_chapters[$bird]);
+			?>#chapter-list"><i class="fas fa-book-open"></i>Chapter <?php echo $web_chapters[$bird] ?>   <!-- Chapter 2:  Birds and Their Sounds--> </a></h5>
+			<h5 class="meta"><a href="search.php?expand=<?php echo webify_title($web_chapters[$bird]);?>&expand2=<?php echo webify_title($subchapters[$bird] ); ?>#chapter-list">
+				<i class="fas fa-list"></i> Subchapter: <?php echo $subchapters[$bird] ?> <!-- Female song, and duets --></a></h5>
 			<h5 class="meta"><i class="fas fa-bookmark"></i> From page <?php echo $from_pages[$bird] ?> in the book.</h5>
 			
             <?php include('scripts/Species_Image_HTML/'.$species_files[$bird].'_images.html') ;?>
@@ -139,7 +153,7 @@
 			-->
             
 
-           <?php if($explores[$bird]!="nan"){
+           <?php if($explores[$bird]!=""){
 
            	$explore_numbers = explode ( ", " , $explores[$bird]);
            	foreach ($explore_numbers as $value){

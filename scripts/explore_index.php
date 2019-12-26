@@ -1,4 +1,4 @@
-<li><a href="#"><i class="fas fa-plus-circle"></i> Explore 1-10</a>
+<li><a href="#" id="1-10"><i class="fas fa-plus-circle"></i> 1-10</a>
 						<ul class="show-hide">							<li><a href="explore.php?page=1">1.  Chick-a-dee calls of North American chickadees.</a></li>
 							<li><a href="explore.php?page=2">2.  White-breasted nuthatch songs.</a></li>
 							<li><a href="explore.php?page=3">3.  American robin songs.</a></li>
@@ -11,7 +11,7 @@
 							<li><a href="explore.php?page=10">10.  Whistling wings of mourning doves.</a></li>
 						</ul>
 					</li>
-<li><a href="#"><i class="fas fa-plus-circle"></i> Explore 11-20</a>
+<li><a href="#" id="11-20"><i class="fas fa-plus-circle"></i> 11-20</a>
 						<ul class="show-hide">							<li><a href="explore.php?page=11">11.  Peenting and VROOMing common nighthawks.</a></li>
 							<li><a href="explore.php?page=12">12.  Winnows of Wilson’s snipe.</a></li>
 							<li><a href="explore.php?page=13">13.  The “double-strike” of sapsuckers.</a></li>
@@ -24,7 +24,7 @@
 							<li><a href="explore.php?page=20">20.  Seeing the two voices of birds in sonagrams.</a></li>
 						</ul>
 					</li>
-<li><a href="#"><i class="fas fa-plus-circle"></i> Explore 21-30</a>
+<li><a href="#" id="21-30"><i class="fas fa-plus-circle"></i> 21-30</a>
 						<ul class="show-hide">							<li><a href="explore.php?page=21">21.  Playing songs at slower speeds, lower frequencies.</a></li>
 							<li><a href="explore.php?page=22">22.  No dialects in the innate songs of flycatchers, doves, etc. .</a></li>
 							<li><a href="explore.php?page=23">23.  Improvised songs of red-eyed vireos.</a></li>
@@ -37,7 +37,7 @@
 							<li><a href="explore.php?page=30">30.  Dialects in black-capped chickadee songs.</a></li>
 						</ul>
 					</li>
-<li><a href="#"><i class="fas fa-plus-circle"></i> Explore 31-40</a>
+<li><a href="#" id="31-40"><i class="fas fa-plus-circle"></i> 31-40</a>
 						<ul class="show-hide">							<li><a href="explore.php?page=31">31.  Bicycling among dickcissel song dialects.</a></li>
 							<li><a href="explore.php?page=32">32.  A road-trip through white-throated sparrow song dialects.</a></li>
 							<li><a href="explore.php?page=33">33.  Call matching by male red-winged blackbirds.</a></li>
@@ -50,7 +50,7 @@
 							<li><a href="explore.php?page=40">40.  Getting to know song repertoires of individual birds.</a></li>
 						</ul>
 					</li>
-<li><a href="#"><i class="fas fa-plus-circle"></i> Explore 41-50</a>
+<li><a href="#" id="41-50"><i class="fas fa-plus-circle"></i> 41-50</a>
 						<ul class="show-hide">							<li><a href="explore.php?page=41">41.  Patience in listening to songs of a brown thrasher.</a></li>
 							<li><a href="explore.php?page=42">42.  Once you are attuned, every singing bird becomes interesting.</a></li>
 							<li><a href="explore.php?page=43">43.  Song packages of the Philadelphia vireo.</a></li>
@@ -63,7 +63,7 @@
 							<li><a href="explore.php?page=50">50. Cardinals awaking—13 mornings to explore!</a></li>
 						</ul>
 					</li>
-<li><a href="#"><i class="fas fa-plus-circle"></i> Explore 51-60</a>
+<li><a href="#" id="51-60"><i class="fas fa-plus-circle"></i> 51-60</a>
 						<ul class="show-hide">							<li><a href="explore.php?page=51">51. Exploring horned lark singing with Raven Lite.</a></li>
 							<li><a href="explore.php?page=52">52. Warbler dawn choruses are special.</a></li>
 							<li><a href="explore.php?page=53">53. Individuality among red-winged blackbirds.</a></li>
@@ -76,7 +76,7 @@
 							<li><a href="explore.php?page=60">60. Purple martin song flights.</a></li>
 						</ul>
 					</li>
-<li><a href="#"><i class="fas fa-plus-circle"></i> Explore 61-70</a>
+<li><a href="#" id="61-70"><i class="fas fa-plus-circle"></i> 61-70</a>
 						<ul class="show-hide">							<li><a href="explore.php?page=61">61. Sage thrasher songs, through the night.</a></li>
 							<li><a href="explore.php?page=62">62. Flight songs of ovenbirds.</a></li>
 							<li><a href="explore.php?page=63">63. Get to know the American woodcock.</a></li>
@@ -89,7 +89,7 @@
 							<li><a href="explore.php?page=70">70. The joy of western meadowlark songs.</a></li>
 						</ul>
 					</li>
-<li><a href="#"><i class="fas fa-plus-circle"></i> Explore 71-77</a>
+<li><a href="#" id="71-77"><i class="fas fa-plus-circle"></i> 71-77</a>
 						<ul class="show-hide">							<li><a href="explore.php?page=71">71. Song changes over evolutionary time.</a></li>
 							<li><a href="explore.php?page=72">72. The curious case of pitch-shifting black-capped chickadees.</a></li>
 							<li><a href="explore.php?page=73">73. Themes and variations in birdsong.</a></li>
