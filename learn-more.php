@@ -33,12 +33,8 @@
 		<nav>
 			<a id="toggle-menu" href="#"><i class="fas fa-bars"></i> Menu</a>
 			<ul>
-				<li><a href="index.phpt">Home</a></li>
-				<li><a href="search.phpt">Listen &amp; Explore</a></li>
-				<li><a href="page.php">Look Inside</a></li>
-				<li><a href="learn-more.php">Learn More</a></li>
-				<!--<li><a href="page.php">Downloads</a></li>-->
-				<li><a href="#buy-popup" class="open-modal" rel="modal:open">Buy the Book</a></li>
+
+               <?php include "header.php"; ?>
 			</ul>
 		</nav>
 	</header>
@@ -69,10 +65,7 @@
 				<h5>Buy the book:</h5>
 					
 					<ul class="buy-links">
-						<li><a href="#">Barnes &amp; Noble</a></li>
-						<li><a href="#">Indie</a></li>
-						<li><a href="#">Amazon</a></li>
-						<li><a href="#">Powell's</a></li>
+<?php include "buy-links.php" ?>
 					</ul>
 				
 			</div>
@@ -174,10 +167,7 @@
 				<p><em><b>Birdsong for the Curious Naturalist</b></em> is available from the following retailers:</p>
 				
 				<ul class="buy-links">
-					<li><a href="#">Barnes &amp; Noble</a></li>
-					<li><a href="#">Indie</a></li>
-					<li><a href="#">Amazon</a></li>
-					<li><a href="#">Powell's</a></li>
+<?php include "buy-links.php" ?>
 				</ul>
 			</div>
 		</div>
