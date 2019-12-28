@@ -1,4 +1,4 @@
-<ul class="collapser"><li> <a href="#" id="2_Birds_and_Their_Sounds" onclick='update_url("?expand=2_Birds_and_Their_Sounds#species-list")'>
+<ul class="collapser"><li> <a href="#" id="2_Birds_and_Their_Sounds" onclick='update_url("?expand=2_Birds_and_Their_Sounds#chapter-list")'>
 <i class="fas fa-plus-circle"></i> 2: Birds and Their Sounds</a>
 						<ul class="show-hide collapser">
                         <li> <a href="#" id="Birds_sing_and_call onclick='update_url("?expand=2_Birds_and_Their_Sounds&expand2=Birds_sing_and_call#chapter-list")'><i class="fas fa-plus-circle"></i> Birds sing and call</a>
@@ -22,7 +22,7 @@
                                 <li><a href="recording.php?page=25">Mourning dove</a></li><li><a href="recording.php?page=26">Ruddy duck</a></li><li><a href="recording.php?page=27">Common nighthawk</a></li><li><a href="recording.php?page=28">Broad-tailed hummingbird</a></li><li><a href="recording.php?page=29">Wilson's snipe</a></li><li><a href="recording.php?page=30">Northern flicker</a></li><li><a href="recording.php?page=31">Pileated woodpecker</a></li><li><a href="recording.php?page=32">The sapsuckers</a></li>								</ul>
 							</li>
 						</ul>
-					</li><li> <a href="#" id="3_Why_and_How_Birds_Sing" onclick='update_url("?expand=3_Why_and_How_Birds_Sing#species-list")'>
+					</li><li> <a href="#" id="3_Why_and_How_Birds_Sing" onclick='update_url("?expand=3_Why_and_How_Birds_Sing#chapter-list")'>
 <i class="fas fa-plus-circle"></i> 3: Why and How Birds Sing</a>
 						<ul class="show-hide collapser">
                         <li> <a href="#" id="Why_sing? onclick='update_url("?expand=3_Why_and_How_Birds_Sing&expand2=Why_sing?#chapter-list")'><i class="fas fa-plus-circle"></i> Why sing?</a>
@@ -46,7 +46,7 @@
                                 <li><a href="recording.php?page=55">Henslow's sparrow</a></li><li><a href="recording.php?page=56">Pacific wren</a></li><li><a href="recording.php?page=57">Rock pigeon</a></li><li><a href="recording.php?page=58">Red junglefowl</a></li>								</ul>
 							</li>
 						</ul>
-					</li><li> <a href="#" id="4_How_a_Bird_Gets_Its_Song" onclick='update_url("?expand=4_How_a_Bird_Gets_Its_Song#species-list")'>
+					</li><li> <a href="#" id="4_How_a_Bird_Gets_Its_Song" onclick='update_url("?expand=4_How_a_Bird_Gets_Its_Song#chapter-list")'>
 <i class="fas fa-plus-circle"></i> 4: How a Bird Gets Its Song</a>
 						<ul class="show-hide collapser">
                         <li> <a href="#" id="Inborn_songs onclick='update_url("?expand=4_How_a_Bird_Gets_Its_Song&expand2=Inborn_songs#chapter-list")'><i class="fas fa-plus-circle"></i> Inborn songs</a>
@@ -62,7 +62,7 @@
                                 <li><a href="recording.php?page=67">Warbling vireo</a></li><li><a href="recording.php?page=68">Red-eyed vireo</a></li><li><a href="recording.php?page=69">Carolina wren</a></li><li><a href="recording.php?page=70">Song sparrow</a></li><li><a href="recording.php?page=71">White-throated sparrow</a></li><li><a href="recording.php?page=72">Indigo bunting</a></li><li><a href="recording.php?page=73">Tennessee warbler</a></li><li><a href="recording.php?page=74">American redstart</a></li><li><a href="recording.php?page=75">Magnolia warbler</a></li><li><a href="recording.php?page=76">White-throated sparrow</a></li><li><a href="recording.php?page=77">Carolina wren</a></li>								</ul>
 							</li>
 						</ul>
-					</li><li> <a href="#" id="5_More_about_Song_Learning" onclick='update_url("?expand=5_More_about_Song_Learning#species-list")'>
+					</li><li> <a href="#" id="5_More_about_Song_Learning" onclick='update_url("?expand=5_More_about_Song_Learning#chapter-list")'>
 <i class="fas fa-plus-circle"></i> 5: More about Song Learning</a>
 						<ul class="show-hide collapser">
                         <li> <a href="#" id="Big_decisions_When_where_and_from_whom_to_learn onclick='update_url("?expand=5_More_about_Song_Learning&expand2=Big_decisions_When_where_and_from_whom_to_learn#chapter-list")'><i class="fas fa-plus-circle"></i> Big decisions: When, where, and from whom to learn</a>
@@ -82,7 +82,7 @@
                                 <li><a href="recording.php?page=99">Northern mockingbird</a></li><li><a href="recording.php?page=100">European starling</a></li><li><a href="recording.php?page=101">White-eyed vireo</a></li><li><a href="recording.php?page=102">Steller's jay</a></li><li><a href="recording.php?page=103">Blue jay</a></li>								</ul>
 							</li>
 						</ul>
-					</li><li> <a href="#" id="6_Song_Learning_Often_Creates_Complex_Songs_and_Large_Repertoires" onclick='update_url("?expand=6_Song_Learning_Often_Creates_Complex_Songs_and_Large_Repertoires#species-list")'>
+					</li><li> <a href="#" id="6_Song_Learning_Often_Creates_Complex_Songs_and_Large_Repertoires" onclick='update_url("?expand=6_Song_Learning_Often_Creates_Complex_Songs_and_Large_Repertoires#chapter-list")'>
 <i class="fas fa-plus-circle"></i> 6: Song Learning Often Creates Complex Songs and Large Repertoires</a>
 						<ul class="show-hide collapser">
                         <li> <a href="#" id="Song_complexity onclick='update_url("?expand=6_Song_Learning_Often_Creates_Complex_Songs_and_Large_Repertoires&expand2=Song_complexity#chapter-list")'><i class="fas fa-plus-circle"></i> Song complexity</a>
@@ -102,7 +102,7 @@
                                 <li><a href="recording.php?page=134">Cedar waxwing</a></li><li><a href="recording.php?page=135">Evening grosbeak</a></li><li><a href="recording.php?page=136">American crow</a></li><li><a href="recording.php?page=137">Pinyon jay</a></li><li><a href="recording.php?page=138">Chestnut-backed chickadee</a></li><li><a href="recording.php?page=139">Bushtit</a></li>								</ul>
 							</li>
 						</ul>
-					</li><li> <a href="#" id="7_When_to_Sing_and_How_" onclick='update_url("?expand=7_When_to_Sing_and_How_#species-list")'>
+					</li><li> <a href="#" id="7_When_to_Sing_and_How_" onclick='update_url("?expand=7_When_to_Sing_and_How_#chapter-list")'>
 <i class="fas fa-plus-circle"></i> 7: When to Sing, and How </a>
 						<ul class="show-hide collapser">
                         <li> <a href="#" id="How_birds_go_to_roost_and_awake_Going_to_roost onclick='update_url("?expand=7_When_to_Sing_and_How_&expand2=How_birds_go_to_roost_and_awake_Going_to_roost#chapter-list")'><i class="fas fa-plus-circle"></i> How birds go to roost and awake: Going to roost</a>
@@ -126,7 +126,7 @@
                                 <li><a href="recording.php?page=167">American woodcock</a></li><li><a href="recording.php?page=168">Willet</a></li><li><a href="recording.php?page=169">Red-tailed hawk</a></li><li><a href="recording.php?page=170">Tree swallow</a></li><li><a href="recording.php?page=171">Mountain bluebird</a></li><li><a href="recording.php?page=172">Common redpoll</a></li><li><a href="recording.php?page=173">American goldfinch</a></li><li><a href="recording.php?page=174">McCown’s longspur</a></li><li><a href="recording.php?page=175">Lark bunting</a></li><li><a href="recording.php?page=176">Western meadowlark</a></li>								</ul>
 							</li>
 						</ul>
-					</li><li> <a href="#" id="8_How_Songs_Change_over_Space_and_Time" onclick='update_url("?expand=8_How_Songs_Change_over_Space_and_Time#species-list")'>
+					</li><li> <a href="#" id="8_How_Songs_Change_over_Space_and_Time" onclick='update_url("?expand=8_How_Songs_Change_over_Space_and_Time#chapter-list")'>
 <i class="fas fa-plus-circle"></i> 8: How Songs Change over Space and Time</a>
 						<ul class="show-hide collapser">
                         <li> <a href="#" id="Each_individual_has_its_own_song onclick='update_url("?expand=8_How_Songs_Change_over_Space_and_Time&expand2=Each_individual_has_its_own_song#chapter-list")'><i class="fas fa-plus-circle"></i> Each individual has its own song</a>
@@ -142,7 +142,7 @@
                                 <li><a href="recording.php?page=187">Western tanager, scarlet tanager, summer tanager</a></li><li><a href="recording.php?page=188">Western wood-pewee, eastern wood-pewee</a></li><li><a href="recording.php?page=189">Western kingbird, eastern kingbird, Couch's kingbird</a></li><li><a href="recording.php?page=190">Western meadowlark, eastern meadowlark</a></li><li><a href="recording.php?page=191">Empidonax flycatchers</a></li>								</ul>
 							</li>
 						</ul>
-					</li><li> <a href="#" id="9_Music_to_Our_Ears" onclick='update_url("?expand=9_Music_to_Our_Ears#species-list")'>
+					</li><li> <a href="#" id="9_Music_to_Our_Ears" onclick='update_url("?expand=9_Music_to_Our_Ears#chapter-list")'>
 <i class="fas fa-plus-circle"></i> 9: Music to Our Ears</a>
 						<ul class="show-hide collapser">
                         <li> <a href="#" id="The_music_in_birdsong onclick='update_url("?expand=9_Music_to_Our_Ears&expand2=The_music_in_birdsong#chapter-list")'><i class="fas fa-plus-circle"></i> The music in birdsong</a>
@@ -158,7 +158,7 @@
                                 <li><a href="recording.php?page=209">Common loon</a></li><li><a href="recording.php?page=210">Bell's vireo</a></li><li><a href="recording.php?page=211">Barn swallow</a></li><li><a href="recording.php?page=212">Cliff swallow</a></li><li><a href="recording.php?page=213">Great-tailed grackle</a></li><li><a href="recording.php?page=214">Winter wren</a></li><li><a href="recording.php?page=215">Bewick’s wren</a></li>								</ul>
 							</li>
 						</ul>
-					</li><li> <a href="#" id="10_More_birds!_More_Sounds!" onclick='update_url("?expand=10_More_birds!_More_Sounds!#species-list")'>
+					</li><li> <a href="#" id="10_More_birds!_More_Sounds!" onclick='update_url("?expand=10_More_birds!_More_Sounds!#chapter-list")'>
 <i class="fas fa-plus-circle"></i> 10: More birds! More Sounds!</a>
 						<ul class="show-hide collapser">
                         <li> <a href="#" id="More_birds!_More_Sounds!&mdashAmericas onclick='update_url("?expand=10_More_birds!_More_Sounds!&expand2=More_birds!_More_Sounds!&mdashAmericas#chapter-list")'><i class="fas fa-plus-circle"></i> More birds! More Sounds!&mdash;Americas</a>
