@@ -128,7 +128,7 @@
 				<li><a href="https://www.floridamuseum.ufl.edu/bird-sounds/ ">The Bird Sounds Database </a> at the Florida Museum of Natural History--sounds from over 3000 species of birds, all available online</li>
 				<li><a href="https://sounds.bl.uk/">The British Library</a> — An extensive, eclectic collection of earth sounds, including “Environment and Nature” <l/>
 				<li><a href="https://academy.allaboutbirds.org/avian-vocal-behavior-sound-visualizations/">. Avian Vocal Behavior—Sound Visualizations</a>. Sonagrams and accompanying sounds, illustrating Chapter 10 in the Handbook of Bird Biology, 3rd edition, from the Cornell Lab of Ornithology.</li>
-				<li><a href="http://listeningtoacontinentsing.com/">The companion website</a> to my book *Listening to a Continent Sing: Birdsong by Bicycle from the Atlantic to the Pacific*, — a sample of bird sounds from North America, rich in explanation as to what you are hearing.</li> </p>
+				<li><a href="http://listeningtoacontinentsing.com/">The companion website</a> to my book <i>Listening to a Continent Sing: Birdsong by Bicycle from the Atlantic to the Pacific<\i>, — a sample of bird sounds from North America, rich in explanation as to what you are hearing.</li> </p>
 				
 				
 				<p>4) The following books or websites provide additional perspectives on birdsong:</p>
