@@ -119,7 +119,7 @@
 			<div id="chapter-list" class="switch visible">
 				<h2>Search Recordings by Chapter</h2>
 				
-				<p>Listen by number, as referenced in the book’s text; state abbreviations are added as a prefix. Simply click on any of the 381 numbers, such as CO-280, where you’ll be whisked away to Colorado, listening to yellow-headed blackbirds.</p>
+				<p>Expand the series of chapter and subchapter headings to find the species discussed there.</p>
 				
 
 				<?php require('scripts/chapter_lookup.php'); ?>
@@ -129,7 +129,7 @@
 			<div id="species-list" class="switch">
 				<h2>Search Recordings by Species</h2>
 				
-				<p>Explanation text</p>
+				<p>Expand the taxonomic groupings to find your species. </p> 
 				<?php require('scripts/species_lookup.php'); ?>
 
 
