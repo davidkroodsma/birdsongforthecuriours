@@ -56,7 +56,7 @@
 	<section id="search">
 		<div class="wrap tight">
 			<h2 class="center">Listen &amp; Explore</h2>
-			<p class="lead center">Here are four ways you can explore <i>Birdsong for the Curious Naturalist<\i>.</p>
+			<p class="lead center">Here are four ways you can explore <i>Birdsong for the Curious Naturalist</i>.</p>
 
 			<ul id="menu" class="front">
 				<li>
