@@ -29,7 +29,28 @@
 	<script src="js/main.js"></script>
 	
 </head>
+
+    <script language="javascript">  
+
+	function play_single_sound(sound) {
+			document.getElementById(sound).play();
+	}
+
+	</script>
+
 <body class="front">
+
+<style>
+div#audio {
+	display: none;
+	overflow: hidden;
+}
+</style>
+
+<div id="audio"> 
+	<audio id="bewicks" src="songs/581_Bewick's_Wren.mp3" autobuffer="autobuffer"></audio>
+</div>
+
 	  <!--[if IE]>
 	<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
 	<![endif]-->
@@ -103,7 +124,7 @@
 				<li>
 				<img class="tns-lazy-img" src="img/samples/BaOr-MR-BaltOrioleMSing_9805R_Read.jpg" data-src="img/samples/BaOr-MR-BaltOrioleMSing_9805R_Read.jpg" alt="" /><i class="far fa-play-circle"></i><a href="#"><span>Bachman's sparrow</span></a><i class="fas fa-info-circle"></i></li>
 				<li>
-				<img class="tns-lazy-img" src="img/samples/BeWr-BS-1-Bewick's-Wren_D4_28996.jpg" data-src="img/samples/BeWr-BS-1-Bewick's-Wren_D4_28996.jpg" alt="" /><i class="far fa-play-circle"></i><a href="#"><span>Bewick's wren</span></a><a href="#"><i class="fas fa-info-circle"></i></a></li>
+				<img class="tns-lazy-img" src="img/samples/BeWr-BS-1-Bewick's-Wren_D4_28996.jpg" data-src="img/samples/BeWr-BS-1-Bewick's-Wren_D4_28996.jpg" alt="" /><a href="javascript:play_single_sound('bewicks');"><i class="far fa-play-circle"></i></a><a href="#"><span>Bewick's wren</span></a><a href="#"><i class="fas fa-info-circle"></i></a></li>
 				<li>
 				<img class="tns-lazy-img" src="img/samples/BrTh-WH-Brown_thrasher_WH_MG_1769.jpg" data-src="img/samples/BrTh-WH-Brown_thrasher_WH_MG_1769.jpg" alt="" /><i class="far fa-play-circle"></i><a href="#"><span>Brown thrasher</span></a><i class="fas fa-info-circle"></i></li>
 				<li>
