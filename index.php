@@ -103,7 +103,7 @@
 				<li>
 				<img class="tns-lazy-img" src="img/samples/BaOr-MR-BaltOrioleMSing_9805R_Read.jpg" data-src="img/samples/BaOr-MR-BaltOrioleMSing_9805R_Read.jpg" alt="" /><i class="far fa-play-circle"></i><a href="#"><span>Bachman's sparrow</span></a><i class="fas fa-info-circle"></i></li>
 				<li>
-				<img class="tns-lazy-img" src="img/samples/BeWr-BS-1-Bewick's-Wren_D4_28996.jpg" data-src="img/samples/BeWr-BS-1-Bewick's-Wren_D4_28996.jpg" alt="" /><i class="far fa-play-circle"></i><a href="#"><span>Bewick's wren</span></a><i class="fas fa-info-circle"></i></li>
+				<img class="tns-lazy-img" src="img/samples/BeWr-BS-1-Bewick's-Wren_D4_28996.jpg" data-src="img/samples/BeWr-BS-1-Bewick's-Wren_D4_28996.jpg" alt="" /><i class="far fa-play-circle"></i><a href="#"><span>Bewick's wren</span></a><a href="#"><i class="fas fa-info-circle"></i></a></li>
 				<li>
 				<img class="tns-lazy-img" src="img/samples/BrTh-WH-Brown_thrasher_WH_MG_1769.jpg" data-src="img/samples/BrTh-WH-Brown_thrasher_WH_MG_1769.jpg" alt="" /><i class="far fa-play-circle"></i><a href="#"><span>Brown thrasher</span></a><i class="fas fa-info-circle"></i></li>
 				<li>
