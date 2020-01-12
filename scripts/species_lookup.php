@@ -4,7 +4,7 @@
 							<li><em> Anatidae</em>
 								
 								<ul>
-									<li>Canada goose, <a href="recording.php?page=7">27-29</a>									<li>American wigeon, <a href="recording.php?page=14">40</a>									<li>Mallard, <a href="recording.php?page=8">30-31</a>									<li>Ruddy duck, <a href="recording.php?page=26">64</a>									<li>Plumed whistling duck, <a href="recording.php?page=230">713</a></li>
+									<li>Canada goose, <a href="recording.php?page=7">27-29</a>									<li>American wigeon, <a href="recording.php?page=14">40</a>									<li>Mallard, <a href="recording.php?page=8">30-31</a>									<li>Ruddy duck, <a href="recording.php?page=26">64</a></li>
 								</ul>
 							</li>						</ul>
 						
@@ -204,7 +204,7 @@
 							<li><em> Corvidae</em>
 								
 								<ul>
-									<li>Pinyon jay, <a href="recording.php?page=137">451</a>									<li>Steller's jay, <a href="recording.php?page=102">352-355</a>									<li>Blue jay, <a href="recording.php?page=103">356-360</a>,<a href="recording.php?page=143">460</a>									<li>California scrub-jay, <a href="recording.php?page=137">452</a>									<li>American crow, <a href="recording.php?page=136">448-450</a>									<li>Common raven, <a href="recording.php?page=81">222-223</a>									<li>Forest raven, <a href="recording.php?page=242">733</a></li>
+									<li>Pinyon jay, <a href="recording.php?page=137">451</a>									<li>Steller's jay, <a href="recording.php?page=102">352-355</a>									<li>Blue jay, <a href="recording.php?page=103">356-360</a>,<a href="recording.php?page=143">460</a>									<li>California scrub-jay, <a href="recording.php?page=137">452</a>									<li>American crow, <a href="recording.php?page=136">448-450</a>									<li>Common raven, <a href="recording.php?page=81">222-223</a></li>
 								</ul>
 							</li>						</ul>
 						
@@ -369,12 +369,12 @@
 							</li>						</ul>
 						
 					</li>
-					<li><a href="#" onclick='update_url("?expand=Australian_specialities#species-list")' id="Australian_specialities"><i class="fas fa-plus-circle"></i> Australian specialities</a>
+					<li><a href="#" onclick='update_url("?expand=Australian_specialties#species-list")' id="Australian_specialties"><i class="fas fa-plus-circle"></i> Australian specialties</a>
 						<ul class="show-hide">
 							<li><em> Anatidae</em>
 								
 								<ul>
-									<li>Canada goose, <a href="recording.php?page=7">27-29</a>									<li>American wigeon, <a href="recording.php?page=14">40</a>									<li>Mallard, <a href="recording.php?page=8">30-31</a>									<li>Ruddy duck, <a href="recording.php?page=26">64</a>									<li>Plumed whistling duck, <a href="recording.php?page=230">713</a></li>
+									<li>Plumed whistling duck, <a href="recording.php?page=230">713</a></li>
 								</ul>
 							</li>							<li><em> Ptilonorhynchidae</em>
 								
@@ -414,7 +414,7 @@
 							</li>							<li><em> Corvidae</em>
 								
 								<ul>
-									<li>Pinyon jay, <a href="recording.php?page=137">451</a>									<li>Steller's jay, <a href="recording.php?page=102">352-355</a>									<li>Blue jay, <a href="recording.php?page=103">356-360</a>,<a href="recording.php?page=143">460</a>									<li>California scrub-jay, <a href="recording.php?page=137">452</a>									<li>American crow, <a href="recording.php?page=136">448-450</a>									<li>Common raven, <a href="recording.php?page=81">222-223</a>									<li>Forest raven, <a href="recording.php?page=242">733</a></li>
+									<li>Forest raven, <a href="recording.php?page=242">733</a></li>
 								</ul>
 							</li>							<li><em> Dasyuridae</em>
 								
