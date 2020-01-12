@@ -27,13 +27,25 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.1/min/tiny-slider.js"></script>
 	
 	<script src="js/main.js"></script>
+	<?php include("g-tracking.php"); ?>
+
 	
 </head>
 
     <script language="javascript">  
 
+    var playing = "";
+
 	function play_single_sound(sound) {
-			document.getElementById(sound).play();
+		    if(playing != ""){
+		        document.getElementById(playing).pause();
+		    }
+		    if(playing==sound){
+		    	playing = "";
+		    }else{
+    			document.getElementById(sound).play();
+    			playing = sound;
+    		}
 	}
 
 	</script>
@@ -47,9 +59,11 @@ div#audio {
 }
 </style>
 
-<div id="audio"> 
+<!-- div id="audio"> 
 	<audio id="bewicks" src="songs/581_Bewick's_Wren.mp3" autobuffer="autobuffer"></audio>
-</div>
+</div> -->
+
+<?php include("index_audio.php"); ?>
 
 	  <!--[if IE]>
 	<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
@@ -111,7 +125,9 @@ div#audio {
 		
 		<div id="slider">
 			<ul class="samples-slider">
-				<li>
+				<?php include("bird_carousel.php") ?>
+
+<!-- 				<li>
 				<img class="tns-lazy-img" src="img/samples/AmRe-LW-AMRE(m)_0234.jpg" data-src="img/samples/AmRe-LW-AMRE(m)_0234.jpg" alt="" /><i class="far fa-play-circle"></i><a href="#"><span>American redstart</span></a><i class="fas fa-info-circle"></i></li>
 				<li>
 				<img class="tns-lazy-img" src="img/samples/AmRo-MR-AmRobinCalling_1330_Read.jpg" data-src="img/samples/AmRo-MR-AmRobinCalling_1330_Read.jpg" alt="" /><i class="far fa-play-circle"></i><a href="#"><span>American robin</span></a><i class="fas fa-info-circle"></i></li>
@@ -131,7 +147,7 @@ div#audio {
 				<img class="tns-lazy-img" src="img/samples/CaGo-MR-CAGOAggression_8680_Read.jpg" data-src="img/samples/CaGo-MR-CAGOAggression_8680_Read.jpg" alt="" /><i class="far fa-play-circle"></i><a href="#"><span>Canada goose</span></a><i class="fas fa-info-circle"></i></li>
 				<li>
 				<img class="tns-lazy-img" src="img/samples/CaSp-WH-20140531_Cassin's_Sparrow_WH__MG_4681.jpg" data-src="img/samples/CaSp-WH-20140531_Cassin's_Sparrow_WH__MG_4681.jpg" alt="" /><i class="far fa-play-circle"></i><a href="#"><span>Cassin's sparrow</span></a><i class="fas fa-info-circle"></i></li>
-			</ul>
+ -->			</ul>
 		</div>
 	</section>
 	
