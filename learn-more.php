@@ -78,17 +78,17 @@
 			
 			<div id="about-the-book" class="switch visible">
 				<h2>About the Book</h2>
-				<p>Birdsong for the Curious Naturalist is a basic, how-to guide that teaches anyone, from beginning to advanced bird-lover, how to listen to our singing planet. The approach is organized concept by concept, and nested within concepts, species by species.</p>
+				<p><i>Birdsong for the Curious Naturalist</i> is a basic, how-to guide that teaches anyone, from beginning to advanced bird-lover, how to listen to our singing planet. The approach is organized concept by concept, and nested within concepts, species by species.</p>
 				<p>The book, together with this website, is a guide to field-listening, a guide to appreciating a singing bird, with examples for over 200 species throughout North America. Accompanying these species accounts are 734 recordings, more than 75 hours of bird sounds all available for download and further study, to be experienced at the most basic or the most advanced level, as desired by the individual listener. You can listen to a single red-winged blackbird song, for example, or relish the entire hour of an energized male singing through the dawn chorus.</p>
 				<p>In addition, the 77 Explore sections guide the reader to simple yet profound listening experiences, each opportunity offering the listener the satisfaction of a journey of self-discovery. </p>
-				<p>Birdsong for the Curious Naturalist is your guide to listening, offering a life-changing immersion into the world of birdsong.
+				<p><i>Birdsong for the Curious Naturalist</i> is your guide to listening, offering a life-changing immersion into the world of birdsong.
 				To see what others are saying about the book, see The Reviews!</p>
 				
 			</div><!--about-the-book-->
 			
 			<div id="about-the-author" class="switch">
 				<h2>About the Author</h2>
-				<p>Donald Kroodsma is a world-renowned authority on birdsong and professor emeritus of ornithology at the University of Massachusetts, Amherst. As a research scientist, he published widely on birdsong for more than 50 years, receiving life-time achievement awards from the American Ornithologists’ Union, the Wilson Ornithological Society, and the American Birding Association. More recently he has authored books that introduce the general public to birdsong: The Singing Life of Birds (winner of the John Burroughs Medal), The Backyard Birdsong Guides, Birdsong by the Seasons, and Listening to a Continent Sing: Birdsong by Bicycle from the Atlantic to the Pacific. He lives in Hatfield, Massachusetts. For more information, see DonaldKroodsma.com.</p>
+				<p>Donald Kroodsma is a world-renowned authority on birdsong and professor emeritus of ornithology at the University of Massachusetts, Amherst. As a research scientist, he published widely on birdsong for more than 50 years, receiving life-time achievement awards from the American Ornithologists’ Union, the Wilson Ornithological Society, and the American Birding Association. More recently he has authored books that introduce the general public to birdsong: <i>The Singing Life of Birds</i> (winner of the John Burroughs Medal), <i>The Backyard Birdsong Guides</i>, <i>Birdsong by the Seasons</i>, and <i>Listening to a Continent Sing: Birdsong by Bicycle from the Atlantic to the Pacific</i>. He lives in Hatfield, Massachusetts. For more information, see DonaldKroodsma.com.</p>
 				
 			</div><!--about-the-author-->
 			
