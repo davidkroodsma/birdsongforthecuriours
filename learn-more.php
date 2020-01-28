@@ -129,7 +129,7 @@
 				<li><a href="https://osuc.biosci.ohio-state.edu/blb/">The Borror Laboratory of Bioacoustics at Ohio State University</a> — “one of the oldest and most extensive . . . collections of recorded animal sounds . . . in the world . . .”</li>
 				<li><a href="https://www.floridamuseum.ufl.edu/bird-sounds/ ">The Bird Sounds Database </a> at the Florida Museum of Natural History--sounds from over 3000 species of birds, all available online</li>
 				<li><a href="https://sounds.bl.uk/">The British Library</a> — An extensive, eclectic collection of earth sounds, including “Environment and Nature” <l/>
-				<li><a href="https://academy.allaboutbirds.org/avian-vocal-behavior-sound-visualizations/">. Avian Vocal Behavior—Sound Visualizations</a>. Sonagrams and accompanying sounds, illustrating Chapter 10 in the Handbook of Bird Biology, 3rd edition, from the Cornell Lab of Ornithology.</li>
+				<li><a href="https://academy.allaboutbirds.org/avian-vocal-behavior-sound-visualizations/"> Avian Vocal Behavior—Sound Visualizations</a>. Sonagrams and accompanying sounds, illustrating Chapter 10 in the Handbook of Bird Biology, 3rd edition, from the Cornell Lab of Ornithology.</li>
 				<li><a href="http://listeningtoacontinentsing.com/">The companion website</a> to my book <i>Listening to a Continent Sing: Birdsong by Bicycle from the Atlantic to the Pacific</i>, — a sample of bird sounds from North America, rich in explanation as to what you are hearing.</li> </p>
 				
 				
