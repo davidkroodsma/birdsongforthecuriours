@@ -78,17 +78,17 @@
 			
 			<div id="about-the-book" class="switch visible">
 				<h2>About the Book</h2>
-				<p>Birdsong for the Curious Naturalist is a basic, how-to guide that teaches anyone, from beginning to advanced bird-lover, how to listen to our singing planet. The approach is organized concept by concept, and nested within concepts, species by species.</p>
+				<p><i>Birdsong for the Curious Naturalist</i> is a basic, how-to guide that teaches anyone, from beginning to advanced bird-lover, how to listen to our singing planet. The approach is organized concept by concept, and nested within concepts, species by species.</p>
 				<p>The book, together with this website, is a guide to field-listening, a guide to appreciating a singing bird, with examples for over 200 species throughout North America. Accompanying these species accounts are 734 recordings, more than 75 hours of bird sounds all available for download and further study, to be experienced at the most basic or the most advanced level, as desired by the individual listener. You can listen to a single red-winged blackbird song, for example, or relish the entire hour of an energized male singing through the dawn chorus.</p>
 				<p>In addition, the 77 Explore sections guide the reader to simple yet profound listening experiences, each opportunity offering the listener the satisfaction of a journey of self-discovery. </p>
-				<p>Birdsong for the Curious Naturalist is your guide to listening, offering a life-changing immersion into the world of birdsong.
+				<p><i>Birdsong for the Curious Naturalist</i> is your guide to listening, offering a life-changing immersion into the world of birdsong.
 				To see what others are saying about the book, see The Reviews!</p>
 				
 			</div><!--about-the-book-->
 			
 			<div id="about-the-author" class="switch">
 				<h2>About the Author</h2>
-				<p>Donald Kroodsma is a world-renowned authority on birdsong and professor emeritus of ornithology at the University of Massachusetts, Amherst. As a research scientist, he published widely on birdsong for more than 50 years, receiving life-time achievement awards from the American Ornithologists’ Union, the Wilson Ornithological Society, and the American Birding Association. More recently he has authored books that introduce the general public to birdsong: The Singing Life of Birds (winner of the John Burroughs Medal), The Backyard Birdsong Guides, Birdsong by the Seasons, and Listening to a Continent Sing: Birdsong by Bicycle from the Atlantic to the Pacific. He lives in Hatfield, Massachusetts. For more information, see DonaldKroodsma.com.</p>
+				<p>Donald Kroodsma is a world-renowned authority on birdsong and professor emeritus of ornithology at the University of Massachusetts, Amherst. As a research scientist, he published widely on birdsong for more than 50 years, receiving life-time achievement awards from the American Ornithologists’ Union, the Wilson Ornithological Society, and the American Birding Association. More recently he has authored books that introduce the general public to birdsong: <i>The Singing Life of Birds</i> (winner of the John Burroughs Medal), <i>The Backyard Birdsong Guides</i>, <i>Birdsong by the Seasons</i>, and <i>Listening to a Continent Sing: Birdsong by Bicycle from the Atlantic to the Pacific</i>. He lives in Hatfield, Massachusetts. For more information, see DonaldKroodsma.com.</p>
 				
 			</div><!--about-the-author-->
 			
@@ -100,7 +100,7 @@
 			
 			<div id="credits" class="switch">
 				<h2>Credits</h2>
-				<p>A huge thank you to the photographers for sharing their hard-earned images: Wil Hershberger, Laure Wilson Neish, Marie Read, Robert Royse, Brian Small, and John Van de Graaff (see their respective websites). And an equally large thank you to the generous recordists for sharing their sounds: Mieko Aoki, Greg Budney, Greg Clark, Lang Elliott, Janet Grenzke, Wil Hershberger, Brad Jackson, Richard (Nels) Nelson, and Charlie Walcott. More thank you’s to Ethan Hazard-Watkins for web design, and for web development, David Kroodsma , Director of Research at Global Fishing Watch. </p>
+				<p>A huge thank you to the photographers for sharing their hard-earned images: <a href="https://https://natureimagesandsounds.com/">Wil Hershberger</a>, <a href="https://https://natureniche.zenfolio.com/">Laure Wilson Neish</a>, <a href="https://https://www.marieread.com/">Marie Read</a>, <a href="https://www.roysephotos.com/">Robert Royse</a>, <a href="https://https://www.briansmallphoto.com/">Brian Small</a>, and <a href="https://https://birdsbyjohn.com/">John Van de Graaff</a> (see their respective websites). And an equally large thank you to the generous recordists for sharing their sounds: Mieko Aoki, Greg Budney, Greg Clark, <a href="https://https://musicofnature.com/">Lang Elliott</a>, Janet Grenzke, <a href="https://link/">Wil Hershberger</a>, Brad Jackson, Richard (Nels) Nelson, and Charlie Walcott. More thank you’s to <a href="https://www.ehwdesign.com/">Ethan Hazard-Watkins</a> for web design, and for web development, <a href="https://https://globalfishingwatch.org/meet-the-team/"> David Kroodsma</a>, Director of Research and Innovation at Global Fishing Watch. </p>
 				
 			</div><!--credits-->
 			
@@ -129,8 +129,8 @@
 				<li><a href="https://osuc.biosci.ohio-state.edu/blb/">The Borror Laboratory of Bioacoustics at Ohio State University</a> — “one of the oldest and most extensive . . . collections of recorded animal sounds . . . in the world . . .”</li>
 				<li><a href="https://www.floridamuseum.ufl.edu/bird-sounds/ ">The Bird Sounds Database </a> at the Florida Museum of Natural History--sounds from over 3000 species of birds, all available online</li>
 				<li><a href="https://sounds.bl.uk/">The British Library</a> — An extensive, eclectic collection of earth sounds, including “Environment and Nature” <l/>
-				<li><a href="https://academy.allaboutbirds.org/avian-vocal-behavior-sound-visualizations/">. Avian Vocal Behavior—Sound Visualizations</a>. Sonagrams and accompanying sounds, illustrating Chapter 10 in the Handbook of Bird Biology, 3rd edition, from the Cornell Lab of Ornithology.</li>
-				<li><a href="http://listeningtoacontinentsing.com/">The companion website</a> to my book <i>Listening to a Continent Sing: Birdsong by Bicycle from the Atlantic to the Pacific<\i>, — a sample of bird sounds from North America, rich in explanation as to what you are hearing.</li> </p>
+				<li><a href="https://academy.allaboutbirds.org/avian-vocal-behavior-sound-visualizations/"> Avian Vocal Behavior—Sound Visualizations</a>. Sonagrams and accompanying sounds, illustrating Chapter 10 in the Handbook of Bird Biology, 3rd edition, from the Cornell Lab of Ornithology.</li>
+				<li><a href="http://listeningtoacontinentsing.com/">The companion website</a> to my book <i>Listening to a Continent Sing: Birdsong by Bicycle from the Atlantic to the Pacific</i>, — a sample of bird sounds from North America, rich in explanation as to what you are hearing.</li> </p>
 				
 				
 				<p>4) The following books or websites provide additional perspectives on birdsong:</p>
