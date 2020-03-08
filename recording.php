@@ -36,7 +36,7 @@
         -o-box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.3); box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.3); }
       .audiojs .play-pause { width: 25px; height: 20px; padding: 0px 8px 0px 0px; }
       .audiojs p { width: 25px; height: 20px; margin: -3px 0px 0px -1px; }
-      .audiojs .scrubber { background: #5a5a5a; width: 310px; height: 10px; margin: 5px; }
+      .audiojs .scrubber { background: #5a5a5a; width: 180px; height: 10px; margin: 5px; }
       .audiojs .progress { height: 10px; width: 0px; background: #ccc;
         background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #ccc), color-stop(0.5, #ddd), color-stop(0.51, #ccc), color-stop(1, #ccc));
         background-image: -moz-linear-gradient(center top, #ccc 0%, #ddd 50%, #ccc 51%, #ccc 100%); }
@@ -48,7 +48,7 @@
 
       .track-details { clear: both; 
       	               height: 20px; 
-      	               width: 448px; 
+      	               width: 148px; 
       	               padding: 0px 6px 0px 0px; 
       	              /* background: #eee; 
       	               color: #222; 
@@ -82,7 +82,7 @@
 	<script src="js/main.js"></script>
     <!--   <script src="./jquery.js"></script> -->
 
-	<script src="js/audio.js"></script>
+	<script src="js/audio.js?2"></script>
 	<script>
       var a = audiojs;
       a.events.ready(function() {
