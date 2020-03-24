@@ -13,18 +13,18 @@ individuals by their voices.
 red-winged blackbirds, and no doubt starlings. April 15, 2012. Hatfield,
 Massachusetts. (9:17)
 
+Play-691
+
 ♫692. Sensitize your grackle-listening ears first here, where I have
 excerpted from a longer recording three song renditions from each of three singers. March
 18, 2012. Hatfield, Massachusetts. (0:12)
+
+Play-692
 
 ♫693. Here's the longer recording from which those few songs of the
 breeding colony in ♫692 were extracted. Perhaps you can find more examples of
 songs from those three males, or listen for other individuals, but for
 the most part just enjoy the great variety of songs among the birds in
 this flock. March 18, 2012. Hatfield, Massachusetts. (10:18)
-
-Play-691
-
-Play-692
 
 Play-693
