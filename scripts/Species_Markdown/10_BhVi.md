@@ -11,7 +11,7 @@ Here's another vireo opportunity. How does the blue-headed vireo fit in
 with other vireos? What can you hear? What can you see in Raven Lite?
 How many different songs does he sing?
 
-♫705. Here is an early migrant in northern Michigan. Here is my vocal
+♫705. Here is an early migrant in northern Michigan, and here is my vocal
 summary at the end of the recording: "OK, Mr. Blue-headed vireo wins. He
 keeps moving north on me, and I walk to keep up, and every once in a
 while he goes into this little sputtering, singing routine. It's very
