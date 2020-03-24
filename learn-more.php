@@ -94,7 +94,7 @@
 			
 			<div id="enjoy-the-sounds" class="switch">
 				<h2>Enjoy the Sounds</h2>
-				<p class="lead">Here is a gentle reminder that these sounds are for your personal enjoyment, not for commercial use. Listen until your heart’s content, and then some more!</p>
+				<p class="lead">Here is a gentle reminder that these sounds are for your personal enjoyment, not for commercial use. Listen until your heart’s content, and then some more! Should you wish to download all of the sound files, or a large number of them, please write to me, as I could send you a link to make your task easier: dekroodsma AT gmail DOT com. </p>
 				
 			</div><!--enjoy-the-sounds-->
 			
