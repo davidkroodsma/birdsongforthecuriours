@@ -143,7 +143,7 @@
 			<h2><i class="fas fa-search"></i> <?php echo($titles_e[$page]);?><!--Explore #1: Chick-a-dee calls of North American chickadees.--></h2>
 			<h5 class="meta"><a href="search.php?expand=<?php 
                echo webify_title($chapters_e[$page]);
-			?>#chapter-list"><i class="fas fa-book-open"></i> Chapter 2:  Birds and Their Sounds</a></h5>
+			?>#chapter-list"><i class="fas fa-book-open"></i> <?php echo $chapters_e[$page] ?></a></h5>
 			<h5><a href="search.php?expand=<?php echo webify_title($chapters_e[$page]);?>&expand2=<?php echo webify_title($subchapters_e[$page] ); ?>#chapter-list"><i class="fas fa-list"></i> <?php echo $subchapters_e[$page]; ?></a></h5>
 			<h5 class="meta"><i class="fas fa-bookmark"></i> From page <?php echo $from_pages_e[$page]; ?> in the book.</h5>
              
